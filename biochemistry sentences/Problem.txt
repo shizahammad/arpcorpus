@@ -1,0 +1,142 @@
+﻿                Due to rapid growth of papers and scientific texts on the web, it has become difficult for the researchers to grasp on focal information.
+                An extraction process of rhetorical sentences has become one of the problems in the study of automatic text summarization with a rhetorical sentence basis.
+                This makes it increasingly difficult for the researchers in this area to keep up with the latest developments.
+                In spite of extensive prior research on document summarization, none of them to our knowledge has addressed the problem of summarization of related work, which is often found in scientific papers.
+                In this paper, we address the problem of related work summarization from scientific papers.
+                Time constraints often lead a reader of scientific paper to read only the title and abstract of the paper, but reading these parts is often ineffective.
+                Major domain databases offer large-scale archives of semi-structured results, but they tend to be incomplete or not up-to-date.
+                Despite significant adoption of online resources and advances in information retrieval technology, important barriers, such as lack of time and efficient access to answers, still challenge clinicians’ use of clinical knowledge resources.
+                In searching for relevant articles, using only keywords are not sufficient anymore.
+                Requiring large amounts of annotated data, these approaches are expensive to develop and port to different domains and tasks.
+                However, relying on fully supervised machine learning (ML) and a large body of annotated data, existing approaches are expensive to develop and port to different scientific domains and tasks.
+                Recent intensive research in natural language processing in the biological domain (bioNLP) has made major progress in the extraction of bio-named entities and biological interactions (e.g. [1—3]), but further advancement aimed at pinpointing and organizing factual information remains a challenge.
+                The nominal task of generating a coherent narrative summarizing a document is currently considered too problematic since it encompasses discourse understanding, abstraction, and language generation.
+                 Lightning has been one of the major problems for insulation design of power systems and it is still one of the main causes of forced outages in transmission and distribution lines.
+                Computation occurred within human brain is very much awesome and is not possible to be emulated 100% exactly in Artificial Intelligence (AI) method-based machines.
+                With the increase in the number of workstation and more and more sensors, some data may be facing problems on the storage, delay, channels limitation and congestion in the networks.
+                The purpose of this article is to describes explores ways to solve the difficult problems in the study of the intelligent information retrieval system.
+                On the other hand, strategic decision which impacts to the continuance of having a nation and having state is a critical and crucial matter, and it should be done in precise and quick manner especially in the case of contingency and faced to mutiple-data multiple-decision-alternative problems.
+                The Primitive algorithms which are used take Polynomial Time for computing such vector problems which are not fruitful for us, on the other hand, Quantum algorithms have the capability to solve such vector problems in a considerable amount of time by using Quantum-Mechanical operations.
+                This system have been processed manually where it is not efficient and time consuming.
+                The amount of computer viruses has grown significantly and antivirus software becomes inefficient when analyzing new threats.
+                But there was some problem to make robot for multi tasks.
+                On the other hand, it becomes too difficult to make objective decisions in some situations.
+                This process is causing time loose and also quite exhausting.
+                On the other hand, however, all of them are facing critical difficulties and lack of mutual understanding to each other.
+                It is found that the truly pertinent issues in developing and fielding AI systems are managerial rather than technical in nature.
+                It is argued that the artificial intelligence (AI) and robotics communities, although addressing similar problems, typically focus on very different aspects of those problems.
+                The focus of this paper is to analyze the supply chain routes by means of artificial intelligence techniques for reducing transportation costs.
+                Main challenge is to find adequate methods for searching large amounts of data or data lakes.
+                It is hard for tradition training method to satisfy the training requirement of new technology and equipment in the background of modern industry.
+                Traditional training methods were facing severe challenges.
+                Bioinformatics analysis based on microarray technology is facing serious challenges, due to the extremely high dimensionality of the gene expression data comparing to the typical small number of available samples.
+                Single artificial neural network was unstable and inaccurate for classification.
+                 But often this procedure greatly affects the playing experience and tends to create non-player characters which have non-human behavior which will cause the discontentment of users.
+                 Another problem with conventional methods is the lack of diversity in the behavior of agents.
+                 Creating different agent functions can be time consuming and therefore not feasible when a wide range of behavior is required.
+                 But the performance of the agents in most of the commercial video games will not improve and it can be seen that games only have a limited levels of difficulty.
+                 Another problem with hard coded methods is the difficulty of the game for beginners.
+                 There is also a problem with state space which greatly affect the performance of hard coded methods.
+                 However, there is a disadvantage of these algorithms for the difficult optimization problem.
+                 The exploitation capability of the algorithms is usually not sufficient.
+                A great number of the early algorithms are either limited to a specific class of geometric models or not sufficiently quick for specific applications.
+                 Large portions of the industries confront various difficulties for the safety of people because of the environment by which they are encompassed.
+                 In this paper, we firstly examine the circuit-device-interaction (CDI) issues to implement high-performance memory macro.
+                 Memory access has proven a major bottleneck in the pursuit of high-performance and low-power computing based on the von Neumann architecture (Fig. 1) [1].
+                 In many respects, farming and food processing have lagged other industries when it comes to adoption of innovative technology.
+                 Artificial intelligence technology is an opportunity for education, but it is also a challenge.
+                 At the same time, we must also consider the problems in artificial intelligence education, such as the fairness and inclusiveness of AI education.
+                 The systems are developing rapidly, but most of them focus on recognition of the collected information, not on the intelligent capability.
+                  But the development of the system is not easy, because the real world is collection of diverse and complex situations.
+                  However, many manufacturing problems are ill-defined with solutions that are not adequate for today's manufacturing environment.
+                  One of the most challenging problems in retrieving the location-aware information is to understand the cognitive behavior of users and suit into the current location.
+                  Several researchers have addressed the problem of audio classification problem.
+                   Designing an efficient web crawler has many challenges.
+                   One of these challenges is to find an appropriate architecture to distribute the crawling work over multiple machines .
+                   Another challenge is the refreshing policy of the local collection , since the web is changing very rabidly, it's very challenging to maintain the local copy up-to-date, and this requires studying the evolution of web pages.
+                   Downloading important pages first also presents yet another challenge.
+                   As the Web grows, and more e-learning content becomes available, discovering content relevant to the user query and suitable specifically from the e-learning perspective becomes increasingly hard.
+                   Appropriate information retrieval from search engines is a tedious task as there is a vast amount of information present on the web.
+                   Measurement of the information retrieval effectiveness of web search engines is an important problem because it can determine which of the available search engines can provide better results to its users.
+                   As a result finding the search engine with the highest effectiveness in retrieval of relevant documents is an important problem.
+                   As a consequence, a number of surveys address different ICN issues from general or specific  perspectives.
+                   However, images around the decision boundary are usually difficult to label.
+                   A user might find it hard to label images in between two categories.
+                   Such difficulties and noise from user feedback is not explicitly modeled or taken into account in most previous work.
+                   However, the level of trust or confidentiality of such public opinion evaluations may have the risk of being spammed.
+                   The fact that the image being used as query makes the search ever more complicated as the content of the image needs to be analysed and matched to find the information corresponding to the uploaded image.
+                   While the search methods used for hyper-text by these search engines are robust enough to return semantically meaningful results in response to a text query, there is a lack of efficiency in producing semantically meaningful methods for searching multimedia data such as images, video and audio files.
+                   However, the main disadvantage of the color histogram is that it doesn't include any spatial information.
+                   Moreover, color quantization and higher computation complex are the other problems which limit its application.
+                   We address the problem of retrieving spoken information from noisy and heterogeneous audio archives using system combination with a rich and diverse set of noise-robust modules.
+                    When the searchable audio content is drawn from diverse and acoustically degraded sources, it is challenging to build robust and up-to-date audio search systems.
+                    Low-level visual features, largely used for indexing generic video contents, are not sufficient to provide a meaningful information to an end-user.
+                    In this paper, we address the problem of recovering sport video structure.
+                    However, with these advantages, the web also comes with challenging issues related to information overload and dynamic changes.
+                    The problem in speech retrieval contains sub problems of Indexing, Automatic Speech Recognition (ASR) and Information Retrieval (IR).
+                    The problems of image retrieval are becoming widely recognized and the search for solutions is an active area for research and development.
+                    Problems with traditional methods of image indexing have led to the rise of interest in techniques for retrieving images on the basis of automatically derived features such as color, texture and shape.
+                    Meanwhile, the users are really difficult to find accurate answers in results pages as the algorithms are originally used to discover pages relevant to a query or a typical keyword, not to consider the query the user submitted.
+                    Therefore, how to find useful answers that users want become big challenges in Web Search Engines or Meta-Search Engines.
+                    In consequence of the long production cycle, mining enterprises find it difficult to adapt the changes in supply and demand of the mineral products.
+                    At present, large amounts of data resources generated and collected by information systems of the mining enterprise are not analyzed scientifically .
+                    These data failed to provide adequate support to processes of production management and decision-making of the mining enterprise [5], [6].
+                    Spatio-Temporal data is related to many of the issues around us such as satellite images, weather maps, transportation systems and so on.
+                    This paper deals with the problems of available Spatio-Temporal data models for utilizing data mining technology and defines a new model based on analytical attributes and functions.
+                    There are some problems in available Spatio-Temporal data models.
+                    The first, analytical process to be difficult in SpatioTemporal information systems because there are few analytical attributes or functions in these models.
+                    The available analytical operations are limited and it is needed to use more analytical actions depending on information of each data group.
+                      However, the problem of supporting mining algorithms in such systems has, so far, not received much research attention [12].
+                    The process is difficult, complex, time consuming and resource starving.
+                    This paper explores recent achievements and novel challenges of the annoying privacy-preserving big data stream mining problem, which consists in applying mining algorithms to big data streams while ensuring the privacy of data.
+                    With the relevant growth of big data observed recently, the problem of mining and extracting knowledge from such kind of data is gaining momentum .
+                    With the mining problem, another relevant problem arises: the issue of preserving the privacy of big data stream sources while mining such data (e.g., [17]–[18][19][20][21][22][23]).
+                    This paper explores recent achievements and novel challenges of the annoying privacy-preserving big data stream mining problem, which consists in applying mining algorithms to big data streams while ensuring the privacy of data.
+                    However this data mining in DSMSs have turned out to be a costly proposition.
+                    A feature that has constantly hindered the Data Stream Management System is its inability to simultaneously query both live and archival data.
+                    While sharing such a wealth of information presents enormous opportunities for data mining applications, data privacy has been a major barrier.
+                    The gap between academia and business has seriously affected the widespread employment of advanced data mining techniques in greatly promoting enterprise operational quality and productivity.
+                     However, although they provide some initial data analysis capabilities (i. e., some kinds of charts and visualizations on maps), the knowledge discovery is somehow limited.
+                     In this paper, we present an integrated time-series data mining environment for medical data mining. Medical time-series data mining is one of key issues to get useful clinical knowledge from medical databases.
+                     However, users often face difficulties during such medical time-series data mining process for data preprocessing method selection/construction, mining algorithm selection, and post-processing to refine the data mining process as shown in other data mining processes.
+                     In the research field of KDD, ‘Time-Series Data Mining’ is one of important issues to mine useful knowledge such as patterns, rules, and structured descriptions for a domain expert.
+                     However, it is difficult to find out such evidences systematically.
+                     Thus, privacy and security of big data has become a fundamental problem in this research context.
+                     Data mining is a challenge for end-users, which requires knowledge and skills on business domains, data mining algorithms and software development.
+                     To address the limitation of existing products, we propose a fuzzy data mining platform named RFDM, which addresses large-scale data challenges and provides novel functionalities that help data analysis and model management.
+                     Large distributed data sets are a challenge for a data mining and analysis tool (DMAT).
+                     In addition, the user-friendliness is also a challenge for DMAT.
+                     Creating predictive models to customize advertiser requirements and campaign analytics to show targeted ads to users who are most likely to convert has become increasingly challenging.
+                     Developing effective classification models to predict if a user can be included in a particular segment given user behavior data is thus extremely challenging.
+                     Preventing personal data and high security data therefore pose a difficult task to IT experts.
+                     Automated data mining algorithms are indispensable for analyzing large geo-spatial data sets, but often fall short of completely satisfactory results.
+                     Although automatic approaches have been developed for mining geo-spatial data [3], they are often no better than simple visualizations of the data on a map.
+                     Although, small part of this huge amount is structured (logs) or semi-structured (email, website), it is difficult to process and manage this data without advanced data analytics techniques.
+                     Specifically, in XML, the issue of quality data for mining purposes and also using data mining techniques for quality measures is becoming more necessary as a massive amount of data is being stored and represented over the Web.
+                     In recent years, XML is a widely used data representation and storage format over the web and hence the issues of data quality and the task of data mining processes are getting significant attention to the database community[10], [11], [12].
+                     This can pose a significant challenge in streams in which data arrives at high speed, and efficient data mining and machine learning algorithms are needed for that.
+                     Analyzing the huge amount of data to form summarized useful information is a tedious task for human kind.
+                     Most GP frameworks are, however, constructed to be as general as possible, and therefore lack most functionality specific to data mining problems; e.g. preprocessing, evaluation techniques and optimization of a set of basic predefined classification and regression models.
+                     Manual analysis of customer opinions is only possible to a certain extent and very time-consuming due to the multitude of contributions.
+                     At present, the most difficult part of the traditional education mode lies in the collection and analysis of data.
+                     Direct experimental proof of function on the ever growing protein sequence data is available only to a limited extent.
+                     The search for homologues is a straightforward process as long as the sequences belongs to a rather simple family, where as in the case of superfamily members that have diverse function and are diverged at the sequence level to a higher grade, finding homologues becomes a difficult task.
+                     Some top data mining algorithms, as ensemble classifiers, may be inefficient to very large data set.
+                     The first challenge is how we can use and understand Big Data when it is created in different formats such as video, text, tuples, documents, extensible records and objects.
+                     The second challenge is how to capture the most important data and deliver it to the correct people in real time.
+                     The third challenge is how to store, to analyze and to understand the data considering its size and the available computational capacity.
+                     With the rapid development of information technology and internet, all kinds of industry data exploded causing difficult to analyze and mine useful information from big data.
+                      Due to the limitation of the stand-alone operation mode, the data processing at the big data level reveals defects such as long processing time and insufficient performance.
+                      Extracting interesting and useful patterns from spatial datasets must be more difficult than extracting the corresponding patterns from traditional numeric or categorical data due to the complexity of spatial data types, spatial relationships, and spatial auto-correlation.
+                      Existing surveying methods are either labor intensive or highly costly and have a long updating cycle, which hinders the timely update of maps.
+                      However, all these surveying methods are either labor intensive or highly costly and have a long updating cycle especially when the area to be surveyed is large.
+                      According to the problem that efficient datasets cannot be quickly obtained from social media big data of social networks in the process of focused mining and analysis.
+                      Another important issue–application in SDM–have not been paid much attention.
+                      With the popularization of computer and Internet technology, the problem of information and network security has become more and more prominent.
+A long-standing problem in modern condensed matter physics is the understanding of the mechanism of phase separation in both simple and complex liquids.
+Particularly challenging is when the organic guest is too large to be adsorbed from the exterior into the internal pores.
+The nature of the critical point in ionic systems is a puzzling problem.
+The macromolecular baseline signal, which has broad peaks appearing at roughly 0.9, 1.3, 2.4, and 3.2 ppm, is a major limitation of the in vivo application of short echo time proton spectroscopy.
+A problem arising with quantum chemical predictions is that the accurate coupled-cluster methods employed previously in this field are computationally too expensive to be applied to larger complexes.
+One of the outstanding problems of computational quantum chemistry is the understanding of electron correlation.
+One way of addressing these issues is through appeal to quantum chemical computation, essential for interpreting and assigning the IR spectra of large and complex molecular assemblies (see for example, articles included in refs. 11 and 12).

@@ -1,0 +1,163 @@
+﻿As a first step in this direction, the present communication focuses on the synthesis of CdS nanoparticles in thin films of aerosol OT.
+In this paper, the ability to label silver nanoparticles with a number of dyes and with an oligonucleotide suitable for DNA hybridization and hence DNA labeling is demonstrated.
+In view of the current interest on stereoselectivity in photophysical/photochemical processes we decided to look for a possible chiral discrimination in systems where triplet decay is controlled by induced quenching (IQ).
+A series of layered perovskite tantalates, A2SrTa2O7 (A = H, Li, K, and Rb), were prepared as novel photocatalysts for photocatalytic water splitting into H2 and O2 under UV irradiation.
+By using very accurate quantum mechanical methods, developed beyond the level of reproducing experimental data, thermodynamic data such as Gibbs energy differences (ΔG) can be predicted where experiments are yet to be made.
+Validation of density functional methods for computing structures and energies of mercury(iv) complexes.
+Here, we will use this model to approach the question of charge transfer in an arrangement of nucleobases that is typical for complex organisms, the nucleosome core particle (NCP), as studied experimentally by Núñez et al.
+The purpose of this work is to determine these rate coefficients experimentally and to check whether CTST is applicable to the evaluations of these rate constants.
+We address the simple question, whether Hartree–Fock atoms are smaller or larger than exact (Schrödinger) atoms.
+We attempt to ascertain the true size of atoms by performing CASSCF,2 CASPT23 and full CI (FCI) calculations using large basis sets.
+A one-step immunomagnetic separation technique was performed on a microfluidic platform for the isolation of specific cells from blood samples.
+The cell isolation and purification studies targeted T cells, as a model for low abundance cells (about 1∶10,000 cells), with more dilute cells as the ultimate goal.
+In this report we describe the study of appropriate flow paths that can be combined with magnetically trapped bead beds to capture rare cells from blood samples, to perform the sample clean-up that is often needed for analysis by PCR.
+These developments are promising, but it would be more convenient if the immunocapture reaction could also be performed in the microfluidic system, so that no external sample preparation was required.
+Fourier transform mid-IR and Raman spectroscopies were employed to investigate the anionic local surrounding in sol–gel derived organic/inorganic materials–monourethanesils–incorporating europium triflate, Eu(CF3SO3)3.
+With the scope of gaining a deeper knowledge of the structure/properties relationship in the diureasil system, we will continue to examine in the present work the same set of europium triflate, Eu(CF3SO3)3-doped monourethanesil samples analyzed in Part .1
+As the role of the anion on the coordination of the Eu3+ ions in the monourethanesil-type system has not been considered yet, we will be specifically concerned in Part 2 with the evaluation of the extent of ionic association in the m-Ut(750)nEu(CF3SO3)3 nanocomposites in order to shed more light into the description of the local chemical environment of the lanthanide ions which was initiated in Part .1
+Observation and characterisation of the glycocalyx of viable human endothelial cells using confocal laser scanning microscopy.
+This paper describes the use of confocal laser scanning microscopy (CLSM) to observe and characterise the fully hydrated glycocalyx of human umbilical vein endothelial cells (HUVECs).
+The specificity of WGA-FITC staining was demonstrated by treatments with several enzymes, known to degrade glycocalyx (heparatinase, chondroitinase, hyaluronidase and neuraminidase), of which neuraminidase (1 U ml−1, 30–60 min) was the most effective, removing up to 78 ± 2% of WGA-FITC binding to HUVECs.
+The present work reports infrared (IR) spectra and quantum chemical calculations of complexes of the indole cation (In+ = C8H7N+) solvated by several inert ligands (L = Ar and N2) to characterize the interaction of In+ with a hydrophobic environment.
+The major goal of the present work is the characterization of the intermolecular interaction in In+–(N2)n and In+–Arn complexes in their cation ground states by EI-IR spectroscopy in the vicinity of the N–H stretch fundamental of bare In+ (ν1 = 3454 cm−1).
+In addition to the EI-IR spectra, the intermolecular interaction in the H-bound isomers of In+–(N2)n (n ≤ 2) and In+–Ar is characterized by density functional calculations, as no previous theoretical studies of the cation PES of these clusters are available.
+The topic of the present paper is the detailed physico-chemical characterisation of PAA in aqueous solution especially with respect to the question whether or not an aggregation of the PAA molecules is a prerequisite for their silica-precipitating function as it is the case for the above-mentioned biomolecules extracted from diatoms.
+In this study we have investigated the possibility of (i) recording Raman spectra of relatively dilute solutions, in a typical cryosolvent, of fluoroform and dimethyl ether, and (ii) observing the formation of a complex between them.
+To clarify the origin of such a large nonlinear cross section, we performed similar measurements for the monomeric porphyrin in PVB film.
+Our task now is to explain how such drastic enhancement occurs.
+The goal of the experiments is to test the interaction potentials of excited Na with the target molecules and to obtain “snapshots” of the collision complexes, in particular of the direction of the 3p orbital after the process of optical excitation.
+It is the aim of the present work to explain the observed fine structure ratios as functions of the kinetic energy after the collision numerically by combining classical trajectory methods with a semiclassical surface hopping procedure.
+Changes on the physico-chemical surface properties and adhesion behaviour of Enterococcus faecalis by the addition of serum or urine to the growth medium.
+In this context, the adhesion of different microorganisms to biological substrata has been described from a physico-chemical point of view, aiming to simulate, as closely as possible, the conditions of interest.
+On this basis, the objective of this work is to characterise the surface of Enterococcus faecalis ATCC29212 through hydrophobicity, surface free energy and zeta potential at 37 °C, when cells grow in Trypticase Soy Broth (TSB) and TSB supplemented with serum or urine.
+In line with the above explanation, the goal of this work is the physico-chemical characterisation of E. faecalis ATCC29212 through measurements of water, formamide and diiodomethane contact angles and zeta potential determinations at 37 °C.
+Calculations of PAH anions: When are diffuse functions necessary?
+In this paper, we present calculated results regarding the above question.
+Here we investigate if such a hopping model contains the essential relaxation dynamics observed for isolated LH2 systems and connected aggregates of LH2.
+On the mechanism of the HCCO + O2 reaction: Probing multiple pathways to a single product channel.
+We explore the mechanism of the HCCO + O2 reaction using time-resolved Fourier transform spectroscopy.
+In this paper, we use this concept to interrogate reaction paths in the HCCO + O2 reaction.
+Measuring the relative flux on these reaction paths through these intermediates is the focus of this paper.
+In order to further elucidate the reaction mechanism of HCCO + O2, we have studied this reaction comparing 18O2 with 16O2 reactants using time-resolved Fourier transform spectroscopy (TR-FTS).
+A model for the interpretation of a large number of the 280 diffuse interstellar bands (DIBs) is presented.
+In order to investigate this question, in this paper improved impedance models will be developed and discussed.
+Thereafter we solve numerically the model in a variety of cases, varying both the materials and control parameters.
+We point out the main modifications to the standard model spectra.
+Observation of low frequency vibrational modes in a mutant of the green fluorescent protein.
+Therefore the aim of this study is to demonstrate that existing models can be improved when expanded to a broader range of targets.
+In the present study we use isotopically enriched platinum (97.28% 195Pt, Oak Ridge National Laboratories) to investigate the oxidation of 195Pt+/−n clusters, n = 1–24, with N2O under binary collision conditions in a Fourier transform ion cyclotron resonance (FT-ICR) mass spectrometer.
+In the present study we further explore the effect of methylation of the C5 atom of uracil.
+We investigate anionic complexes of thymine–glycine (TG−) and we compare the results with those for the UG− complex.
+The head groups and side chains of the organic cofactors of the electron transfer chain and of antenna chlorophyll a (Chl a) have been modeled, coordinating and hydrogen bonding amino acids identified and the nature of the binding pockets derived.
+In light of the above discussion, the main objective of the present work is to investigate the C15-Z,syn → C15-E,anti isomerization of PΦB using quantum chemical methods.
+It is, consequently, of interest to explore whether a two-state model is applicable to PΦB isomerization as well.
+As our extension of our earlier work on the electronic structure of He2C2+,4–5 we wish to report the rotational and ro-vibrational spectrum of this ion.
+In doing so, we shall detail the most accurate ro-vibration transition frequencies, dipole moment surface and line strengths reported to-date, thereby assisting its laboratory and interstellar detection.
+An attempt has been made to disentangle the contributions to the IR spectrum from different tryptophan-water complexes.
+Measurement of diffusion in Langmuir monolayers by single-particle tracking.
+To verify our experimental approach, at first the diffusion of lipids within homogeneous monolayers was studied.
+Reactivity of α,β-unsaturated carbonyl compounds towards nucleophilic addition reaction: a local hard–soft acid–base approach.
+The condensed local softness calculated using a Löwdin population is compared with the local softness calculated from a Mulliken population.
+In this paper we have presented the reactivity parameters, the local softness sk+ and sk− and Fukui functions fk+ and fk− of α,β-unsaturated carbonyl compounds, namely acrolein (H2CCHCHO), methylacrylate (H2CCHCOOCH3), methylmethacrylate (H2CC(CH3)COOCH3), cinnamaldehyde (C6H5CHCHCHO), cinnamoylchloride (C6H5CHCHCOCl) and acryloylchloride (H2CCHCOCl), and the most reactive sites of nucleophilic attack were derived.
+Here we have investigated the reactive sites of these carbonyl compounds towards a nucleophile using a local hard–soft acid–base approach.
+Here we report on the aggregation and association of caveolin-1 isoforms with these receptors and the effect of BMP and EGF activation on caveolin-1 distribution in A431 cells.
+Generally, we aim to understand whether stimulation of a cell with receptor specific ligands influences the receptor distribution or the caveolin composition within the caveolae.
+In this work, we investigate the association of caveolin-1 isoforms with the BMP receptors of type-II (BRII) and type-Ia (BRIa) and with the EGF receptor, ErbB1.
+These data are discussed in relation to electrocyte death in a weakly electric fish.
+In this work, we have investigated the uptake and intracellular localization of 5,10,15,20-tetrakis(4-n-dodecylphenyl)porphyrin (1), and the elemental composition and morphological changes in electrocytes of Psammobatis extenta.
+The behaviour of phenyl-2-hydroxybenzoate (salol) with respect to crystallization and vitrification was studied by Thermally Stimulated Depolarisation Currents (TSDC) and Differential Scanning Calorimetry (DSC).
+In this context we will characterise the glass transition of salol, and we will determine the fragility index of this glass-forming system for the heating rate dependence of the onset temperature of the glass transition DSC signal.
+The conditions for nucleation, as well as the conditions that enable the crystallization of salol to generate one or the other of the two crystalline polymorphic forms, will be discussed.
+One of them is to monitor the cold crystallization process of salol, the other is to study the β-relaxation process that is believed to assist the nucleation process.
+We have addressed microfluidic systems to develop a simple and accurate method for quick DNA analysis.
+Electrospray ionisation mass spectrometry analysis of differential turnover of phosphatidylcholine by human blood leukocytes.
+Consequently, this study provided an opportunity to compare mechanisms of PC synthesis by two cell types derived from the same environment which can then be linked with biological function.
+Adsorption kinetics of these charged thiols onto gold nanoparticles has been followed by the decrease in the surface plasmon band at 530 nm due to the red shift caused by particle-to-particle aggregation.
+Titration curves resulted from plotting the 530 and 800 nm-absorbance versus the added amount of thiol in solution, and yielded the mercaptane coverage on Au.
+In the present study we analyse the adsorption kinetics of positively and negatively charged short alkanethiols on 20 nm average diameter citrate stabilized gold colloidal nanoparticles by the evolution of the optical absorption in the 400–800 nm region.
+From “titration” experiments of the colloidal suspension with diluted thiol solutions we obtain the moles required for colloidal surface saturation following the changes of the absorption spectra.
+Kinetic information has been obtained monitoring the attenuation of the plasmon band in presence of large excess of thiol with respect to the concentration required for thiol surface saturation.
+A rather new technique, pressure perturbation calorimetry (PPC), was applied to study volumetric and solvation properties of staphylococcal nuclease (Snase) in its native and unfolded state with high precision.
+Furthermore, the effects of various chaotropic and cosmotropic co-solvents on the solvation and unfolding behaviour of Snase was investigated in detail.
+This behaviour is discussed in terms of a continuous release of condensed water from the protein surface.
+Finally, ΔV values for the temperature-induced unfolding are compared with corresponding data for the pressure-induced unfolding of Snase.
+In the present paper, we examine these perturbations in the hydration layer around a protein caused by addition of co-solvents using a relatively new and efficient technique called pressure perturbation calorimetry (PPC).
+Taken together, these data lead to a deeper understanding of the solvation process of proteins in different co-solvents in their native and unfolded states.
+The present study aims to obtain more insight into the basic thermodynamic properties of protein solvation and volume effects accompanying unfolding scenarios on one hand, and on the other hand, to initiate further potential applications of pressure perturbation calorimetry in studies of biomolecular systems in general.
+Each spectrum was analysed and fitted to give rotational constants A0, B0 and C0, centrifugal distortion constants ΔJ, ΔJK, ΔK, δJ and δJK and the components χaa, χbb – χcc and χab of the bromine nuclear quadrupole coupling tensor.
+The aim of the investigation is to identify and characterise this complex and, in particular, to establish whether its angular geometry is isomorphous with those of thiophene⋯HF and thiophene⋯HCl, as predicted by the arguments rehearsed earlier.
+First, this potential can be compared unambiguously with the widely studied square-well potential (λ = 0 in Fig. 1) to account for the varied strength of the interaction, and by increasing λ, it can be used to examine the range of the interaction on the phase transition.
+Second, thermodynamic quantities for this potential can be solved also in analytical forms thus permitting an accurate evaluation of the phase diagrams.
+Herein, we describe the in situ synthesis of p-phenylene oligomers (PP) inside the cavities of faujasite-Y and the photochemical properties of the resulting encapsulated oligomers.
+Comparison of photochemical properties of brookite and anatase TiO2 films.
+The photocatalytic oxidation activity and photoinduced hydrophilicity of brookite-rich TiO2 film were compared to those of anatase TiO2 film under ultraviolet (UV) light irradiation.
+Here, the photocatalytic oxidation activity and the photoinduced hydrophilic property of a brookite-rich film are compared with those of an anatase film.
+Viscoelastic and small angle neutron scattering studies of concentrated protein solutions.
+To obtain further information on the conformer structure, resonant two-colour two-photon ionization photoelectron spectroscopy (R(1 + 1′)PI PES) has been performed via the two most intense S0–S1 transitions.
+Density functional theory (DFT) calculations on the B3LYP/6-311++G** level are used to interpret the number and structure of observed conformers, IEs and geometry shifts upon ionization.
+Temperature-dependent kinetics study of the reactions of O(1D2) with N2 and O2.
+A laser flash photolysis–resonance fluorescence technique has been employed to investigate the kinetics of the reactions of electronically excited oxygen atoms, O(1D2), with N2 (k1) and O2 (k2) as a function of temperature (197–427 K) in helium buffer gas at pressures of 11–40 Torr.
+While studying a variety of O(1D2) reactions of atmospheric interest, three respected gas kinetics research groups have independently reinvestigated the temperature dependence of k1.
+Also, presented in this paper are the results of a temperature dependent kinetics study of reaction (2).
+Reconsidering Car–Parrinello molecular dynamics using direct propagation of molecular orbitals developed upon Gaussian type atomic orbitals.
+A reconsideration of Car–Parrinello molecular dynamics using only atom centred basis functions is presented by doing direct propagation of molecular orbitals in conjunction with propagation of nuclei.
+Specific deuterium isotope effects on the intramolecular charge-transfer dynamics of 4-(dimethylamino)benzonitrile.
+In this paper we report the results of the systematic study of the effect of deuterium substitution on the dual fluorescence behavior of DMABN in solvents of different polarity.
+We have also employed a time-resolved spectroscopic technique to investigate the origin of the specific deuteration effects.
+In this work, we continue investigating critical properties of binary mixtures of RTILs with non-ionic fluids analysing coexistence curves of solutions in alcohols.
+In this work, we present measurements of the coexistence curves of solutions of C6mim+BF4− in the alcohols 1-butanol, 1-pentanol, 2-butanol and 2-pentanol.
+The coexistence curves are calculated from the refractive index data and compared with the results obtained by determining the separation temperatures in a set of mixtures of given concentration.
+Protonation across the liquid|liquid interface and the effect of the addition of a supporting electrolyte in the oil phase will also be examined.
+The aim of the present work is to determine the electrochemical potentials for the oxidation of Mn-complexes of bicarbonate, acetate and formate and correlate them with their capability to donate electrons to Mn-depleted PSII (apo-WOC-PSII).
+Preliminary structural characterisation of the 33 kDa protein (PsbO) in solution studied by site-directed mutagenesis and NMR spectroscopy.
+Site-directed mutagenesis experiments combined with 1D and 2D NMR spectra provide a preliminary insight into the structure and dynamics of the 33 kDa protein (PsbO) from T. elongatus free in solution.
+Here we report preliminary results from NMR-spectroscopy on PsbO from Thermosynechococcus elongatus (T. elongatus) describing its structural and dynamic properties.
+Due to this extraordinary stability of PsbO, we characterised four cysteine mutants serving as local probes for structural and dynamic properties of PsbO.
+Solvent dependence of the excited state lifetime was carefully examined by ultrafast time-resolved spectroscopy.
+Steady-state resonance Raman measurement was also carried out to elucidate the solvent dependence of the molecular structure of InC.
+Optimised geometries, vibrational frequencies, and enthalpy changes for the ligand association reactions are presented for clusters with one, two, and three ammonias bound to a fluoride anion.
+We wish to determine whether symmetric or asymmetric solvation structures are preferred.
+Furthermore, we aim to provide vibrational frequencies that might prove helpful for future experimental studies.
+Since no structural data for K+ in aqueous ammonia solution have been reported so far, structural information for this particular ion solvation by means of ab initio QM/MM dynamics could be expected to provide useful information regarding the functionality of this metal ion in biological systems with different coordination sites.
+For the sake of understanding the thermodynamic stability of C35H30, the heat of formation ΔH0f of C35H30 was estimated according to the calculated energy change for the process:and the experimental heat of formation for dodecahedrane C20H20.
+Does metallophilicity increase or decrease down group 11? Computational investigations of [Cl–M–PH3]2 (M = Cu, Ag, Au, [111]).
+While we acknowledge that, as Magnko et al. note, “van der Waals like attraction cannot be reliably described with current DFT schemes”, we were interested to see how DFT techniques fare in the metallophilicity arena.
+These orientation parameters and the accompanying alignment parameters which describe the fragments' angular momentum polarisation have been used to confirm spectral assignments within the highly perturbed (2 + 1) d 1Πg(v = 2) ←← a 1Δg (v = 0) REMPI spectrum of O2.
+We demonstrate the applicability of time of flight (TOF) spectrometry to extract alignment and orientation parameters on this test system, and compare our orientation results with those previously obtained by Brouard et al. using laser induced fluorescence (LIF), and Nesterov and Cline using ion imaging.
+In the present work, the uptake of acetone, 2-butanone (methyl ethyl ketone), 2,3-butanedione (biacetyl) and 2-oxopropanal (methylglyoxal), respectively, on water is investigated.
+Key parameters of the uptake process are extracted allowing subsequent modeling of the processes studied here.
+The limiting situations of “frozen” and equilibrium solvation effects are examined.
+The present work maps out the very first steps towards such complex environments.
+In addition, we explore the suitability of force-field calculations using a DMA (distributed multipole analysis)-based rigid-body model potential for scanning the potential energy surface of the hydrates.
+The results are presented, discussed and used to estimate the atmospheric lifetimes for the studied alcohols.
+The present work also aims at extending the kinetic data base to be used to develop structure-reactivity relationships for OH reaction with oxygenated VOCs.
+In this work we have used ab initio theoretical calculations to investigate the stabilization effect that the attachment of one or two water molecules has on the electron attached to uracil.
+In order to decide the above mentioned dispute and to provide data for the construction of precise high temperature falloff curves, we have designed a new high pressure flow cell and investigated the reaction at pressures of the bath gas argon up to 900 bar and over the temperature range 300–700 K. These experiments now allow us to characterize the pressure dependence of the reaction up to temperatures such as they are of interest for combustion and supercritical water oxidation applications.
+Both the characteristic properties of the flow system as well as the progress of the reaction, could be simultaneously determined by means of fluorescence spectroscopy with high sensitivity and at low sample concentrations.
+The primary focus of this review is to detail recent new approaches to sample preparation, nucleic acid amplification and detection within microfluidic devices or at the microscale level.
+We also introduce some applications that have as yet to be explored in a miniaturised environment, but should benefit from improvements in analytical efficiency and functionality when transferred to planar-chip formats.
+To investigate possible shortcomings of the non-local geometrical model in finite-size systems, we compare the results of geometrical models with the results of the most basic statistical (local) model that predicts spherical growth in bulk media: an atomistic lattice model simulation based on a Monte Carlo approach.
+Our goal was to record the energy transfer and trapping processes in RC and CP47–RC under similar experimental conditions to be able to make a reliable comparison of the obtained results.
+Since the υp = 1–0 (ΔE01) splitting has not been measured experimentally, but deduced from the centrifugal distortion effects,4 this was the primary target of additional measurements.
+At the same time we searched for the rotationally resolved spectrum of the 3911 transition, measuring some weak hot bands close to the band at 34 783.53 cm−1, so far attributed to the origin.
+This study aims to extract information automatically in order to help the readers get structured information from a scientific paper.
+As an alternative solution, this research extracts automatically structured information from a scientific paper in order to help the readers.
+We investigate the performance of four weakly-supervised classifiers on scientific abstract data annotated for multiple AZ classes.
+In this paper, we investigate the potential of weakly-supervised learning for Argumentative Zoning (AZ) of scientific abstracts.
+This paper describes experiments with generative models for analyzing the discourse structure of medical abstracts, which generally follow the pattern of “introduction”, “methods”, “results”, and “conclusions”.
+This paper presents experiments with generative content models for analyzing the discourse structure of medical abstracts, which has been confirmed to follow the four-section pattern discussed above (Salanger-Meyer, 1990).
+In this work, we present an approach for producing readable and cohesive citation-based summaries.
+In this work, we focus on the coherence and readability aspects of the problem.
+In this paper, we will propose an algorithm to identify some categories of zones in scientific papers.
+In this paper, we aim to introduce new rhetorical zone categories to analyze the zones in computer science fields and propose some lexical and syntactical features to efficiently classify the sentences of a paper to the proposed zone categories.
+The major purpose behind this issue is to identify those zones in a text which tackle a certain concept issue, topic or subject from the reader's point of view. 
+In this paper, we propose a new approach to zone identification based on considering features with high semantic richness such as specialized names and mode of verbs belonging to a text’s domain of interest and besides that mode of verbs, while taking into account features with less computational cost compared to those of conventional methods.
+In this paper, we will demonstrate how through considering features with high semantic richness such as specialized names (belong specifically to a text’s domain of interest) and besides that mode of verbs, a higher classification accuracy can be attained for zone identification at the place where features with less computational cost compared to the conventional features are being used.
+To design and assess a method for extracting clinically useful sentences from synthesized online clinical resources that represent the most clinically useful information for directly answering clinicians’ information needs.
+This study looks into the rhetorical organization specifically of tourism research article abstracts, which has either been under represented or overlooked.
+This study seeks to identify the functional units in the core components (IMRD) of journal articles and to map their relationships with typical information tasks that prompt use of journal articles.
+The goal is to generate a concise document description that is more revealing than a title but short enough to be absorbed in a single glance.
+Information extraction (IE) in the biological domain aims to provide an effective automatic means to dynamically manage the information contained in archived journal articles and abstract collections and thus help researchers in their work.
+In this study, features related to section class and title class that have been proposed in a previous research were further developed.
+
+

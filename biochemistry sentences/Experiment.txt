@@ -1,0 +1,115 @@
+﻿Thin films of AOT of 500 Å thickness were thermally vacuum deposited in an Edwards E306A vacuum coating unit at a pressure better than 1 × 10−7 Torr onto glass, Si (111) wafers, carbon-coated copper transmission electron microscopy (TEM) grids and gold-coated AT-cut quartz crystals [for quartz crystal microgravimetry (QCM) measurements].
+In our present work Cd2+ ions were entrapped in 500 Å AOT thin films by simple immersion of the thin film coated substrate into CdSO4 solution.
+Entrapment of Cd2+ ions in AOT film and its subsequent treatment with S2− ions by immersion in Na2S solution was monitored by ex-situ QCM measurements using an Edwards FTM5 frequency counter after thorough washing and drying of the QCM crystals prior to measurement.
+Conversion of the QCM frequency change to mass loading was done using the standard Sauerbrey equation to estimate the net intake of cadmium ions into the AOT matrix.
+Entrapment of Cd2+ ions in the AOT film was followed by immersion of the cadmium sulfosuccinate film in Na2S solution for the formation of CdS nanoparticles.
+FTIR measurements for the AOT thin film of thickness 500 Å were done at each stage of treatment to study the complexation of the Cd2+ ions to the AOT molecules after immersion in CdSO4 solution and after treatment with S2− ions for CdS nanoparticle synthesis.
+The elemental composition of the composite CdS–AOT thin film was determined using energy dispersive analysis of X-rays (EDAX).
+The EDAX spectrum recorded from a 500 Å thick AOT film after formation of CdS nanoparticles is shown in Fig. 3.
+Nanostructured metal films of platinum, gold and silver up to 675 nm thick we prepared by electrochemical deposition through templates of 700 nm diameter polystyrene spheres assembled as hexagonal close packed monolayer on an evaporated gold surface followed by removal of the template by dissolution in tetrahydrofuran.
+The reflection spectra of the films at normal incidence were recorded as a function of film thickness and the spectra correlated with the local visual appearance of the film and the surface structure from SEM.
+To this end, enantiomerically pure compounds were obtained by condensation of (R)- and (S)-naproxol [NPX, 2-(6-methoxy-2-naphthyl)propan-1-ol] with (S)-ketoprofen [KP, (2S)-2-(3-benzoylphenyl)propanoic acid] in the presence of dicyclohexylcarbodiimide and 4-(dimethylamino)pyridine, using dry methylene chloride as solvent (Scheme 1).
+Fluorescence spectra were obtained at λexc = 318 nm for (S,R)- and (S,S)-KP-NPX (2.5 × 10–4 M) in argon-saturated acetonitrile solutions and compared to those of naproxen [2-(6-methoxy-2-naphthyl)propanoic acid] under the same conditions (Fig. 2).
+However, the emission intensity was considerably lower for the bichromophoric compounds, although the concentrations were adjusted to match the same absorption by the methoxynaphthalene chromophore.
+Laser excitation at 355 nm of (S,R)- and (S,S)-KP-NPX (3.0 × 10–3 M) in N2-saturated acetonitrile solutions led to the excited KP singlet state which undergoes fast intersystem crossing (isc) to the KP triplet.
+(ii) To ensure luminescence at ambient temperature, an ethynylene group is attached at the 4′-position.
+(iii) A central biphenylene unit is used as a variable rotor.
+(iv) A strap of predetermined length is attached at the 2,2′-positions of the rotor so as to restrict internal twisting around the connecting bond.
+These compounds were synthesized as outlined previously and fully characterised by 1H and 13C NMR, mass spectrometry and elemental analysis.
+The experiments were conducted using a 6-m3 reaction chamber combined with a long-path FTIR system.
+In this study human T cells (or the T cell derived Jurkat cell line) were used as the initial model of rare cells in blood, although more dilute sample analyses are ultimately contemplated.
+Cofibril formation and the morphology of the designed peptides were analyzed by circular dichroism (CD) measurement, thioflavin T (ThT) binding assay, and transmission electron microscopy (TEM).
+Biotinylated peptide (B2x-β16) was mixed with non-biotinylated peptide (β16) in a non-aggregated state in trifluoroethanol (in the molar ratio of 0–1% B2x-β16), and the peptide secondary structure was analyzed by CD measurements.
+Specific introduction of streptavidin onto the matured fibrils was achieved using co-assembling fibrils with biotinylated peptides.
+To pick out streptavidin under TEM observation, the streptavidin modified with colloidal gold (Au-Av: diameter of colloidal gold is 20 nm) was added to the matured fibrils (0–1% B2x-β16).
+The nanomechanical PZT thin film cantilever is composed of SiO2/Ta/Pt/PZT/Pt/SiO2 on a SiNx supporting layer for simultaneous self-exciting and sensing; it was fabricated using a standard MEMS (micro electromechanical system) process.
+For the bioassay in a liquid environment, a liquid test cell with a 20 µl volume reaction chamber has been fabricated, using a bonding technique between poly(dimethyl siloxane) (PDMS) bilayers.
+A schematic diagram of the experiment is shown in Fig. 1(a).
+Trapping is achieved with a cw argon ion laser operating at 514.5 nm.
+The trapping beam is passed through two sets of beam expansion optics, reflected from a holographic notch filter (HSPF-514.5, Kaiser Optical Systems) and directed into a Leica DM IRB microscope.
+Two microscope objectives are compared in this work: a 63× water immersion objective (NA of 1.2), and a 60× oil immersion objective (NA of 1.4).
+The backscattered Raman light from the trapped droplet is collimated by the objective lens, passed through the filter, and focussed onto the entrance slit of a 0.5 m spectrograph (1200 g/mm grating) coupled with a CCD, with a spectral resolution of 0.05 nm.
+The trapped droplet is imaged onto a CCD camera using conventional brightfield microscopy.
+The aerosol was generated with an Omron NE-U07 Ultrasonic Nebuliser, introduced into an aerosol cell mounted on the translation stage of the microscope (Fig. 1(a)), along with a flow of humidified nitrogen using a mass flow controller in order to regulate the humidity in the aerosol cell.
+To achieve stable trapping in the aerosol cell, which is always at a relative humidity of less than 100%, the water aerosol was doped with sodium chloride at a concentration of ∼40 mM.
+The aerosol trap was loaded by providing a brief dose of aerosol from the nebuliser.
+The minimum power required to trap a droplet is estimated by systematically reducing the laser power until a droplet falls out of the trap.
+Mie scattering calculations are performed to determine the droplet radius with an estimated error of ±2 nm, limited primarily by the spectral resolution of the spectrograph.
+All sizes should be assumed to have this associated error.
+A beam splitter was inserted into the laser path between the two sets of expansion optics, creating a second optical trap and allowing two aerosol droplets to be trapped simultaneously.
+Two water droplets were trapped simultaneously and their radii monitored until stable by examining the CERS fingerprint from each droplet (radii of 3.014 μm and 4.038 μm), as illustrated in Fig. 5.
+Following controlled coagulation, a final CERS fingerprint was recorded to determine the size of the coagulated droplet (4.533 μm).
+Viable HUVECs in primary culture were studied at room temperature in HEPES-buffered, phenol red- and serum-free CS-C cell culture medium.
+A fluorescein isothiocyanate-linked wheat germ agglutinin (WGA-FITC) (2 μg ml−1, 30 min) was used to detect N-acetylneuraminic (sialic) acid, which is a significant component of the endothelial glycocalyx.
+Single confocal sections, less than 1.3 μm thick, were collected at intervals of 0.5 μm, scanning through the entire z-axis of a series of cells.
+Raman spectra in the 3200–350 cm–1 range were obtained for solutions in liquid krypton, at 131 K, containing dimethyl ether, fluoroform and mixtures of them.
+The gold electrode was prepared by depositing a small amount of titanium and then gold on a glass plate by vacuum deposition.
+This gold electrode was immersed in a solution of [RuVS]2 (5 × 10–4 mol dm–3) in MeCN–CH2Cl2 (1 ∶ 1 v/v) for 4 days.
+Then, the electrode was removed from the solution, rinsed with acetonitrile and dichloromethane, and then dried in air, to give an electrode modified with RuVS (denoted RuVS/Au).
+An electrode modified with [PcS]2 (PcS/Au) was also prepared by the same procedure.
+The electrode modified with both compounds, (RuVS + PcS)/Au (Fig. 1), was prepared from a solution containing identical concentrations (5 × 10–4 mol dm–3) of [RuVS]2 and [PcS]2 by the same procedure as used for RuVS/Au.
+The surface coverage of RuVS in RuVS/Au (5.5 × 10–11 mol cm–2) was estimated by monitoring the reductive wave of the viologen moiety of RuVS, and the surface coverage of PcS/Au obtained from the absorption spectrum of PcS (1.6 × 10–11 mol cm–2).
+As to (RuVS + PcS)/Au, the surface coverage of each dye was evaluated from the reductive wave of the viologen moiety and from the adsorption ratio of RuVS and PcS on gold powder: 6.0 × 10–12 mol cm–2 for RuVS and 1.9 × 10–12 mol cm–2 for PcS.
+Photocurrent measurements on the modified electrodes were carried out using a three-electrode photoelectrochemical cell consisting of the modified electrode (working), an Ag/AgCl (sat.
+The light from a 150 W tungsten lamp was passed through a monochromator and irradiated a 0.28 cm2 area of the modified electrode.
+The photocurrent action spectra were measured by changing the excitation wavelength (Δλ = ±16 nm).
+The excitation is performed by 150 fs time duration laser pulses with the repetition rate of 1 kHz (see electronic supplementary information (ESI) for experimental details).
+The two-photon cross section was measured at 20 K, where only TPA is present.
+The excitation laser is detuned by a few 100 cm−1 from the resonant 3s → 3p transition of Na, as a rule, but not always to higher frequency.
+Excitation probability as a function of detuning and polarization angle is recorded for a few selected scattering angles.
+The incubation of cells is carried out in a standard culture medium (TSB) and TSB supplemented with serum or urine, in order to simulate the physiological conditions in which bacteria cause infections.
+The theoretical predictions of the adhesion process of such microorganisms to glass, defined by the X-DLVO, are verified with the adhesion experiments carried out in a parallel plate flow chamber at 37 °C.
+Rydberg Matter is used as the lasing medium in an ultra wide-band tunable IR laser.
+Briefly the ca. 500 nm 1 μJ pulses from a non-collinear optical parametric amplifier (NOPA), pumped by a 1 kHz amplified Ti:sapphire laser (Clark MXR), were divided at a beam splitter into pump and time-delayed probe beams.
+These pulses had a width of 60 fs at the sample position.
+The linearly polarised pump and probe pulses were combined with a 300 mm lens on the surface of an 80 groove mm−1 transmission grating (Edmund Optics), which split each into two replicas.
+The four beams were focussed onto the sample using a spherical mirror (radius 50 cm), via a folding mirror.
+The intensity is measured by a photodiode placed behind an analysing polarizer.
+The intensity of beam 3, and thus the formation of the grating, was modulated by a mechanical chopper.
+The photodiode output was measured by a lock-in amplifier referenced to the chopper frequency.
+The data presented below were measured in the homodyne configuration (with beam 2 blocked) and so report the square of the sample's third order nonlinear response function.
+A 100 mg ml−1 solution of the EGFP mutant (S65T/F64L) of GFP (Clontech, used as received) was contained in a 1 mm pathlength cell.
+Data were measured at 510 nm, on the low energy side of the S0 → S1 spectrum.
+The species concentration profiles or maximum concentration/position data are taken from flame chemistry studies by Atakan et al. obtained with molecular beam sampling mass spectroscopy The calculations were performed with the flame and ignition codes used in the Chemical Kinetics group in Lund.
+The platinum sponge was pressed into a disk and subjected to zonal melting.
+The resulting pearl was rolled into a foil which was used as a target for our home-built laser vaporization source.
+In this source, the firing of the laser is synchronized with a helium pulse from a home-built piezo-electric valve.
+From the laser generated plasma, cold clusters form in the supersonic expansion of the high pressure gas into high vacuum.
+Ionic clusters are guided by a series of electrostatic lenses through several stages of differential pumping, and trapped and stored inside the ICR cell in the ultrahigh vacuum of the FT-ICR mass spectrometer (Bruker/Spectrospin CMS47X, 4.7 T, APEX III data station).
+For each mass spectrum, clusters generated in 20 laser shots over a period of 2 s are accumulated in the cell.
+To study ion-molecule reactions, the pressure inside the ICR cell was raised from its base value of about 2 × 10−10 mbar to a constant value of 2.0 × 10−8 mbar by controlled admission of N2O (99.5%, Messer Griesheim) at room temperature.
+First tests calculations are presented by considering simple systems (water and monothiooxalic acid molecules and a (H2O)20 water cluster).
+Ce0.5Zr0.5O2, BET surface area 40 m2 g–1 after calcination at 773 K (5 h), was prepared by a previously reported citrate route.
+An in-situ cleaning procedure (CP) was applied before each set of experiments.
+Temperature programmed reduction (TPR) profiles (25 mg of sample) were recorded in a system equipped with a thermal conductivity detector: CP-O2 at 773 K (1 h), then cool, first to 423 K in O2, then to room temperature (rt) in Ar; TPR-H2 (10 or 1%) in Ar at rt (30 min), ramp to 1173 or 1273 K, hold 15 min, switch to Ar (15 min).
+O2 was pulsed in all cases (100 µl, every 75 s).
+Reduction was performed by introducing the reducing gas (1 or 10% H2 in Ar), heating in a stepwise manner (50 K intervals) and recording the spectra during the isothermal steps (15 min).
+Oxidation was performed in the same cell at the same temperatures as for TPR experiments.
+SR and SO were conducted at both 1173 K (A) and 1273 K (B).
+The molecules were excited to the 1 1A2 (πσ*) state at λ = 243 nm and to the 1 1B2 (ππ*) state at λ = 217 nm.
+In the first set of experiments (λ = 243 nm, one colour), we probed the H and D atom photodetachment from both isotopomers via the 1 1A2 (πσ*) state.
+In the second set of experiments, we performed two-colour measurements, in which the molecules were excited to the 1 1B2 (ππ*) state at λ = 217 nm and the H atoms were again probed at λ = 243 nm.
+DNA oligomers (20-mers) of different sequences were injected on the chip for mixing.
+The detection of hybridisation was based on the fluorescence of DNA-intercalating dyes.
+First, the samples were injected into the micromixing device at a high flow rate of 40 µl min−1.
+When the sample passed through the actual micromixing unit, the flow rate was reduced to allow for measurement of fluorescence levels at various steady-state reaction times in the range of 2–15 s, as defined by the channel geometry.
+In the second mode, the flow was completely stopped and the evolution of the total fluorescence signal influenced by the hybridisation of oligomers and photobleaching was observed.
+DNA hybridisation assays are performed in series by injecting the sample solutions one after the other and mix them rapidly on the chip.
+The complementary DNA strands are stained with TAMRA and Cy 5 dye molecules, respectively, undergoing an energy transfer if both strands are annealed.
+In this study, hybrid silicon elastomer/glass chips comprising a miniaturized channel system were employed as continuous flow reactors, adapted to a confocal setup for high-resolution optical detection.
+This special mode of confocal analysis is performed by creating two slightly displaced laser foci by a single microscope objective.
+By proper alignment of the sample flow inside the microfluidic channels, the emission signal from fluorescent molecules that are successively passing both excitation volumes is measured.
+The complementary DNA strands are labelled with orange fluorescent TAMRA and red fluorescent Cy 5 dye molecules, respectively, promoting an efficient fluorescent resonant energy transfer (FRET) from the donor TAMRA to the acceptor Cy 5 if both strands are annealed and intact.
+The dual-color fluorescence analysis of the DNA was supported by spectral discrimination of the emission signal in two detection channels, quantifying donor and acceptor emission.
+The biotinylated sialylglycan was immobilized on an avidin-covered 27 MHz quartz-crystal microbalance (QCM) [step (b)].
+The 27 MHz QCM is known as a mass measuring device, which has been calibrated as the 1 Hz frequency decrease corresponding to the 0.62 ng cm−2 mass increase on the QCM electrode in the aqueous solution as well as in the air phase.
+The calibration of the 27 MHz QCM in the aqueous solution is described in the ESI, as compared with in the air phase.
+Sialylglycopeptide (SGP) was separated from hen's egg yolk according to a previous method.
+SGP (340 µg, 12 mM) was reacted with biotinylated GlcNAc (38 µg, 2.1 mM) in the presence of endo-M (30 mU in 30 µL) in 10 mM phosphate buffer, pH 6.0 at 37 °C [step (a) in Fig. 1].
+The biotinylated sialylglycan could be prepared in 55–60% yield after 5 h of reaction, and it was purified by HPLC (C18 column, eluent: CH3CN containing trifluoroacetic acid) and confirmed by MALDI-TOF MS (matrix: DHB, +Na+: 2619.4, calibrated with insulin).
+On an Au electrode (4.9 mm2) of a 27 MHz QCM plate (8 mm diameter) of AffinixQ, NeutrAvidin was immobilized as a monolayer coverage through an amine coupling with dithiopropionic acid according to previous methods.
+NeutrAvidin was chosen as a biotin-binding protein because carbohydrates on the avidin have been removed to reduce non-specific binding.
+First, we fixed the threshold values γth, being γLLth = 0.221 for liquid–liquid and γSSth = 0.0329 for solid–solid, and increased λ to examine the appearance of the liquid–liquid and solid–solid coexistence curves which were both calculated with respect to their liquid–solid counterparts.
+Second, we fixed the threshold values λth, being λLLth = 0.325 for liquid–liquid and λSSth = 0.0456 for solid–solid, and increased γ (keeping the λ-slope unchanged) to bring in the strength of the interaction.
+
+

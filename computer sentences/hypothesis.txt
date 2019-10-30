@@ -1,0 +1,35 @@
+ A revolutionary development from anticipated or long-due breakthroughs is on the other hand not expected in the foreseeable future.
+ 2(a) [25], and 450-mm wafer is expected to be in production by 2019.
+ Therefore, the investigation is expected that the combination of cooperative learning and digital learning is able to create a better learning environment.
+ Though it might raise learning effect focusing on single characteristic, researchers cannot observe the differences between factors, and not mention to finding a best one to implement educational policy.
+ This modification is expected to enhance the studentspsila learning and their experience.
+ However, in embedded systems, the underlying embedded software is often expected to collaborate with various hardware, mechanical, electrical modules/technologies.
+ Further, the embedded software developed is often expected to execute a feedback mechanism and/or exchange updated data and respond to various external sensors/stimuli (e.
+ It is expected that the methodology can be used to facilitate the implementation and management of multi model environment of SPI frameworks in multiple domains.
+ The interfacings among several processes that support development and operation stage are expected to improve by using this solution.
+ This solution is expected to assist a software company to manage its process quality and the activities in developing software via the multi model process improvement solution.
+In certain circumstances or usually in general developers might need to reuse certain section or elements of the existing software in other products.
+ As well as the process, a methodology should specify what we're expected to produce as we follow the process.
+ With the traditional approach, you're expected to move forward gracefully from one phase to the other.
+ The transition might also stagnate because of resistance towards change, lack of executive support or failure to change the rest of the organization to accommodate agile teams [11], [12].
+ #######################################
+It is likely that packets sent (early) along A-B-C may arrive at the receiver later than packets sent (late) along A-C, resulting in out-of-order arrivals.
+Then, if an attacker sends a spoofing packet to the host; it is likely the hop-count of the packet will not match the expected hop-count for packets from the spoofed source address.
+ Because legitimate hop-counts may change due to routing changes, strictly filtering all packets that do not match would lead to false positives.
+ In order to minimize false positives, HCF only begins filtering traffic if some threshold amount of packets does not match their expected hop counts.
+ Here the simple TCP handshake may not be enough to prevent attackers from spoofing TCP packet, since attackers may be able to predict TCP sequence numbers.
+ It is expected that improving instructional strategies and implementing personalized learning will help create more competent, capable, and prepared persons available for the future workforce.
+ There are four learning orientations a learner will likely fall into: an innovator; an implementer; a sustainer; or a resistant learner [7].
+ Embed the related research issues to the above process, the splendid research results then can be expected.
+ Since the explicit feature of the learning processes can be controlled or guided effectively by the careful design and implementation of the Web-based learning environment, it is expected that the interior circulation, which represents the invisible mental behavior of the learners, can make great progress simultaneously.
+The thematic report for the each learner is expected to be refined to certain degree through consecutive discussion with the teammates and constructive suggestion offered by the teacher.
+ Here, a main question arises, whether the reduced number of new attributes can better describe the input objects for the subsequent data mining or machine learning method to produce better results.
+##################################
+ Improved seizure control is likely to reduce the morbidity and increased mortality associated with uncontrolled epilepsy.
+ Also the user might be interested in other prints apart from the prints for which he has entered the keywords.
+ It might be possible that a user who reads news articles pertaining only to politics may suddenly develop interest in sports due to various reasons.
+Preliminary studies have found that there is a certain similarity between the news one person browsed, and different users are also likely to have a similar interest.
+ In some cases, imbalanced class situation might not be fully adressed by the previous research in which it can affect on the classification result itself because the majority of classifier assumed that the data distribution's is relatively balanced [4].
+ Failure of cluster head may occur due to any cause such that energy depletion of high energy nodes, error in gateway (CH) in some instant etc.
+ On the system administrator side there are concerns that continuous and system-wide performance monitoring and the collection of the produced data might cause significant overhead.
+It is expected that with a photograph the user takes, venue discovery helps to find the exact venue and a group of relevant venues whose textual/visual features also match the photograph.

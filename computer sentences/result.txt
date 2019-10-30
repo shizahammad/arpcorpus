@@ -1,0 +1,84 @@
+6% per year, but its overall percentage in the energy mix is still low.
+We estimated the precision through classification data.
+ The accuracy of SVMCSD is found to be better than DETEX in terms of two metrics, precision and recall, when applied on a subset of a system.
+ Software complexity metrics have been shown to be closely related to the distribution of faults in program modules.
+The precision of base noun phrase identification achieves 98.
+25%, which exceeds the highest result till to now.
+The results (efficient and improved software process models) will be implemented in the software industry, by software project managers, by focusing on the list of activities giving 80 percent of the overall productivity of the software process.
+ The results will be the list of activities having the capability to give 20 percent of the overall productivity of the software Waterfall process, to be ignored, eliminated or designated to reduce the effort.
+ Allen's experiments have shown that increasing the physical distance between employees from 5 meters to 20 meters results in a 3.
+ Moreover, it can add further testing which would be complicated to perform manually.
+#################################
+ One of the main discussion points in this topic is the key distribution schemes.
+ The main causes of transient failures include router crash or reboot, line-card failure or reset, routine maintenance, etc.
+ Experimental results show that the proposed approach can achieve attack detection rate higher than 99% with a false alarm rate less than 1%.
+ The test results show that the protocol stack can accomplish the TCP/IP communication and satisfy the reliability and real-time property of the electricity information acquisition test system.
+Our experiment results confirm that the theoretical properties are valid in the actual implementation, however, the optimal GF size that minimizes the decoding errors is determined by the packet size.
+ Our experimental results demonstrated that the proposed algorithm converges to the optimal number of features in a single layer RBMs.
+ Experimental results show that the RBMs with our incremental feature learning perform better compared to the RBMs with non-incremental feature learning.
+ Our experimental results reveal that the proposed learning diagnosis system can efficiently help learners to expand their knowledge while surfing in cyberspace Web-based "theme-based learning" model.
+Our experiment results show that this transfer method is effective.
+  Our experiment results show that this transfer mechanism is effective.
+ The final results report the good general performance of SVMs for CRM problem.
+ The algorithm is applied to the dataset of distribution achievement of certain company, the results show that the training accuracy of the classifier with support vector machine is very high, and its generalization performance is excellent.
+ The experiments conducted on the public dataset show that compared with SVMs, ensemble learning achieves obvious improvement of performance.
+ The experimental results indicate that compared with SVMs, ensemble learning achieves obvious improvement of performance.
+ The experimental results show that this heuristic algorithm is efficient and effective to improve the classification precision.
+ The results also indicate that simulated annealing-based Q-learning agent could perform well for all criteria, which is impossible when using only one dispatching rule independently.
+ The experimental results show that SBGAP achieve litter higher accuracy with fewer hidden units in most situations
+Analyzed theoretically, /spl nu/-SVM was found to be over-dependent on each training sample, even if the samples have same value.
+ Theoretical analysis and the results of experiments show that the new /spl nu/-SVM has the same classification precision rate as the standard /spl nu/-SVM and the new /spl nu/-SVM is faster than the /spl nu/-SVM in training and decision if the training sets have same value samples.
+Our results have significant security implications.
+ These results generalize and improve the corresponding conclusions for the theory of SVM in Hilbert space to fuzzy number space.
+###############################
+Experimental results show that our approach outperforms the classical CF in terms of recommendations quality and relevancy.
+ The experiment results demonstrate that our method can predict user preferences on recommended activities and enhance the effectiveness of recommendations.
+ The experiment results show that our proposed approach can enhance the positive efficacy of recommending activities.
+ Experimental results show that HAaB algorithm can obviously outperform the traditional group recommendation algorithms when recommending for various common combinations of groups.
+ Experimental results on a public database in terms of quantitative assessment show significant improvements over conventional methods.
+ We compare our model to a set of established baselines and the experimental results show that our model performs better than the state-of-the-art by 5.
+ The experimental results of this work show that a model based on word embeddings is comparable to that of well-performing algorithms based on Collaborative Filtering and Matrix Factorization.
+ It has been shown that 3-D convolutions are better in extracting features from the temporal dimensions.
+ From our experiments, it is shown that better recommendation accuracy with our proposed method can be attained.
+ Finally, experimental results demonstrate that our proposed algorithm can achieve higher accuracy than other methods, and can provide more suitable products for E-commerce users.
+ The experimentation results presented, show that the proposed approach is able to deliver recommendations of equal and higher accuracy than some of the widely used recommendation methods.
+ The experimental results show that tag-topic model recommendation method not only can obtain novel recommendation results by long texts recommendation, but also helps solve the time-consuming problem based on tag recommendation, and effectively recommends interesting novels for readers.
+ Our experimental results show that Customizable GenPref is not only able to predict and recommend similar or surprising items that the user may like, but, at the same time, also serves the business objectives of e-commerce sites by recommending more distinct items to the users compared with baseline methods.
+ Experiment result shows a more accurate recommendation on social media platforms.
+ The results reveal that the knowledge extracted from decision tree classifier and P-tree data structure from proposed approach remove the problem of spectral confusion to a greater extent.
+ The results obtained have lit a great spark for future investigation.
+ The result shows that the remote sensing image classification based on SV M method can solve the image classification fragmentation, low accuracy etc, and has advantage in study speed, orientation ability and expression, etc.
+ Experimental results indicate that the classification accuracy can be maintained or even increased with a small number of remained training instances.
+ The experimental results show that the combination of multiple classification methods for music emotion recognition can achieve higher accuracy of classification.
+ Experimental results show that after feature selection or kernel function process can maximize the classification accuracy.
+ Final results show that regular exercise deviation classification accuracy was 99.
+ The result shows that the combination of SMOTE and OSS can enhance the performance of SVM as the classification method that used in this study.
+ The result shows that SMOTE can improve the performance of the classification algorithm.
+ The result shows that the usage of both algorithm can improve the classification result.
+ The result shows that OSS can improve the classification results.
+ The experimental result shows that the accuracy of image classification based on multi-feature fusion with multi-kernel SVM is much higher than a single feature.
+ Experimental results show that classification performance is better than both k-NN and support vector machine (SVM).
+ Few took the fact of overlap concept between classes into account, so the classification result is not very good.
+ The experimental results present that the approach has better classification accuracy for Tibetan web pages classification.
+ SVM not only has more solid theoretical foundation, it also has greater generalization ability as our experiment demonstrates.
+ The experimental results show that SVM is effective and surpasses other classical classification techniques.
+ The experiment results demonstrate that ISVM performed better by providing higher classification accuracy.
+ The experimental results demonstrate that our proposed ISVM performed better than other SVM-based spectral-spatial classification methods.
+ The actual classification results show that this method is feasible and effective.
+ Various experimental results carried out one the ISMIR 2004 Genre dataset show that the proposed method can achieve higher classification accuracy than other music genre classification methods with the same experimental setup.
+ Experimental results show that the accuracy of DCT-II orthogonal is clearly better than that of DCT- II non orthogonal via SRC classifier.
+ From experimental results, it can be seen that the use of proposed method can obtain significant improvements in music genre classification accuracy.
+ The experimental results show that PC-HGA has good speedup performance and can discover a set of the succinct, efficient and understandable classification rules.
+ Overall accuracy statistics indicates that NFCC for unsupervised classification algorithm increases the accuracy of the satellite image classification at the pixel level.
+ The experimental results show, that the improved algorithm can down the classification consumption time and improve the classification accuracy rate, and effectively improve the performance of the NBC (naive Bayesian classification algorithm).
+ Experiments show that two algorithms of this paper have better or comparable classification performance as compared to GEPSVM on almost all benchmark data sets.
+ It is observed that the percentage classification improves when more number of features are used.
+ It is observed from regressive experimentation that combination of different features gives improved classification results.
+ Experimental results show the proposed approach is much more effective and reliable.
+ We have an experiment in text classification and the result shows that it has good performance.
+ Experiments show that the proposed hierarchical classification approach has a significant effect on anonymous traffic classification.
+ Experiment results show that our classification algorithm that leverages the sparse structure of the textual information outperforms plain sparse representation classification procedures in both classification accuracy and computationally efficiency.
+ The evaluation result shows 34% improvement of I/O bandwidth.
+ Numerical experiments show that the other through a variety of validity function to determine the number of clusters of adaptive fuzzy clustering algorithm, the better the performance of the method.
+ Experimental results on this data set confirm the feasibility of the proposed method.
+ Moreover, the evaluation over another publicly available data set confirms that the proposed method outperforms state of the arts for cross-modal retrieval between image and text.

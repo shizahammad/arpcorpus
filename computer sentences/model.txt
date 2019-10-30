@@ -1,0 +1,104 @@
+﻿ A number of new concepts for trimming the basic physical equations to the requirements of a power semiconductor device model for circuit simulation have been proposed [42], [43], [53], [69], [75], [101], [117], [119], [122], [129], [134], [140].
+ Traditionally, the design tools for power circuits have employed very simple power semiconductor models, which only featured a digital switching (abrupt or linear) behavior as well as a fixed resistance in the conducting state.
+ This again means that high-quality power semiconductor device models for circuit simulation are required.
+This paper presents a survey of recent progress on SiC- and GaN-based power semiconductor devices along with their device models.
+Safety-critical software-intensive systems of systems require significant verification to ensure that they function as per requirements.
+ Verification is only one portion of ensuring systems function correctly and is typically a well defined activity for software development.
+ The traditional validation model of matching system specification to stakeholder requirements and expectations does not cater for software safety, where stakeholder requirements and expectations are simply that of a ldquosaferdquo system.
+We introduce a new model for validation of software safety requirements by proxy.
+  This paper presents the Validation Metrics Framework, which is based on a new model for validation of software safety requirements.
+We use software metrics and risk level of each module for input variables (feature spaces).
+ Finding best grouping model from varied characteristics helps teacher group easily and further the whole learning results in cooperative learning.
+ It is an artificial intelligence model that imitated Revolutionary, Natural Selection & Survival of the fittest.
+ We consequently propose a SVM-based software classification model, whose characteristic is appropriate for early software quality predictions when only a small number of sample data are available.
+ A software quality model is a tool for focusing software enhancement efforts.
+To build a predictive model, the number of changes (faults) is usually required.
+ We use heuristics for calculating the motivational force of all potential actions an employee has, in order to decide which he will choose.
+ Our work is inspired by the PECS-Reference-Model [12], which takes not only rational aspects but also emotional factors into account.
+ The latter is a probabilistic statistical model that estimates distributions of latent topics from textual documents.
+ For example, the fast collapsed Gibbs sampling generative model for LDA requires setting the number of iterations n and the Dirichlet distribution parameters a and β [17].
+Some key features of the McMaster model are evident in an earlier curriculum reform by medical faculty at Case Western Reserve University in the late 1950's.
+Model Driven Development (MDD) introduced by the Object Management Group (OMG) ([Object Management Group, 2014]), is regarded as the next/ongoing paradigm shift in embedded software development.
+ The proposal of multi model process improvement framework would potentially improve the coordination of two process improvement frameworks and leads to better decision making for the organisation.
+ In this paper, the change of test coverage is represented by the generalized logistic function.
+ On the basic of this generalized test coverage function, a new software reliability growth model and a new fault defection model are proposed.
+ Through the evaluation and forecast software reliability growth model, developers can allocate resources in the best way to meet the deadline and the target reliability [1].
+The class of non-homogeneous Poisson process(NHPP) software reliability growth models is the most important type of software reliability growth model.
+Test coverage function(TCF) is an important part of the fault detection model and the software reliability models which are based on test coverage [5].
+ The relation between the number of detected faults and test coverage has been described by these test coverage functions, and there are several models have been proposed, like L-E model [2], Rayleigh model [6], L-G model [5], Beta model and Hyper Exponential(H-E) model [3].
+ There exists some software reliability growth models which incorporate test coverage in [3]–[4][5], [7].
+  In the following parts, it will describe in detail the generalized logistic function and how to use it in defect prediction model and software reliability growth model.
+ [8, 18] proposed two simple and new software reliability growth models with Weibull-type and Logistic testingeffort function respectively, which attempt to account for the relationship among the calendar testing, the amount of testing-effort, and the number of software faults detected by testing.
+ According to the modeling means of variance decomposition and optimal linear non-homogeneous credibility estimator, the mathematic expression of this integrated evaluation model of software reliability based on Bayesian estimation was described in detail, and the solution of credibility factor was illustrated.
+ Our study hereby construct a hybrid model by combing operational profile based on Musa and Markov chain model and take full account of these two models to generate test suite.
+ Software process model (SDLC) is a framework [7], [8] it is a pre-planning of any software industry that tells how to develop a software product, there are some effective factors these are involved for selecting any software process model.
+ We shall be simulating iterative waterfall and incremental model under some assumption.
+ Traditional models like Water fall model is easy to understand and reinforces the notion of “define before design” and “design before code”.
+We propose a “waterfall” model from the subject of Software Engineering [9] to comprise these three types of important features.
+ This model integrates three types of important features and takes them into account respectively in the identification of BaseNP from top to bottom.
+ We have applied 80/20 rule (Pareto Principle, 1935) in software Waterfall process model, to reduce the effort and increase the performance.
+ The software Waterfall process model was evaluated and after applying 80/20 rule in the software Waterfall process model improved and efficient form of Waterfall Process Model has emerged.
+ Since the advent of the first model (waterfall model), many software development process models have been brought out, but the software development process model is still evolving.
+ Correctly to select or to build the software development process model is a key factor for the success of developing software.
+Software is a generic term for organized collections of computer data and instructions; it is amalgamation of machine understandable instructions that preside over the processor of computer to perform itemized operations.
+The present research emphasizes a new model, i.e. Software Augmentation Isochronism model in order to perturb those barricades present with the previous approaches.
+  The factors that are kept in mind during the development of the present model are risk factor and cost factor.
+ The paper proposes a software development model called the Validation model, and a derived metric called the Agility metric that can measure software development agility.
+ The Waterfall model emphasizes early stage planning and identifies design flaws before they develop.
+######################################################
+ According to the comparison of OSI and TCP/IP, and research based on the OSI model implementation models and protocols of the Internet, and the OSI model of data transmission between the layers.
+ ISO International Standards Organization[3] as defined by the OSI model defines seven layers of function and it is a stepping stone for beginners network technology, but also analysis, evaluation based on a variety of network technologies - from the network is no longer mysterious, it is rational Follow, are based on evidence of.
+OSI seven layer network model is mainly to address the heterogeneous network interconnection compatibility issues encountered when.
+ This article based on the OSI Model in the model and the Internet Protocol.
+The work presented throughout this paper deals with the continuous research on the OSI model's applicability to convey a certain functionality in computer networks.
+ Section three of this article presents the mathematical notions that allow research to be continued through the OSI model and in section four the intermediary interaction layer is specified with the management perspective that is added through new technology functions.
+The OSI model has been subjected throughout the past three decades to various organizations of networking technology that have been developed and implemented in the world.
+The model in itself is designed to help formulate networks having in mind what should be achieved, a theoretical agreement that is accomplished through mathematical formulation of a functionality that is made available through functions that are calculated having various capacity and time criteria [1].
+Even if the OSI model is considered a theory having simplicity in it's design, the analysis scenarios and functioning cases that have been realized in the entire world, all depend on meeting an interconnection facet which is based on relations that exist between the OSI layered roles.
+We present a cellular automaton model of the OSI network layer.
+ Models of PSNs have been proposed and studied at different levels of abstraction and with different objectives in mind.
+ For this layer we developed a cellular automaton (CA) model [5].
+ In order to simulate our CA model of PSNs we developed a C++ simulation tool, called Netzwerk-1 [6].
+ An image watermarking model based on progressive visual cryptography is proposed to decide optimal number of shares.
+ We firstly create a generic model based on the above ideas and then we proposed our scheme that comprises of a combination of certificateless cryptography and secret sharing scheme.
+ This paper analyses the interaction between two models (named as MIMD-Poly and PIPD-Poly) of these generalized algorithms and the TCP variants in TCP/IP networks.
+The two models are proposed namely, MIMD-Poly and PIPD-Poly.
+ The relationship between the health statement and claim risk may be very complex and impossible to be described by a function.
+ Especially, support vector machines (SVMs) are known as one of the most efficient discriminative models.
+ [7] have been proposed an online incremental feature learning to determine the optimal model complexity and prevent overfitting, by focusing on training of denoising autoencoders.
+ These include multivariate regression models, probabilistic Bayesian models, nearest neighbor classifiers, decision trees, adaptive decision trees, neural networks, symbolic rule learning and Support Vector Machine Learning [3].
+ Such a learning model emphasizes the training of the learners with the competency of knowledge integration.
+ We use a model by setting the fuzzy membership as a function of the distance between the point and its class center.
+ Our framework also identifies the behavioral components at a micro level, and can help us model behaviors of a group involved in learning.
+ Finally, the third stage uses the parameters measured in the previous two stages to understand and model group interactions, competencies, and collaborative behavior at a micro-level.
+ The initial weights of this deep neural model are obtained from the restricted Boltzmann machines.
+ In this paper, we increase the hidden layers and decrease the hidden units keeping the model complexity while improving its modeling capacity.
+ There are four most famous learning style models have been proposed: MBTI learning style assessment model (The Myers-Briggs Type Indicator), Kolb learning style model, Herrmann Whole Brain advantage test model (HBDI) and is widely used by Felder -Silverman learning style model.
+ In such attacks, the adversary typically knows the type and structure of the classifier, and attempts to learn the model parameters.
+#####################
+ Here, use of property graph model is demonstrated for solution of state-of-affairs hybrid recommendation system, complexity of beneath integrated data structure and required course of actions.
+ We propose a graph-based structure in order to efficiently model job-job relationships with variable-length neighborhood sizes.
+We successfully model user preferences in terms of active jobs or predefined job categories.
+Our model utilizes a local propagation-based search strategy to generate personalized recommendations even when data is scarce.
+ In the context of the vigorous development of mobile communication, this paper raises the prospective that integrating the mobile technology into recommendation system to build a mobile intelligent recommendation model, and takes the social activities for example to realize the model.
+ The stacked autoencoders model is employed to extract the feature of input then reconstitution the input to do the recommendation.
+ The most popular model applied to CF is Matrix Factorization (MF), which provides a decomposition of the rating matrix into two matrices that represent both users and items in a latent factor space.
+In order to incorporate side information into the DL based recommendation framework, the supervised neural recommendation (SNR) model is proposed.
+ In this work, we propose a recommendation model which uses semantic similarity between words as input to a 3-D Convolutional Neural Network in order to extract the temporal news reading pattern of the users.
+ Hence, our proposed route recommendation model can meet users with different needs.
+ Finally, to deal with the issue of multi-decision group recommendation, we model the recommendation process as a non-cooperative game to achieve Nash equilibrium and demonstrate the effectiveness of our proposed model with a case study experiment.
+ In our model, each student willingness is influenced by the similarity among students.
+ Recommendation system is a new way for information acquisition, which studies the user preference model, detects their potential demand and recommend their interested information.
+An general decision layer text classification fusion model for higher precision, is proposed, which based on model theory of information fusion, and different classification algorithm of the feature layer fusion centre having different pre-processing, their classification results input into the decision layer fusion centre separately.
+ From the experiment and contrast, the text classification fusion model can improve the classification precision effectively.
+Based on the model theory of information fusion, a decision layer text classification fusion model is proposed in this paper.
+ The fusion model has two layers, one is feature layer, which realizes feature classification, and the other is decision layer which treats the results input by feature layer and gets the fmal classification result.
+ Generally, the nearness among instances will be determined by a similarity or distance function.
+ In the first step, a model is built to describe a predetermined set of data classes or concepts.
+ In this work a, new objective function is formulated by adding the new term along with the distance between the pixels and cluster centers in the spectral domain.
+ To overcome this drawback, in this paper, we introduce a novel multi-surface proximal support machine classification model incorporating feature selection, which simultaneously implements classification and feature selection for improving the classification performance.
+In order to further improve GEPSVM, in this paper, we introduce a novel multi-surface proximal support machine classification model incorporating feature selection (called GEPSVM_FS).
+ Gaussian mixture model (GMM) based classifier is employed for the final classification task.
+ A generative model for computational modeling of emotion is given in [6] which uses probability distribution in the valence-arousal space for classifying music.
+ In this paper, by introducing certain modifications we propose a simplified version of this model which is linear except for the calculation of the square-root value of the energy.
+ To this end, we propose a novel deep learning model, category-based deep canonical correlation analysis.

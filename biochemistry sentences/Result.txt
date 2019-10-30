@@ -1,0 +1,301 @@
+﻿From the equilibrium mass loading of the cadmium ions (48 µg cm−2) in the thin film and the knowledge of the AOT mass deposited initially, an AOT ∶ Cd2+ molar ratio of 1 ∶ 42 was calculated.
+The above observation clearly indicates considerable overcompensation of the negative charge due to the sulfate groups in the AOT matrix by the Cd2+ ions.
+This ‘apparently’ large charge overcompensation could also be due to a large change in the acoustic properties of the AOT film consequent to Cd2+ entrapment.
+The initial mass loss could be due to partial leaching out of the cadmium ions from the AOT film.
+The mass increase observed thereafter could be explained on the basis that during formation of CdS, an uncharged entity, fresh sulfonate groups are regenerated leading to the possibility of complexation of positively charged Na+ ions within the film.
+Another possible contributing factor for the observed mass increase could be a large change in the acoustic properties of the composite nanoparticulate thin film of AOT with entrapped semiconducting nanoparticles.
+The changes in the acoustic properties could originate from a considerable change in the viscoelastic behavior during formation of CdS nanoparticles.
+This absorption edge is blue-shifted relative to bulk form of CdS, which is known to occur at 510 nm.
+The blue-shift in the absorption edge observed here with AOT thin films is an indicator that the CdS nanoparticles formed within the AOT matrix are in the quantum dot regime.
+We would like to emphasize here that the size of the CdS nanoparticles grown in AOT thin films is significantly smaller than that observed in our earlier study on CdS growth in thermally evaporated stearic acid films where the absorption band edge was observed at 470 nm.
+The spectrum corresponding to a pure AOT thin film represented as curve 1 in Fig. 2A showed peaks at 1160 and 1052 cm−1 corresponding to asymmetric and symmetric stretch vibrations of the sulfonate groups and at 1247 cm−1, which corresponds to the ester stretch (–C(O)–O–C).
+After formation of CdS (curve 3, Fig. 2A), there is no further shift in the peak value corresponding to the S–O stretching vibrational mode indicating that the AOT molecules are still bound to the cadmium ions on the surface of the CdS nanocrystals or could possibly be due to the presence of Na+ ions as discussed above in relation to the observed QCM mass change.
+The intense peaks at 2854 and 2924 cm−1 corresponding to methylene antisymmetric and symmetric vibrational modes in AOT (curve 1) as shown in Fig. 2B are reduced in intensity after incorporation of Cd2+ ions (curve 2) and further reduced after formation of CdS (curve 3) indicating randomization in the orientation of the hydrocarbon chains consequent to ion entrapment.
+A quantitative analysis of the film revealed that the atomic ratio of Cd and S in the film was is ca. 1 ∶ 2.2.
+It should be noted here that the contribution of the S atoms in the EDAX spectrum comes from both S atoms present in the AOT molecules and from those in the CdS nanoparticles and would explain the larger than unity molar ratio of sulfur relative to cadmium.
+While an exact estimate of the particle size cannot be made from this image, it is clear that the CdS nanoparticles are formed at sufficiently high density within the AOT film.
+From this picture, it is clearly seen that the particles are essentially spherical and fairly monodisperse.
+From a Gaussian fit to the histogram (solid line, Fig. 5B), an average CdS nanoparticle size 3 ± 0.6 nm was estimated.
+XRD measurement of the AOT thin film after incorporation of Cd2+ ions showed no lamellar ordering which is commonly observed in case of stearic acid or octadecyl amine.
+For thin films, below one quarter sphere height, the spectra show a single reflectivity dip at a wavelength just below the sphere diameter consistent with surface-plasmon grating-like behaviour.
+For the thicker films several reflectivity dips are observed which move towards longer wavelength with increasing film thickness.
+We do, however achieve this on a single micro bead which can be optically detected.
+Chiral recognition in the intramolecular induced quenching of the methoxynaphthalene triplet by benzophenone has been observed by using diastereomeric bichromophores.
+The UV spectra of the bichromophoric compounds were merely the sum of the spectra of the individual chromophores, indicating little electronic interaction between the chromophores in the ground state (Fig. 1).
+As expected, the shapes of the three emision spectra were identical due to the nonemissive nature of the benzophenone singlet state.
+Thus, in the bichromophoric compounds the naphthalene singlet state is quenched by the benzophenone group, due to singlet–singlet energy transfer.
+This must occur within the laser pulse duration, as evidenced by the transient absorption spectrum that corresponds to the triplet naphthalene-like chromophore (Fig. 3).
+Thus, the 430 nm band decayed with first-order rate constants kd of 8.5 × 105 and 5.3 × 105 s–1 for (S,R)- and (S,S)-KP-NPX, respectively.
+It is found that hydrogen-bonded networks around both H3O+ and H5O2+ cores can be stabilized in the protein matrix, leading to so-called Eigen and solvated Zundel complexes, H3O+· (H2O)3 and H5O2+·(H2O)4, respectively.
+It turns out that both complexes behave qualitatively similarly to the gas phase, implying that the H5O2+ core displays an essentially symmetric hydrogen bond with the excess proton being equally shared between two water molecules.
+The dynamics of this hydrogen bond is found to be complex featuring slow large-amplitude motion of the central proton as well as complex dynamics of the protonated water cluster hydrogen bonds formed with the protein matrix.
+This emission is centred around 675 nm and can be assigned to phosphorescence from the lowest-energy MLCT triplet state of the metal complex.
+Even so, emission is much more intense than that observed from the parent complex under these conditions.
+The corrected excitation spectrum matches the absorption spectrum over the entire visible and near-UV regions and all spectroscopic measurements indicate that only a single species emits.
+As such, the temperature dependence is due to perturbation of the photophysical properties of the lowest-energy MLCT triplet state.
+This expression provides for the activationless rate of decay (k0), seen at low temperature, and for coupling to two additional excited triplet states.
+This upper-lying state is probably a second MLCT triplet but with increased singlet character.
+The overall rate constant (k1) associated with reaching this state is rendered complex by the reversible nature of the barrier crossing.
+In this case, barrier crossing is considered to be irreversible such that the derived rate constant (k2) is set by the rate of decay of the MC state.
+This latter process results in direct population of the ground state.
+It is seen that only k0 depends on the length of the strap.
+The fact that k0 depends on the length of the strap is clear indication that the conformation of the bridging unit affects the degree of electronic communication along the molecular axis.
+Two possibilities need be considered on the basis of molecular dynamics simulations made for the target compounds in a bath of acetonitrile molecules.
+First, the strap controls the torsion angle between the phenylene rings.
+Second, the strapped biphenylene unit does not lie coplanar with the covalently-linked terpyridine groups.
+This torsion angle controls the degree of electronic coupling between the terpyridine ligand and the ethynylene group and will have a pronounced effect on the extent of electron delocalisation over the acetylenic unit.
+However, since ET remains invariant throughout this series it is clear that other factors combine to affect the magnitude of k0.
+The medium-frequency mode corresponds to CC and CN stetching vibrations associated with the terpyridine ligand.
+The low frequency vibration can be assigned to substituted phenylene bending modes.
+The rate coefficients (measured in 10−18 cm3 molecule−1 s−1) were 1.58 ± 0.23 for crotonaldehyde, 1.59 ± 0.22 for trans-2-pentenal, 1.82 ± 0.26 for 3-methyl-2-butenal, 5.34 ± 0.73 for trans-2-methyl-2-butenal, 29.5 ± 4.1 for 3-pentene-2-one and 8.3 ± 1.1 for mesityl oxide.
+A log–log plot of the rate coefficients measured in the present and previous works vs. the calculated results of the rate constants, showed a linear relationship.
+We find that for those atoms for which the CASSCF wavefunction is distinct from the HF wavefunction, the Schrödinger values are distinctly smaller than the HF values.
+Most other atoms are also smaller than the HF values, (or the same within a numerical uncertainty), the exceptions being the hard atoms N–Ne, and Cl, Ar and Kr.
+Indeed this analysis agrees with later results in this paper.
+Dynamical correlation, which amongst other things is the main quantum mechanical origin of dispersion interactions, turns out to be critical in describing the TCNE22− dimerization as we discuss below.
+It is apparent that the interaction between the two K+TCNE−˙ monomers is overall dissociative at the PP(1) level.
+This result is perhaps unexpected because, in previous literature on this interaction,2,3,7 the instability of a dimer arising from two TCNE−˙ units was ascribed to anion-anion Coulomb repulsions, but in our theoretical model these radical anions are now each neutralized by K+ ions (i.e., K+TCNE−˙ as in experiments) and yet they are still purely repulsive.
+It indicates that the interaction between two K+TCNE−˙ units cannot just be regarded as coupling between 2 “giant hydrogen-like radicals” since no bond is found when just two-electron bonding and antibonding interactions between the (neutralized) monomers are permitted.
+The message that this result delivers is clear: Dispersion effects, as well as other attractive and repulsive forces, must be considered to correctly describe the π-dimerization of TCNE−˙.
+These results (i.e., binding energy and equilibrium geometry) are in satisfactory agreement with recent experiments in solution and in the solid state, in which ΔH = −8.8 kcal mol−1 (−36.8 kJ mol−1) and Req = 2.9 Å (290 pm).
+The fact that Req at CP-MRMP2 occurs at a slightly longer distance than for MRMP2 reflects the fact that without CP correction, the bond length is spuriously shortened due to BSSE.
+This metastable minimum is found to be spurious confirming that the dimer is bound only in the presence of counter-cations since it almost disappears (with a 0.6 kcal mol−1 barrier) when BSSE is corrected at CP-MRMP2.
+Nontheless, the MRMP2 curve still shows that the dispersion interactions stabilized the dimer significantly.
+Although crucial as shown above, dispersion forces are only one of the driving forces that allow dimer formation with this unusual 2.9 Å bondlength.
+These four-center two-electron π-bonding interactions also help to allow the TCNE monomers to come well inside the usual van der Waals envelope, by partly compensating repulsive Coulomb and exchange interactions between filled orbitals that are responsible for normal van der Waals separations.
+This means that the dimer has about 76% π-bonding character and 24% diradical character, which suggests that its bond order at this distance is 0..76.
+Size-dependent frequency shifts of the O–H stretch vibration (Δν1) and photofragmentation branching ratios provide information about the stepwise microsolvation of both 1-Np+ rotamers in a nonpolar hydrophobic environment, including the formation of structural isomers, the competition between H-bonding and π-bonding, the estimation of ligand binding energies, and the acidity of t/c-1-Np+. t-1-Np+ is predicted to be more stable than c-1-Np+ by 9 kJ mol−1, with an isomerization barrier of 38 kJ mol−1.
+The 1-Np+−Ar spectrum displays ν1 bands of the more stable H-bound and the less stable π-bound t-1-Np+–Ar isomers.
+Only the more stable H-bound dimers are identified for t/c-1-Np+–L2.
+Analysis of the Δν1 shifts of the H-bound dimers yields a first experimental estimate for the proton affinity of the t-1-naphthoxy radical (∼908 ± 30 kJ mol−1).
+At the highest intensity (87 W cm−2) with one hour continuous insonation, voltammetric signals for azobenzene decreased by 7%, hydroazobenzene by 9% and fast black K by 18%.
+T cells were successfully separated on-chip from human blood and from reconstituted blood samples.
+Employing many (4–8), 50 µm deep narrow channels, with the same overall cross section as a single, 3 mm wide channel, was much more effective in structuring dense enough magnetic bead beds to trap cells in a flowing stream.
+The use of 8-multiple bifurcated flow paths increased capture efficiencies from ∼20 up to 37%, when compared to a straight 8-way split design, indicating the value of ensuring uniform flow distribution into each channel in a flow manifold for effective cell capture.
+In the reactive enzyme–substrate conformation, in which the catalytic groups are precisely positioned for the catalytic reaction, the −1 sugar moiety of the substrate adopted a B3,O (boat) conformation for CEX and a 2SO (skew-boat) conformation for BCX.
+Upon binding the internal energies of the reactive substrate conformations are increased by about 9 kJ mol−1.
+In contrast to this, the internal energies of substrates in all-chair conformation are increased by 33–43 kJ mol−1, with somewhat larger increase for BCX than CEX.
+The result of ThT binding assay indicates that the β-structural peptides form amyloid-like fibrils.
+These results showed that biotinylated peptides were incorporated into fibrils, and streptavidin molecules attached to the biotin groups on the fibril.
+This suggests that there is a correlation between the mixing ratio of two peptides at a random coil state and the existence ratio of biotin in the formed fibrils.
+Hence, it can be ideally considered that one biotinylated peptide is preferably incorporated in every 100–120 peptides during fibrillogenesis.
+One of the possible explanations is that streptavidin would bind with plural biotin groups.
+Sterptavidin has four binding sites for biotin, and would bind to plural biotin groups closely arranged in the fibrils, probably resulting in no observation of intervals less than 20 nm and in broad peaks in the histogram.
+Another speculation is that biotin groups could be exposed enough to bind streptavidin every 50 nm.
+On the other hand, in our experiments the periodic binding of avidin to the fibrils was demonstrated, although the fibrils were formed from short peptides.
+Our results may arise from the purposefully designed peptide sequences considering the side-chain interactions to affect regular fibril formation.
+The peptides used in this study were also well designed considering the matching of the side-chain interactions between antiparallel β-strands to regulate the fibril formation.
+It is conceivable that the formed fibrils have a regularity or periodicity in the fine structure, although the direct evidence such as helical twist could not be found in TEM images.
+Therefore, the frequency of bound Au-Av particles on the fibrils consequently reflects the structural periodicity of fibrils owing to the regular peptide alignment.
+In fact, the fluorophore-labelled avidin bound to the fibrils has enabled single fiber observation (data not shown).
+The saturated resonance frequency shift of the cantilever was proportional to the PSA antigen concentration of analyte solution.
+The resonance shift responses of the cantilever were a function of the PSA antigen–antibody reaction time and the PSA concentration.
+The trapping efficiencies are comparable to those measured for particles in liquids, allowing the prolonged trapping and manipulation of droplets for timescales of hours.
+The trend in resonance wavelengths illustrates the increase in mode spacing with diminishing droplet size.
+Indeed, the invariance of the resonant wavelengths with power also suggests that the refractive index of the droplet is constant, reinforcing the conclusion that there is no significant change in temperature.
+A shift to shorter wavelength of 0.047 nm/K would be apparent if heating were occurring, reflecting the change in refractive index with temperature.
+By applying the procedure adopted by Popp et al., this correlates with an increase in droplet temperature due to heating of 0.01 K under steady state conditions, consistent with the temperature invariance inferred from the experimental data.
+A sodium chloride supported cobalt catalyst was found to be active in the synthesis of carbon nanotubes by a CCVD method.
+At n = 30 and 10, along with these species, two new anionic configurations, assigned to contact ion pairs and “cross-link separated” ions pairs, emerge.
+Two-dimensional correlation spectroscopic analysis allowed to clarify the number of components present in two critical bands containing strongly overlapped spectral profiles.
+During the study of the HOOH–HOO complex, we noted that the positions of some of its bands were sensitive to the concentration of dopants in the matrix, shifting several wavenumbers between different experiments.
+Cell-surface associated staining was observed, which enabled the glycocalyx thickness to be deduced as 2.5 ± 0.5 μm.
+This dimension is significantly greater than that measured by electron microscopy, for glutaraldehyde-fixed cells (0.10 ± 0.04 μm).
+The IR spectra of the In+–L dimers reveal two transitions, which are attributed to ν1 fundamentals of the H-bound and π-bound isomers on the basis of their complexation-induced ν1 frequency shifts, Δν1.
+In both cases, the H-bound isomer is found to be more stable than possible π-bound isomers.
+The In+–Ln complexes were generated in an electron impact (EI) ion source, which predominantly produces the most stable isomer of each cluster ion.
+Most of the In+–Ln complexes investigated exhibit a distinct ionization-induced change in the preferred substrate–ligand recognition pattern.
+Comparison of In+–(N2)n and In+–Arn with corresponding complexes of Ph+ and An+ reveals the effect of the acidic YHk group on the recognition pattern of aromatic ions with hydrophobic solvent molecules, including the preferred sequence for cluster growth and the determination of ligand binding energies.
+In the spectra of the mixed solutions bands were detected that must be assigned to the 1∶1 complex between the ether and fluoroform.
+The fluoroform C–H stretching in the complex is detected at 18.7 cm–1 above its value in monomer fluoroform, confirming the blue shifting hydrogen bonding in the complex.
+Analysis shows that the Raman intensity of this mode is not significantly affected by complexation.
+Bi-directional photocurrent generation dependent on the wavelength of irradiation of a mixed monolayer assembly.
+The direction of the photocurrent which is induced in the electrode when it is irradiated depends on the wavelength of the light used.
+The reason for the lower coverage in the case of (RuVS + PcS)/Au is uncertain at present, but the photocurrent intensity correlates well with the surface coverage (vide infra).
+This suggests that the ruthenium complex is the photoactive species and the anodic photocurrent generation is mainly due to photoinduced intramolecular electron transfer from the photoexcited ruthenium complex to the viologen moiety.
+The action spectrum also showed broad bands around 700 nm, corresponding to the absorption bands of phthalocyanine in toluene.
+At E = –200 mV, the photocurrent from (RuVS + PcS)/Au was observed in the cathodic direction when exciting in the 400–750 nm region and the photocurrent action spectrum showed broad peaks around 630 and 700 nm; thus, the contribution from RuVS is negligible.
+At E = +400 mV on the other hand, the photocurrent was observed only in the anodic direction when irradiating in the 400–750 nm region, with a relatively large broad peak around 450 nm, meaning that the contribution from PcS is negligible.
+At E = 0 mV, however, photocurrents were observed in both directions, depending on the irradiation wavelength, as shown in Fig. 3.
+The photocurrent action spectrum for (RuVS + PcS)/Au at E = 0 mV shows a broad anodic peak around 450 nm, corresponding with the absorption peak of RuVS, and two cathodic peaks around 630 and 700 nm, corresponding with the absorption peaks of PcS, with a cross-point (zero current) around 550 nm.
+These results indicate that oxygen is a good electron acceptor for the photoexcited phthalocyanine and the presence of oxygen promotes electron transfer from the photoexcited phthalocyanine to MV2+.
+The bi-directional photocurrent response reported here arises as a result of the implantation of two separate and individually functioning photoinduced electron-transfer systems on the electrode.
+We report strong cooperative enhancement of simultaneous two-photon absorption cross section in a porphyrin dimer.
+This value is comparable to or even exceeds the largest simultaneous TPA cross sections measured for organic chromophores, and is certainly the largest value measured for a tetrapyrrolic molecule.
+The extended conjugation in the dimer manifests itself in a pronounced red shift of the absorption and fluorescence maxima relative to monomer.
+The degree of the power dependence progressively increases with decreasing temperature (Fig. 2) because of the lowering of OPA, and turns into purely quadratic one at T = 20 K. However, analysis of these dependencies with the expression F(P) = aP + bP2 shows that the value of two-photon cross section, proportional to coefficient b does not depend on temperature.
+This is not surprising, because, in contrast to OPA, two-photon transitions predominantly occur from the ground state and do not depend on the depletion of the thermally populated vibronic states.
+We thus obtained σ2 = (6 ± 1) × 103 GM. This constitutes one of the largest intrinsic molecular TPA cross section values known to date.
+The obtained value, σ2 = 15 ± 4 GM, falls well in the range that is typical for regular porphyrins.
+In this case, the excitation at 780 nm was sufficiently far away to the red from the closest Q-band absorption peak at 646 nm, such that no detectable OPA was present, even at room temperature.
+We conclude that the porphyrin dimer exhibits at 780 nm an σ2 value that is about 400 times larger than the corresponding porphyrin monomer.
+At 780-nm, the resonance enhancement factor for the dimer is ca. 13 times larger than that for the monomer.
+However, our experiment gives 400/13 ≈ 30 times enhancement, which serves as an evidence of strong electronic coupling between the two units.
+The cumulenic structure of the linker in the first excited state was favoured over the alternated in ref. 9 to explain the linear optical properties of the dimer.
+The strong conjugation between porphyrin units in the dimer brings first one-photon transition close to one-half of one of the strong two-photon transitions giving rise to nearly double-resonance TPA conditions.
+For the porphyrin dimer studied here this ratio is equal to 2.8 GM amu–1, while for the dendrimer from it is only about 1 GM amu–1, making it a less efficient two-photon absorber in this sense than the porphyrin dimer.
+In conclusion, we have observed a 400 times enhancement of TPA in conjugated porphyrin dimer, as compared to its related monomer at 780 nm.
+The very strong enhancement of the TPA cross section in dimer is explained by the π-conjugation-induced red shift, strengthening of the one-photon allowed Q-transition, and strengthening of transitions from the first excited state, which all result in almost double-resonance conditions for two-photon absorption.
+The results show that the addition of serum to the growth medium increases the hydrophobicity and isoelectric point (i.e.p.) of the microorganisms, and this could indicate an increase in the protein content on the cell surface.
+At short separation distances between the cells and the substratum, the interaction free energy predicts a favourable adhesion for serum-grown cells while non-favourable adhesion is expected for control (TSB-grown cells) and urine-grown cells.
+The second type of localization comes from the dynamical disorder caused by exciton interactions with environment fluctuations.
+This nonexponential relaxation kinetics is observed at room temperature and is more pronounced by lowering the temperature.
+As shown in Fig. 1, products arising from three-membered or four-membered ring intermediates are isotopically distinguishable.
+The intensity distributions of the transitions are relatively smooth without unexplained missing bands.
+The model used does not predict too many bands.
+Besides the standard diffusion resistance, transport in non-equilibrium conditions introduces a current generator in the transmission line equivalent circuit, which is due to an inhomogeneous conductivity.
+Numerical simulation of impedance spectra shows that the effect of the current generator is rather large when the diffusion length is shorter than the film thickness.
+In EGFP the anionic form of the chromophore dominates, which has a strong transition at 490 nm, nicely matching the output of the NOPA.
+The high absorbance and absence of a measurable signal from the solvent suggest that the TG signal arises from sample dichroism.
+The oscillatory part of the response is assigned to coherent vibrational motion in EGFP.
+The ‘constant’ is ascribed to the nanosecond excited state lifetime.
+The remaining ultrafast and picosecond relaxation times are assigned to intramolecular vibrational redistribution and vibrational cooling in the excited state respectively.
+The amplitude of the oscillation is not regular, but the data are well reproduced when a second component of approximately 35 cm−1 is included (the lower frequency is not accurately determined, as data are available for at most two cycles).
+The same frequencies were extracted from measurements at 497 nm.
+The frequencies reported in Fig. 2 are lower than any previously observed for GFP.
+They are also lower than any frequency calculated for the ground state, though Tozzini et al. found deformation modes around 200 cm−1 in their density functional theory and Car–Parrinello MD simulations.
+It is difficult to definitively assign the frequencies observed in Fig. 2 to either the ground or excited state, since both may be excited in vibrational coherence spectroscopy.
+However, the higher frequency oscillation is slow (370 fs) compared to the 60 fs pulsewidth.
+A mode at 95 cm−1 is detected, which is lower in frequency than any previously reported mode in GFP.
+Computed ignition delay times of hydrocarbon–oxygen mixtures (CH4-, C2H6-, C3H8-, n-C4H10-, CH4 + C2H6-, C2H4, C3H6-O2) match the experimental values.
+With the same model concentration profiles for major and intermediate species in fuel-rich, non-sooting, premixed C2H2-, C3H6- air flames and a mixed C2H2/C3H6 (1:1)-air flame at 50 mbar are predicted in good agreement with experimental data.
+The weak side peaks corresponding to 194Pt195Pt6+ and 195Pt6196Pt+ clusters exhibit intensities that are consistent with the specified enrichment grade of the sample.
+The reactions occurring are quite simple, and similar to those observed previously for smaller clusters: Oxide clusters, 195PtnO+ are formed with loss of N2.
+This is due to reactions occurring during the cluster accumulation period.
+The reaction proceeds faster for n = 20 than for n = 8, but only one reaction step is observed.
+Overall, the chemistry pattern found for all of the clusters, both anions and cations, within the range studied is quite simple.
+In a few cases, also a third step resulting in 195PtnO3+ is detected, so that the reactions can be described by the simple equation pattern:Fig. 4 shows a graphical comparison of the observed rates, on a logarithmic scale, of the first reaction step, eqn. (1) for cations and anions as a function of cluster size.
+One finds that the rates of the reaction, as well as the number of oxidation steps observed in the time frame of the experiment vary appreciably, and in a seemingly random manner from cluster to cluster, and the reactivity pattern is also strongly dependent on the cluster charge.
+Among the cations, the n = 6 and 20 clusters exhibit the fastest reaction according to eqn. (1), with rates above the ADO collision efficiency.
+For n = 15 and n = 18, also a third reaction step, according to (3), is observed, which is in both cases faster than the second step.
+The negative cluster ions overall react somewhat slower than the cations, and the size dependence is considerably different.
+Interestingly, the n = 6 cluster, which was the fastest reacting cluster among the cations, represents in fact a deep reactivity minimum among the anions, with the 195Pt6− cluster reacting twenty times slower than the neighboring n = 4,5,7,8 clusters.
+The n = 4 cluster, which is completely unreactive among the cations, is in fact the fastest reacting anion, and also exhibits a fast second reaction step to form 195Pt4O2−.
+To summarize the observations, one can understand the reactions as a decomposition of the nitrous oxide on the metal cluster surface, yielding an oxygen atom and molecular N2.
+While the oxygen atom oxidizes the platinum, the weakly bound nitrogen is released.
+The measured electron vertical detachment energy is too large to be attributed to a complex in which an anion of intact thymine is solvated by glycine, or vice versa.
+The results of calculations indicate that the excess electron attachment to the complex induces an intermolecular barrier-free proton transfer from the carboxylic group of glycine to the O8 atom of thymine.
+Moreover, a difference between U and T in the susceptibility to BFPT is much smaller in complexes with glycine than with formic acid.
+The orientations of these cofactors resemble those of the reaction center from anoxygenic purple bacteria, but differences in hydrogen bonding and protein environment modulate their properties and provide the unique high redox potential (1.17 V) of the primary donor.
+A group of significant line strengths is attributed to ro-vibrational transitions between (〈0,2,0〉 ←〈0,1,0〉) and (〈0,1,0〉 ← 〈0,0,0〉) bands.
+These band centers are calculated at 309.5 and 330.4 cm−1 respectively.
+The strongest band is identified with the (〈0,2,0〉 ← 〈0,0,0〉) transition with a band center of 625.1 cm−1 and line strength of 2.58 × 10−19 cm molecule−1 for the (440 ← 441) transition.
+Moreover, long-time simulations show that diffusion coefficients of respective particles were dependent on the strength of the attractive potential present: a behavior reflecting altered dimensionality of diffusion.
+The widths of those potentials were also found to be affected by the domain size of the more ordered lipid phase.
+New results on these models and interpretations are presented and discussed in significant extracts in Section 4.
+We further show that about 20–30% of the caveolin-1 present at the surface of the cells co-localize with the EGF and BMP receptors.
+Using a reporter gene assay sensitive to the activation of the BMP pathway, we show that overexpression of caveolin-1 β inhibits signaling.
+The nuclei show an intense red fluorescence and the shape of this fluorescence is similar to the semicircular distribution of the chromatin of these cells (Fig. 3), suggesting that 1 interacts with DNA.
+The simultaneous increase in the Na+ and Ca2+ concentrations and the decrease in the K+ concentration is good evidence for cationic channel activation by the porphyrin derivative.
+However, the most important change is the appearance of a large new peak corresponding to the Cl– anion.
+The Kα values for this element are 47 (system I) and 33 wt% (system II), in spite of the higher concentration of 1 in system II (5 times higher) compared to system I. These results constitute suggestive evidence for chloride channel activation as a consequence of the penetration of 1 into the electrocytes.
+It was found that this compound can be easily supercooled, and vitrified by further cooling.
+The degree of supercooling can be high, even for low cooling rates.
+The fragility index was found to be m ≅ 60 by DSC and by TSDC, a value that is lower than the values previously reported.
+Two different polymorphs were detected, and the conditions of formation of each of them have been clearly established.
+Finally, it was shown that the β-relaxation of salol, that is difficult to observe by Dielectric Relaxation Spectroscopy, was very clearly detected by TSDC.
+The mean characteristic time at the glass transition temperature of these molecular motions was found to be of the order of τβ(Tg) ≅ 10−2 s.
+In the native state, the protein shows a very strong thermal expansion of 1.0 × 10−3 K−1 at 10 °C, which decreases steeply to 0.65 × 10−3 K−1 at 40 °C.
+Upon unfolding, the volume decreases by about 19 mL × mol−1.
+In this regard, sorbitol is the more efficient agent.
+A stabilising effect, even though there is a reduction in solvation around the protein is observed for 0.5 M K2SO4 as co-solvent.
+The angle αaz made by the HBr internuclear axis z with the a-axis has the two possible values ±9.83°.
+The preferred structure is that generated when the positive value of the angle is chosen and has the HBr sub-unit pointing in the direction of the S atom of thiophene.
+Product analysis and “in situ” IR spectroscopy support the formation of oligomers of three to five phenylene rings.
+The rates for the methylene blue bleaching were nearly identical (−2.2 × 10−3 Abs min−1) for the brookite-rich and anatase films, and the rate for cis-9-octadecenoic acid decomposition on the brookite-rich film was slightly less than that on the anatase one (−0.08 ± 0.01 μg cm−2 min−1 and −0.10 ± 0.01 μg cm−2 min−1, respectively).
+However, the rate constants for photoinduced hydrophilicity, which were evaluated by the changes in water contact angles (θ) under rather weak UV light irradiation (5 μW cm−2), were better for the brookite surface than the anatase one.
+Moreover, the brookite-rich film became more hydrophilic (θ = 10°) than the anatase one (θ = 18°) after long time exposure to weak UV light irradiation, and showed a good ability for the photoinduced hydrophilicity.
+The SANS intensity distributions at pD 5.4 were fitted using the GOCM model with an excellent agreement between the theory and experiments up to the volume fraction ϕ of 0.4.
+The appearance of the low Q peak is also accompanied by a strong increase in the relative viscosity.
+Density functional theory predicts more than 8 conformers.
+Theoretical calculations with the B3LYP/6-311++G** theory predict that in the most stable neutral conformer an N–H group of the dipeptide ring binds to the indole π system.
+This structure has the highest IE of all conformers investigated and shows a strong geometry change upon ionization.
+Cyclic dipeptides have no polar N or C terminal and hence, as we show here, can be vaporized intact by heating.
+The results are well-described by the following Arrhenius expressions (units are 10−11 cm3 molecule−1 s−1): k1(T) = (1.99 ± 0.06) exp{(145 ± 9)/T} and k2(T) = (3.39 ± 0.03) exp{(63 ± 3)/T}.
+Uncertainties in the Arrhenius parameters are 2σ and represent precision only; estimated accuracies of reported k1(T) and k2(T) values at the 95% confidence level are ±10% around room temperature and ±15% at the temperature extremes of the study.
+The O(1D2) + O2 kinetic data reported in this study are in very good agreement with available literature values.
+The asymmetrically deuterated species DMABN-h3d3 is found to exhibit less CT fluorescence in sufficiently polar solvents than the symmetric isotopomers of DMABN-h6 and DMABN-d6.
+The asymmetric isotopomer DMABN-h3d3 is found to reveal less CT fluorescence in moderately polar solvents than the symmetric ones (DMABN-h6 and DMABN-d6).
+In less polar solvents (e.g., 1,4-dioxane), on the other hand, the fully protonated compound gives rise to red-shifted fluorescence with higher efficiency than the deuterated isotopomers.
+The diameter of the coexistence curves shows the non-analytic temperature dependence typical for Ising systems.
+For the homogeneous study, the electrochemical reduction of TCBQ was carried out in different aprotic solvents (namely: benzonitrile (BN), N,N,dimethylformamide (DMF), propylcyanide (PrCN) and dimethylsulfoxide (DMSO)) and revealed two successive one-electron reductions according to a quasi-reversible EE mechanism.
+The droplets were found to be randomly dispersed with a degree of overlapping and average diameters of 5 μm giving the microdroplets individual volumes of ca.
+The oxidation potentials of MnII in aqueous solutions of bicarbonate, formate, acetate and oxalate are reported as a function of concentration and compared to the rate of photooxidation of these solutions by the Mn-depleted water-oxidizing complex of photosystem II (apo-WOC-PSII) from peas.
+Steady-state Raman spectra in the low-frequency region indicated a loss of molecular planarity in protic solvents.
+Strong EPR signals from solutions of Cr(vi) and glutathione (GSH) in the presence of excess naH6 (Fig. 1; black) are attributed to a distribution of five-coordinate oxoCr(v)–naH6 complexes (d1) in which two naH6 units chelate the oxoCr(v) ion ([naH6] > [oxoCr(v)]) via combinations of the O1,O2, O7,O8 or O8,O9 groups.
+First, the presence of excess Ca(ii) appears to mitigate against the formation of oxoCr(v)–naH6 species involving coordination via the O7,O8-diolato group, since (unlike the binary system) the simplest simulation model for the Ca(ii)–oxoCr(v)–naH6 system did not require the inclusion of a triplet, a quintet or a sextet to model the ternary analogues of [CrO(O1,O2-naH4)(O7,O8-naH3)]2− (n = 2), [CrO(O7,O8-naH3)2]3− (n = 4) or [CrO(O7,O8-naH3)(O8,O9-naH3)]3− (n = 5), respectively.
+Second, an excellent fit between the experimental and simulated spectra for the Ca(ii)–oxoCr(v)–naH6 system was obtained with the inclusion of two isomers each of the singlet, quartet and septet (Table 1).
+Third, the spectral fit in the Ca(ii)–oxoCr(v)–naH6 system required the inclusion of non-uniform 1H aiso values (∼0.59 G, 0.80 G, 0.96 G) for second coordination sphere protons within a single species (Table 1).
+This is distinct from the binary oxoCr(v)–naH6 system, where the conformational flexibility of the glycerol tail of naH6 confers magnetic equivalence upon these protons (1H aiso ∼ 0.75 G).
+The absence of O7,O8-coordinated oxoCr(v)–naH6 species in the ternary Ca(ii)–oxoCr(v)–naH6 system suggests that the O7 group of naH6 has a stronger affinity toward Ca(ii) than toward the oxoCr(v) ion.
+Conversely, based upon the presence of O8,O9-coordinated Ca(ii)–oxoCr(v)–naH6 species, the O8 group of naH6 has an affinity toward the oxoCr(v) ion (and may be simultaneously binding Ca(ii)).
+This latter trend is consistent with [CrO(glycerol(2−))2]− (giso = 1.9800), where in the presence of Ca(ii), giso = 1.9803.
+The minimum energy structure for the F−–NH3 complex, with Cs symmetry, displays a single hydrogen bond between the ammonia and fluoride anion.
+For the F−–(NH3)2 cluster, two closely lying minima with C2 and C1 symmetry were predicted.
+For F−–(NH3)3, four minima were located, with the minimum energy structure having C3h symmetry.
+In the FLN experiments an average 2E splitting of 23 cm−1 is observed.
+The reported concentrations increased for glutamine, creatine, and lactate, and decreased for glutamate, myo-inositol and NAAG, but the sum of all metabolites remained constant, as did the standard deviation of the concentrations in the control group.
+Within the first solvation shell of K+, the QM/MM simulation reveals a polyhedral structure with an average coordination number of 7.6, consisting of 6.7 water and 0.9 ammonia molecules, compared to the corresponding value of 8.7 composed of 5.3 water and 3.4 ammonia molecules obtained by classical pair potential simulation.
+The QM/MM results, in contrast to the classical simulation, clearly indicate a preference for water ligands and a higher flexibility of ligand arrangements in the first solvation shell of the ion.
+In addition, a “structure-breaking” behavior of the ion is well recognized by the detailed analysis on ligand exchange processes and the mean residence times of the ligands surrounding the ion.
+Using geometry optimization and DFT method at the B3LYP/6-31G* level of theory for C35H30, an equilibrium geometry is identified that has the form of a coplanar double-cage dodecahedrane.
+ΔH0f of C35H30 is 51.3 kcal mol−1, it is larger than that of dodecahedrane, but smaller than that of the cubane C8H8.
+Previous MP2 data on the metallophilic interactions in [Cl–M–PH3]2 (M = Cu, Ag, Au) are reproduced (to within basis set differences), and new MP2 data for the transactinide element 111 are presented.
+QCISD and coupled cluster calculations on the title systems are reported for the first time, and reveal that, contrary to the MP2 results, the strength of the metallophilic interaction essentially decreases as group 11 is descended.
+The orientation parameter, β20(21), for the NO(X2Π, v = 0) fragment is found to be essentially the same for the three quantum states, N = 29, 30 and 40 with a value of 0.24 ± 0.04 (2σ), as probed via (1 + 1′) REMPI, on the A2Σ+ (v = 0) ← X2ΠΩ (v = 0) transition.The O2 (a 1Δgv = 0 J = 20) fragment shows a markedly larger orientation parameter, for example β20(21) = 0.55 ± 0.04, measured on the S(20) transition.
+We use several (2 + 1) REMPI transitions which involve excitation of the two photon d 1Πg(v = 2) ←← a 1Δg (v = 0) transition, and show that by measurement of both alignment and orientation we can confirm the assignments in the highly perturbed rotationally resolved spectrum: spectroscopy through dynamics.
+Evidence is presented that the well-established phenomenon of promotion of Ce0.5Zr0.5O2 reduction by suitable treatment procedures may be controlled by adjusting the conditions; and that such reduction leads to the formation of the pyrochlore structure at extremely low temperature.
+All show H2 uptake at relatively high temperature, the maximum of which depends on H2 concentration.
+It should be noted that the profile always remains on-scale with 1% H2.
+Thus, reduction is not limited by H2 concentration.
+For SR and SO at 1273 K (B), low temperature reduction is observed with both H2 concentrations, but the effect is more pronounced with 10% H2, in the sense that the relative intensities of the two peaks observed indicate more uptake in the low temperature feature.
+Similar analysis after subsequent SR (corresponding to 1A2 and 1B1)–MO showed only a small cell volume decrease from the SO-treated samples, suggesting that the procedures do not induce significant changes in the cation sub-lattice, at least on the XRD scale of detection (see ESI).
+It is important to underline the possibility of superimposed luminescence signals, derived from rare earth impurities at ppm levels, in these spectra.
+For the sample treated to 1173 K in 1% H2 (Fig. 2A), the first spectrum shows peaks at 225, 306, 470, and 623 cm–1 which are consistent with the presence of a t′ phase.
+As the reduction temperature increases, the peak intensities decrease, until, at temperatures corresponding to complete reduction of the sample (Fig. 1A2′), a featureless spectrum is observed.
+No Raman features could be observed at 1173 K and above due to the blackbody radiation, which overwhelms the Raman signal.
+In the case of the sample treated to 1273 K in 10% H2, the first spectrum shows peaks at 184, 301, 470, 540 and 623 cm–1, which are also consistent with the presence of a t′ phase.
+No evidence of the pyrochlore or related structures was found, indicating that the pyrochlore was not formed at high temperature during the previous TPR.
+Comparable and high degrees of reduction were achieved in all experiments suggesting that formation of pyrochlore should be equally favoured.
+Finally, the Raman spectra recorded after the CP, in Fig. 2 and at the start of TPR profile B1 (not shown) may all be assigned to t′.
+Consistent with the suggestion of the importance of surface modifications, studies carried out on the present sample indicated that the scrambling capacity between D2 and surface hydroxyl groups is affected by the redox treatments.
+Related effects are predicted to occur also in other types of biological tissue.
+A fit of the experimental data to the resistance model and correction for the effect of gas phase diffusion yield values for the mass accommodation coefficients αacetone = (5.4−2.6+4.5) × 10−3, α2-butanone = (2.1−0.8+0.9) × 10−3, α2,3-butanedione = (1.0 ± 0.3) × 10−4 and α2-oxopropanal = (1.5 ± 0.5) × 10−4.
+UV–visible absorption spectra of the pure dye and of the mixtures in L and LB monolayers show the formation of aggregates or domains of Di-8-ANEPPS within the matrix at high amphiphile content.
+On the contrary, successful transfer of the monomeric form of the dye was achieved using small molar fraction of the cationic matrix.
+The model potential was able to locate all relevant 1∶1 clusters, but failed to find the most stable 1∶2 cluster.
+The kinetic data were used to derive the following Arrhenius expressions in the temperature range 241–373 K(in units of cm3 molecule−1 s−1):k1 = (3.1±0.9) × 10−12exp[(352±82)/T]k2 = (2.8±0.9) × 10−12exp[(503±98)/T]k3 = (2.6±0.6) × 10−12exp[(456±65)/T]At 298 K, the reaction rate constants obtained by the two methods were in very good agreement.
+Experiments performed on the uracil anion in the gaseous phase indicated that in this system the excess electron is dipole-bound.
+The experiments, however, also indicated that water solvation changes the character of the anion from dipole-bound to covalent.
+The calculations concern both dipole-bound and covalently-bound electrons and reveal rich configurational isomerism of the complex of the uracil anion with H2O molecules.
+The analysis of the images and the resulting translational energy distributions from the 1 1A2 state demonstrates the existence of two decay pathways, fast mode-specific cleavage of the NH bond in the excited state (channel A) and internal conversion (IC) to the electronic ground state (S0) followed by unimolecular decomposition of the vibrationally hot S0 molecules (channel B).
+The results at λ = 217 nm indicate that the 1 1B2 state undergoes an ultrafast radiationless transition to 1 1A2 followed by the abovementioned direct mode-specific NH bond fission on the 1 1A2 potential energy surface (channel A′) or conversion to S0 and subsequent unimolecular decomposition (channel B′).
+The latter pathway may also be initiated by a direct relaxation from 1 1B2 to S0.
+The results are consistent with experimental low pressure rate constants k0 = [Ar] 2.5 × 10−32(T/300 K)−1.3 cm6 molecule−2 s−1 and theoretical high pressure rate constants k∞ = 9.5 × 10−11(T/300 K)+0.44 cm3 molecule−1 s−1 from the literature.
+The intermediate falloff curve was found to be best represented by k/k∞ = [x/(1 + x)]Fcent1/(1+(a+logx)2/(N ± ΔN)2) with x = k0/k∞, a ≈ 0.3, N ≈ 1.05, ΔN ≈ 0.1 (+ΔN for (a + log x) < 0 and −ΔN for (a + log x) > 0), and Fcent(Ar) ≈ 0.5 independent of the temperature.
+In a buffer containing 0.2 M NaCl, 2 base-pair mismatches could routinely be detected within 5–20 s.
+Single base-pair mismatches were successfully identified under low salt conditions.
+Whereas the sequence-dependent effects remained unchanged, the assay times between the mixing of two oligomers and clear identification of their hybridisation properties could be reduced down to a maximum of 5–7 s, in some cases even below 1 s.
+The reduction of the Cy 5 fluorescence directly corresponds to the progress of the cleavage reaction.
+During reaction, the enzyme cuts the nucleotides beginning at the 3′ end.
+The spatial separation of the dyes results in the loss of energy transfer.
+Thus, the decrease of fluorescence intensity in the acceptor detection channel purified of cross-talk from the donor detection channel reports directly the progress of the cleavage reaction.
+First of all, we demonstrate that the statistical model predicts that the growth rate depends on the size of the converted region, and therefore on time, as opposed to the geometric model that assumes time-independent growth rate.
+As a result, for the MC simulation, the transformed region does not exhibit the shape of a truncated sphere, as predicted by geometrical models, but rather by a truncated prolate spheroid.
+This corresponds to approximately 3–60% coverage of the NeutrAvidin surface on the QCM.
+Ka value was obtained as 2.5 ± 0.4 × 107 M−1, which is similar to Ka = 6.7 × 106 M−1 obtained for SSA lectin binding to the NeuAc(α2-6)Gal(β1-4)Glc moiety by a surface plasmon resonance method, and Ka = 9.5 × 106 M−1 for SSA lectin binding to glycolipid monolayers having NeuAc(α2-6)Gal headgroups.
+The slightly low Ka value of 3.4 × 105 M−1 was obtained in the bulk solution.
+The maximum binding amount of SSA lectin was estimated to be 410 ng cm−2 as a monolayer adsorption of globular proteins of Mw = 160 kDa, which is consistent with the obtained value of Δmmax = 480 ± 40 ng cm−2.
+SSA lectin is an A2B2-type tetramer and a sectional area is roughly calculated to be 16 nm2.
+This is very large relative to that of sialylglycan (0.6–0.8 nm2), and ca. 30 sialylglycan molecules are calculated to be covered under one SSA lectin binding.
+Our data reveal a complex multiexponential decay of the excited states in both complexes.
+The main trapping lifetimes are 2–3, 30–40 and 360–460 ps in the RC and 2–6, 80–85 and 650–700 ps in the CP47–RC, the latter two phases being two to three times longer than in the RC.
+The data could be fitted well with a kinetic model consisting of three reversible radical pair states, the first one being nearly isoenergetic with P680*, and identical energy levels and kinetics of processes occurring within the RC in both complexes.
+The results indicate that the presence of the CP47 antenna reduces the rate constants of trapping by a factor of 2–3.
+A fit based on a kinetic model suggests that the slower trapping observed in CP47–RC is caused by a shift of the excited states distribution towards the CP47 antenna, and that the intrinsic rate for energy transfer from CP47 to RC does not limit the overall trapping kinetics in the CP47–RC complex.
+The millimetre wave pure rotation and vibration–rotation spectrum of 1,3-benzodioxole has been studied and the vibrational spacing between the two lowest vibrational states in the five membered ring puckering potential has been determined with considerable accuracy, at ΔE01 = 259 726.035(10) MHz or 8.663 5280(4) cm−1.
+In addition, rotationally resolved analysis of two hot bands near the reported origin band in the laser-induced fluorescence spectrum has been carried out and was found to rule out the current literature assignment of this spectrum.
+The new information has been used to reassign the lowest vibrational transitions in the far-infrared and the Raman spectrum of 1,3-benzodioxole in terms of a one dimensional potential with a central barrier of 108 cm−1, which successfully accounts for all states up to υ = 5, and for the observed variation in rotational constants.
+
+
+

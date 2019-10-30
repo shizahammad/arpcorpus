@@ -1,0 +1,43 @@
+ However, three modeling concepts have already been proven to be successfully applicable to the complete spectrum of power semiconductor devices and have their strength for different grades of complexity of the power circuit.
+This paper builds on the finding that text in software artifacts has different properties, as compared to natural language text, thus, we need new solutions for calibrating and configuring LDA and LSI to achieve better (acceptable) performance on software engineering tasks.
+ Thus the extensive information related to software reliability was utilized and integrated so as to make the evaluated result of software reliability more reasonable.
+ Without proper modeling, the requirement information and knowledge is captured laboriously and informally, thus the following integration with other artifacts is nearly inaccessible.
+ Thus the precision of base noun phrase identification improved steadily.
+ Thus, precision and recall are improved rapidly.
+ A survey even found that the specifying cost may appear to be 10% of the total effort.
+Due to the varied types of SMEs businesses, for example, plastic, food, textile, automobile parts, aluminum products etc, the requirements and functionalities of customers will vary considerably.
+######################
+ Thus, it eliminates the need for certificate-based authenticated public-key distribution essential in conventional public-key management schemes.
+ It allows public keys to be derived from entities known identity information, thus eliminating the need for public key distribution and certificates.
+The advantage over VCS is that it is simple and not complex and the disadvantages are size expansion of portions and low visual quality of the revealed image.
+ The TCP SYN flood works by exhausting the TCP connection queue of the host and thus denying legitimate connection requests.
+ With existence of ingress/egress filters it may be concluded that attackers not able to spoof many addresses.
+ Since the IP puzzle would be sent to the listed source and not the attacker, an attacker could not send a puzzle solution, thus preventing the attacker from spoofing.
+If two different applicants, whose benefit amount, age and gender are same, have identical values of R, then they will have identical underwriting results.
+ Thus probably we could not ensure the insured pool's risk to be low enough.
+ The numerical experiments prove the validity of this learning algorithm.
+ Although this training is not closely related to eye-hand coordination needed for playing tennis, it improves one's general motor skills and thus facilitates the learning.
+ The algorithm improves classification precision by adding partition difference set, and decreases the computation complexity by constructing new classification hyperplane on support vector set.
+ Just as showed by figure 1, IASS is composed of 4 layers.
+ It is concluded that Machine Learning includes 3 elements: E (experience), T (tasks), and P (performance).
+ The simulation results show that the simulated annealing-based Q-learning agent is able to learn to select the best dispatching rule for different system objectives.
+ In this paper, we use deep learning techniques to find the best initial weights.
+ Results for a text classification application demonstrate that deep learning can infer Naive Bayes and SVM classifiers with high accuracy and steal their functionalities.
+ Results demonstrate that:Deep learning can reliably build a functionally equivalent classifier for Naive Bayes (2.10% error) and SVM (2.56% error).
+######################################
+The main contribution of this paper is on the self-adaptive recommendation strategy for social tagging, which achieves equilibrium selection between efficiency and accuracy, in purpose to overcome the low efficiency of the personalized recommendation model and the low accuracy of the common preference recommendation model.
+Our contributions are the followings: We propose a new PN system, so called Intelligent Personalized Push Notification, using recommender techniques to capture user preference.
+To summarize, the contributions of this work is as follows: We present a novel 3-D CNN based model for news recommendation in which we utilize the user-item based interaction as well as the content of the read news articles.
+In summary, the contribution of this paper includes: (i) The hybrid RS which integrate user preference based recommendation, knowledge management, content based recommender systems using graph database.
+ Finally, we analyze the recommendation results of two algorithms and discover it is possible to propose an ensemble model to combine IFCR with ANN to exploit their respective advantages in drug recommendation.
+ Thus, we develop a framework that selects a set of users who are likely to react to the push notification.
+ Experimental results illustrated that the hybrid recommendation algorithm can effectively increase the accuracy and stability of recommendation so as to achieve better recommendation results.
+ In resolving the small sample, nonlinear and high dimensional pattern recognition SVM shows many special a dvantages, for example, when classifying data it does not need to reduce dimension, and in the convergence the algorithm, the training speed, and the accuracy of classification in such aspects it has a higher performance.
+ Therefore, this paper has been made a research of remote sensing classification about land use based on support vector machine (SVM), while research area are processing the maximum likelihood classification, compared the results of classification to demonstrate the superiority of classification based on SVM.
+ The performance of the proposed algorithm in classifying the tweets was compared with the text classification algorithms like SVM, Naïve Bayes, KNN etc.
+There are two contribution of this study.
+ Test results also indicate that, with a reduced computational complexity, the performance of the proposed simplified auditory spectrum is close to that of the original auditory spectrum.
+ Experiments show that the recognition rate of Tor anonymous traffic is more than 99%, the accuracy of classification can reach 94%, and less labeled data is needed, which proves that this hierarchical classification algorithm has wider applicability and higher classification accuracy.
+ Our findings are very promising and prove the effectiveness of our algorithm.
+ Experimentation shows that our method has a lower communication cost and better numerical stability than Arnoldi iteration on CPU-GPU clusters, and an auto-tuning scheme shall be incorporated to address problems with different conditions.
+

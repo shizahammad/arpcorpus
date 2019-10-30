@@ -1,0 +1,222 @@
+ With this context, we offer a concrete methodology to help determine when and how to write new code.
+ Another compound semiconductor material, GaN, grown on Si substrate, is currently being used to manufacture advanced GaN power devices.
+ The success of software project is based on good requirement engineering practices.
+Requirement engineering is the process of determining user needs, requirement and constraints for a product or project.
+[2] Analysis is the process of studying and refining the requirements of software product or service, and ensure that requirement is clear, precise, unambiguous and feasible.
+ [3] Specification is the process of developing and creating the formal documentation of requirements.
+ [4] Validation is process of ensuring that the requirement specification is in compliance with the user needs, system requirements, conforms to document standards, and is an adequate basis for the architectural design.
+ Moreover, agile development methods, such as eXtreme Programming [2], SCRUM [3], KanBan [4], Lean SE [5], etc.
+ Most of these are management technique, rather than engineering techniques, applied by software engineers in small teams.
+ This paper's innovation is based on the use of Mindstorms as a resource for teaching process and process management.
+ This percentage was captured by a formative evaluation1 applied to students in subjects that deal with software process and project management concepts.
+In Korea weapon system software development, there is a manual which defines the process for software development, support and management.
+The primary purpose of our research is to propose a framework to assure the software reliability of weapons system in Korea defense domain.
+In the investigation, students will be grouped randomly at the first time.
+In the process, gene will be reserved to next generation partly.
+ First, part of known identification samples were applied to give labels of unknown identification samples by using the similarity matrix, the results were sent to support vector machine process, then a path was got, through the random initial of the known obstacle identification experiments to avoid falling into extreme, this method reduces the time cost bigger compared with other algorithm.
+This paper describes a unique method of using the application of support vector machine technology for robot path planning.
+ This method is gradually become a hot research in the machine learning field.
+ To overcome these limitations, a new technique named as SVMCSD has been proposed for the detection of code smells, based on support vector machine learning technique.
+ Four code smells are specified namely God Class, Feature Envy, Data Class and Long Method and the proposed technique is validated on two open source systems namely ArgoUML and Xerces.
+ During the software maintenance, one of the widely used techniques to improve the software quality is refactoring (changing the inner structure of software system without changing its external behavior) [7].
+ On the contrary, the Fowlers four code smells namely Data Class, Feature Envy, God Class, and Long Method are considered and evaluated using the proposed approach on ArgoUML and Xerces open source software system.
+ Precision (P) and recall (R)software measures are used to compare the result of our approach with DETEX [13].
+ Considering the full system, SVMCSD is able to detect more code smells as compare to DETEX.
+ In this paper, we propose a novel technique to predict software quality by adopting support vector machine (SVM) in the classification of software modules based on complexity metrics.
+ Several different techniques have been proposed to develop predictive software metrics for the classification of software program modules into fault-prone and non fault-prone categories.
+ These techniques include discriminant analysis [4], [5], factor analysis [6], boolean discriminant functions [7], classification trees [8], [9], pattern recognition (Optimal Set Reduction, OSR) [4], [10], EM algorithm [11], feedforward neural networks [12], random forests [13], and many other methods [14].
+ As software complexity metrics can be obtained relatively early in the software life-cycle, it is worthy to explore new techniques for early prediction of software quality based on software complexity metrics.
+Support Vector Machine (SVM) [15] is a new technique for data classification, which has been used successfully in many object recognition applications [16], [17], [18], [19].
+Thematic analysis is an approach that is often used for identifying, analyzing, and reporting patterns (themes) within data in primary qualitative research.
+ 'Thematic synthesis' draws on the principles of thematic analysis and identifies the recurring themes or issues from multiple studies, interprets and explains these themes, and draws conclusions in systematic reviews.
+ This paper conceptualizes the thematic synthesis approach in software engineering as a scientific inquiry involving five steps that parallel those of primary research.
+ The process and outcome associated with each step are described and illustrated with examples from systematic reviews in software engineering.
+Research synthesis is a collective term for a family of methods that are used to summarize, integrate, combine, and compare the findings of primary studies on a specific topic or research question [15] [16].
+ These methods embody the idea of making a new whole out of the parts to provide novel concepts and higher-order interpretations, novel explanatory frameworks, an argument, or new or enhanced theories or conclusions.
+A number of different methods have been proposed for the synthesis of qualitative and mixed-methods findings such as the ones we typically find in software engineering (SE) (see [15] for an overview).
+ Many of the these methods have much in common with meta-ethnography, as originally described by Noblit and Hare [37], and used in SE by Dybå and Dingsøyr [21].
+ This method involves identifying key concepts from primary studies, comparing and translating them into higher-order interpretations.
+Like meta-ethnography, many of the other synthesis methods are based on approaches used in primary research.
+ Of these, thematic analysis stands out as it represents a range of potential methods for research synthesis that can be used with most, if not all, qualitative methods [8].
+ Thematic analysis is also one of the most frequently used synthesis methods in SE; in a previous study we found that two-thirds of the systematic reviews in SE that synthesize their primary studies, performed a narrative or thematic analysis [15].
+Recently, Thomas and Harden developed a new approach called thematic synthesis [42], which draws on the principles of thematic analysis and other established methods in primary qualitative research.
+ The method was developed to address specific review questions about need, appropriateness, acceptability of interventions, and effectiveness.
+ 1 shows an overview of the synthesis process, while Table 2 describe the main steps and checklist items we propose for thematic synthesis in SE.
+Information Retrieval (IR) methods, and in particular topic models, have recently been used to support essential software engineering (SE) tasks, by enabling software textual retrieval and analysis.
+ In all these approaches, topic models have been used on software artifacts in a similar manner as they were used on natural language documents (e.
+ Our paper builds on this new fundamental finding and proposes a novel solution to adapt, configure and effectively use a topic modeling technique, namely Latent Dirichlet Allocation (LDA), to achieve better (acceptable) performance across various SE tasks.
+ In all these approaches, LDA and LSI have been used on software artifacts in a similar manner as they were used on natural language documents (i.
+ This fundamental new research finding explains in part why these fairly sophisticated IR methods showed rather low performance when applied on software data using parameters and configurations that were generally applicable for and tested on natural language corpora.
+ Therefore, it can be useful to consider and use non-traditional teaching methods which can improve studentspsila learning.
+ The Medical faculty at McMaster University in Canada introduced the tutorial process, not only as an explicit instructional method [5] but also as central to their philosophy for structuring an entire curriculum, promoting student-centered multidisciplinary education as a basis for lifelong learning in professional practices.
+ This implies that, embedded software developers adopting a MDD approach are required to employ more than one modeling language to address the multi-faceted design aspects of an embedded software system.
+ One sub-system is used for modeling the application level aspects and the other sub-system is used for dealing with the low-level/hardware-related continuous functions.
+ However, such coupling methods are not applicable to all real-time operating systems and/or limited to a few simulation studies.
+Test coverage is a effective approach of testing effectiveness and adequacy, which has positive impact on software reliability and defect coverage.
+ In order to achieve a highly reliable software system, a number of software fault detection/removal techniques are widely used by the program developers or testing teams to detect and remove software faults.
+ The fault detection rate is used to measure the effectiveness of fault detection for test techniques and test cases.
+Quantitative evaluation of software reliability is an important part of software reliability engineering, and it can be concluded into two methods[1].
+ These methods are applied in different phases of software development process, and its reliability prediction parameters generally include: the actual residual defective number of software, the failure density (failure number /KLOC) and so on.
+ This method is mainly used in the software reliability validation and verification phases.
+Those software reliability analytical engineers analyze many different software modeling methods, and wake up to know that: it is inaccurate for the assessment results that evaluating the reliability only based on the failure data from the software reliability test or predicting the software failure utilized with software quality measurement and influence factors in the software lifecycle alone.
+ By applying the approach to requirement process, the domain knowledge can be captured in a well-defined way systematically from the very early stage.
+ What's more, this method combines the advantages of operational profile model and the Markov model.
+The basic method of constructing the profile of the operational structure is proposed by AT & T's John Mus.
+This paper presents an organizational software process improvement model, with the adaptation of establishing a comprehensive assessment of quality estimate methods.
+ The process should therefore help in determining what exactly the end user needs; based on this scenario it produces the end user needs, and significantly verifies what the developer produced and what exactly the end user needs.
+ The process provides the solution with suitable steps for the development of product.
+ Using this approach, the vendors have collected extensive data on various aspects of software development and products (for example, relating to the cost, quantity, and quality of projects) and have used this data to improve their productivity.
+ This paper presents the method to bridge the project management to software engineering.
+A good methodology addresses the following issues: Planning, Scheduling, Resourcing, Workflows, Activities, Roles, Artifacts, Education.
+Agile development methods received a lot of attention throughout research and industry in recent years.
+ Specific agile methods like ‘SCRUM’ or ‘eXtreme Programming’ (XP) are widely adopted in software development and created great benefits in lead-time as well as fulfilment of customer requirements [2], [3].
+ A method is proposed to select individual segments of a product for highly iterative development and therefore combining agile and traditional methods in one proj ect.
+ They propose to develop these using the traditional approach.
+ The Agile software development methods are adopted to increase the success of the software projects.
+ To avoid the risk of computer failures, a Tailor-made software technique was selected to meet the needs of specific SMEs user requirements.
+ The waterfall approach was adopted because its process incorporates a linear approach allowing potential issues to be identified in the early phases.
+Collecting, understanding, and managing requirements are critical aspects in all development methods including agile methods as well.
+ SRS documents, non-functional requirements and user stories are parsed and used by the proposed approach to generate test cases in which requirements with different types are covered.
+ The proposed approach uses text mining and symbolic execution methodology for test data generation and validation, where a knowledge base is developed for multi-disciplinary domains.
+ ##############################################
+ A visual cryptography techniques are used to create meaningful shares.
+ The watermarking method must be resistant against different attacks; the content of a watermark must be hidden from intruders.
+In some watermarking algorithms a secret key is used to encode watermark and to retrieve it as well.
+ Security is used for expressing how well the watermark can be protected.
+ ACS is an efficient construction method of address-based public/private keys cryptography, which not only ensures high-level authentication to node exchange information, but also enables efficient network-wide secure key update via a single broadcast message.
+ One naive method is to preload each node with all the others public-key certificates prior to network deployment.
+ This approach can neither scale well with the increasing network size, nor handle key update in a secure and cost-effective way.
+ Another approach of on-demand certificate retrieval ARAN [9] may cause both unfavorable communication latency and often tremendous communication overhead.
+ There are many techniques which are used to provide authenticity, confidentiality, secrecy, and integrity to the data one of them is the Cryptography.
+ In this paper, we survey and compare the existing work and concepts of Classical (Modern) Cryptography (CC) and Quantum Cryptography(QC) used for image encryption and decryption.
+ In this paper, we focus on the selecting the best cryptography technique to be used for image encryption and decryption so that researchers can get idea about the selection of efficient cryptography technique.
+Cryptography is the technique which is used for doing secure communication between two parties in the public environment where unauthorized users and malicious attackers are present.
+ But here in this survey we are going to concentrate on the two types of cryptography technique: Classical Cryptography and Quantum Cryptography.
+ Then these monochromatic images are converted into binary image, and finally the obtained binary images are encrypted using binary key image, called as share-1 to obtain binary cipher images.
+ Such technique can be used in some areas such as conference key, private key management, multiparty computation and network auction.
+Visual cryptography is a fixed technique which allows visual information to be encrypted using an encoding system and decrypted by an automatic operation that doesn't need a terminal.
+ A visual cryptography strategy (VCS) is a method of secret splitting strategy which converts a secret image into n portions of dual form.
+  In this paper, we have proposed the effective dithering halftone technique for time reduction process on generating the halftone image and also for enlightening the visual quality of the secret image.
+ The proposed polynomial algorithms generalize the additive increase and multiplicative decrease (AIMD) algorithms used for the TCP/IP networks.
+ There are various methods used to detect and prevent this attack, one of which is to block the packet based on SYN flag count from the same IP address.
+ For the prevention of this kind of attacks, the TCP specific probing is used in the proposed scheme where the client is requested to change the windows size/ cause packet retransmission while sending the ACK in the three way hand shake.
+ We use the following method to mitigate the IP spoofing.
+We monitor packets using network-monitoring software here learning and recording of the packet is done.
+The methods used for preventing TCP SYN flood is done by the following way using the server as the detector of the attack and the local router of the attacker is used to prevent the attack.
+The method used to prevent the opening of connections to spoofed source addresses is SYN cookies [15].
+Another mechanism used for IP Spoofing prevention is using IP puzzles [5].
+TCP Probing for Reply Argument Packet is the methods used for the mitigation of TCP SYN flood with IP spoofing.
+ This paper proposes a scheme for IP address assignment to smart IoT devices (which communicate using TCP/IP) and validation of source IP address in the received IP packets from the IoT Device at the Gateway device.
+ This paper propose a remote control system for setting weather station configuration using TCP/IP network remotely.
+ We also propose a real-time TCP-based DDoS detection approach, which extracts effective features of TCP traffic and distinguishes malicious traffic from normal traffic by two decision tree classifiers.
+ In this paper, a victim-end detection approach is proposed, which uses the decision tree technique to achieve a high detection rate and low false alarm rate.
+Generality: The proposed approach provides two dif- ferent detection modules corresponding to RSIA and FSIA.
+ A reference design of TCP/IP software architecture implementation in embedded system was proposed.
+This paper firstly analyses the actual underwriting methods of Chinese life insurance companies, and points out the merits and shortcomings of these methods.
+ The merit of this strategy is that the process is very simple to execute and it is in favor of cutting down the running expenses.
+ Many algorithms for feature learning depend on cross-validation or empirical methods to optimize the number of features.
+ Due to its training efficiency and scalability to large-scale datasets, linear SVMs are typically used.
+ Nevertheless, this approach cannot be adapted to training data; it is limited in that the feature mapping has to be fixed during the training [7].
+ Mutual Information feature selection, filtering approach, and etc, are effective feature selection methods widely used in TC.
+This paper reports one statistical machine learning methods, namely K-NN to Chinese text categorization, moreover, we use feature weight learning to improve the traditional neighbor algorithm.
+ Notably, a fuzzy expert system and a composite classifier are used to give the learning guidance to the learners, and assist the instructor in grading each learner's online class participation and predicting the performance of each learner's final written report.
+ Our method uses restricted Boltzmann machine to discover a set of hierarchical features from the auxiliary data.
+ In the approach, one need map the original data into the feature space and one constructs an optimal separating hyperplane with maximal margin [8] in this space.
+ Machine learning is a viable approach to reduce the false positive rate and improve the productivity of SOC analysts.
+ This approach can provide security analyst a comprehensive risk score of a user and security analyst can focus on those users with high risk scores.
+ Data mining and machine learning techniques have been used increasingly in the analysis of data in various fields ranging from medicine to finance, education and energy applications.
+ Machine learning techniques make it possible to deduct meaningful further information from those data processed by data mining.
+ This study applies classification algorithms used in data mining and machine learning techniques on those data obtained from individuals during the vocational guidance process, and tries to determine the most appropriate algorithm.
+ Compared to the classical methods, the process of obtaining information is much more accurate and faster with data mining and machine learning.
+The present study has applied classification techniques used in machine learning onto the data sets prepared using data mining techniques on the data collected for vocational guidance research, and thus tried to determine the most appropriate classification algorithm.
+In the paper, we presented optimal common machine learning algorithm (least squares support vector machine-LSSVM) method for fatigue crack propagation rate forecast.
+ In this paper, support vector machines and ensemble learning are used to classify financial data respectively.
+As two of the most popular techniques in the machine learning field, SVMs and ensemble learning are used to classify financial data respectively in this paper.
+The methods of linear classification based on optimal separating hyperplane and K-means clustering are used in action recognition layer.
+ The method of improved naive Bayes is used in content analysis layer.
+In IASS, the rule-based and statistical Machine Learning is adopted broadly in combination to filter spam with the intelligent, flexible, precise, and self-adaptive method.
+ In this research, an intelligent agent-based single machine scheduling system is proposed, where the agent is trained by a new improved Q-learning algorithm.
+ Several methods have been proposed to build dynamic scheduling system, most of which have been addressed using dispatching rules [1], [2], [3].
+ The method named improved RBF network [7] is proposed based on MRAN.
+In this paper, a new method for growing or pruning based on the sensitivity of a hidden unit in its neighbors has been proposed.
+ The fast adjusting algorithm Decouple Extended Kalman Filter (DEKF) [4], [10] is used to reduce the time complexity.
+ The normal supervised learning is used to train the weights with the output data.
+ There are some techniques to overcome the local minima: such as noise-shaping modification [5] and combining nonlinear clustering [6].
+ With the proposed black-box attack approach, an adversary can use deep learning to reliably infer the necessary information by using labels previously obtained from the classifier under attack, and build a functionally equivalent machine learning classifier without knowing the type, structure or underlying parameters of the original classifier.
+ For example, suppose that a government organization trains a classifier using sensitive data that is not available to other governments and private organizations.
+###########################
+ Hybridization of various recommendation techniques has been carried out to combine multiple techniques to improve performance and to remove limitations of underline techniques.
+This paper proposes a hybrid recommender system which provides Top-N recommendations for currently online user on the basis of active user's requirement preferences and accumulated knowledge using graph database.
+ In short, graph database and various graph traversing techniques are used as an instrumental tool to perform various analytical operations for generating Top-N recommendations.
+ (iii) A proposed method for graph modeling which naturally integrate various heterogeneous data elements and allows efficient computation.
+ We propose using discrepancies as a trigger for recommendations to developers.
+ We propose using domain and project knowledge to recognize specific types of discrepancies - and react by providing recommendations to developers.
+ We propose using recommendations as a communication facilitator between user experiences and responsible developers.
+ To further alleviate the ‘cold-start’ users, we also adopt a separate personalized strategy based on a modified PageRank algorithm to improve our recommendations by incorporating the popularity of jobs.
+ A novel approach is proposed for the dynamic adjustment of recommendation lists in order to tackle the issue of limited recommendation layouts.
+ The proposed approach is implemented on an online news website and evaluated for online recommendations.
+ To tackle the issue of limited recommendation layouts, a novel approach is proposed for the dynamic adjustment of recommendation lists.
+ The proposed approach is inspired by the concept of page replacement policies, the Least Recently Used (LRU) and Not Frequently Used (NFU) policies for virtual memory management [19].
+ We propose a novel online activity recommendation approach considering the interest scores and push scores for dynamically adjusting the recommendation list.
+ The method incorporates semantic recommendation using overlap technique based in graph.
+We propose a new PN system, so called Intelligent Personalized Push Notification, using recommender techniques to capture user preference.
+ This paper introduces a recommendation system for Ukiyo-e prints.
+ In this paper we propose a recommendation system for recipe using constraint knowledge based recommendation method (CKRM) and forward checking algorithm.
+Recommendation systems applies knowledge discovery techniques to analyze the user preference based on the interaction of user, which helps the user deal with a lot of information while reducing the searching time to get the information of interest [3].
+In this work, we come up with an approach that uses user-item interactions and the content of the news to capture the similarity between users and items (news).
+In this paper, we propose a novel recommendation method for photo-taking points from a large amount of social community photo collections.
+ In order to realize photo-taking point recommendation, we introduce a novel point and photo selection method based on nested clustering.
+ Therefore, in this paper, we propose a novel collaborative filtering based personalized recommendation method for E-commerce platform.
+In this paper, we introduce collaborative filtering technique in personalized recommendation method for E-commerce platform.
+In this paper, to address these issues, we propose a methodology to drive an innovation from service islands to a global social service network for social influence-aware service recommendation approach.
+ This paper introduces recommendation methods and the timing and manners of recommendation result display, presents multiple recommendation algorithms that reflect the latest achievements in data mining research, designs a model of the e-commerce personalized recommendation system based on data mining.
+ In order to identify the underlying relations between songs, their styles and the artists that perform those, a hybrid Case-Based Reasoning approach combined with a graph model is used.
+ In our system, we propose an improved association rules.
+ We have evaluated our proposed framework using several relevant performance metrics, such as accuracy and diversity.
+ In order to evaluate the performance of our Customizable GenPref, we adopt other existing and relevant performance metrics such as item prediction accuracy and aggregated diversity, as well as using our proposed Genre Difference (GD), Genre Similarity (GS), Preference Similarity (PS) for evaluation.
+ We are using group recommendation system to deal with the issue of recommending learning objects to a learner group.
+In the proposed method, the decision making process is modeled as a game which is played among players who try to achieve an agreement.
+Traditional methods of friend recommendation extract the part of the information of users which results in an incomplete description of user behavior.
+ Back-Propagation Neural Network is used to predict uncertain social links to give an accurate recommendation.
+ The proposed technique has been applied successfully within CareerBuilder's job recommendation email system to generate a 50% increase in total conversions while also decreasing sent emails by 72%.
+ A new method is proposed using a data structure called Peano Count Tree (P-tree) for decision tree classification.
+The classification process is proposed using object-oriented image analysis to extract information from satellite image to detect tropical deforestation [2].
+This paper proposes a novel Data Mining approach by applying an Adaptive Classifier for classification in the field of Medical Data Mining.
+ This paper deals with the remote sensing image classification by the support vector machine, using land cover information for classification of SPOT high spatial resolution images.
+ This paper proposes a novel SVM-based instance selection method for reduced instance based learning.
+ Wrapper-based classification performance validation technique is applied to find the best hyper parameter for support vector identification.
+ Some datasets are used to demonstrate the performance of the proposed instance selection method.
+ In terms of lyrics classification, LSI is used to reduce the dimensionality of the lyrics matrix, which effectively removes noise and uses SVM for classification.
+ In terms of audio classification, BP neural network is used to complete the emotion classification of music; Finally, the two classification will be fused based on the improved algorithm of LFSM.
+ Combined with flow characteristics in secure access of the electricity business, this paper proposed improved Naive Bayesian classification algorithm by adding process of posteriori probability estimation and assigning appropriate weight to characteristic properties and implemented a scheme of realtime traffic classification which is suitable for power system and has fast classification speed, high accuracy and good scalability.
+ In this work, a new tweet classification Method that makes use of tweet features like URL's in the tweet, retweeted tweets and influential users tweet is proposed.
+A number of methods have been proposed for tweet classification.
+ Justified by these, a novel method that uses tweet features like URL's in the tweet, retweeted tweets in Trendtopics and influential users' tweets in Trendtopics has been proposed in this paper.
+ Based on the previous studies, there are two approach that can be implemented on the data level and on the algorithmic level.
+ The oversampling method that is used on the research is Synthetic Minority Over-Sampling Technique (SMOTE).
+ On the research, several resampling method are implemented.
+ The method in this paper is an effective approach to improve the accuracy of image classification and expand possibilities for other application.
+ This paper presents the Web document classification based on fuzzy k-NN network, in the process of classification, TF/IDF (term frequency/inverse document frequency) is adopted for selecting features of document, to increase the accuracy and suit for real world, membership grade is used.
+ In this paper, an efficient method of automatically web documents classification based on fuzzy k-NN algorithm is proposed.
+ According to the Web document classification and the theory of artificial neural network, a Web classification mining method based on classify support vector machine (SVM) is presented in this paper.
+ So in order to truly classify the web text information, and combining the special predominance of classify SVM possess, a web classification mining method based on classify SVM is presented in this paper.
+ On the other hand, various content-based analysis methods of music signal are proposed for music genre classification.
+ Thus, many feature selection methods have been proposed [9]–[10][11][12], and most of these methods are independent of the post-analysis algorithms, but relatively litter work has been done for simultaneously classification and feature selection.
+ In this paper, the customer classification index is extract from the analysis of customer value, at the same time, customer classification method is selected by comparing the different classification methods.
+This paper proposes an automatic genre classification system.
+ We present an improved approach, that is, the original training samples are reduced using clustering, making training samples distribution even and then classify the test samples with KNN classification algorithm based on the partitioned clustering.
+ By using Bayesian algorithm we can easily classify the positive or negative classifications.
+ This paper presents a hierarchical classification approach for Tor anonymous traffic.
+ An improved decision tree algorithm (Tor-IDT) is used to identify the Tor anonymous traffic from the mixed traffic, and then the Tri-Training algorithm is used to segment the identified anonymous traffic at the application level.
+ In this paper, we propose a hierarchical classification approach for Tor anonymous traffic.
+ A novel sparse approximation algorithm tailored for this low complexity classification method is proposed.
+Soft computing techniques such as bio inspired techniques [13] and fuzzy sets are used as alternatives of classic learning techniques.
+ We applied the master/slave method in parallelism to manage the schedulers and improve the performance of the main scheduler.
+ In this paper, we propose to leverage approximation techniques to data clustering to obtain the trade-off between clustering efficiency and result quality, along with online accuracy estimation.
+Thus, we propose an approximate method that can speed up clustering, meanwhile satisfying the user-defined error bound.
+ In this paper, we propose a method that combines a hypergraph based power iteration and a Tall Skinny QR factorization to form a Krylov subspace basis.
+ This paper proposes method to reduce client-side calculation cost and network traffic, and describes the zero-copy implementation of the cluster-wide RAID system using the InfiniBand RDMA mechanism.
+This paper proposes an optimized method to achieve almost zero overhead “Cluster-wide RAID” system.
+The main method discussed in this paper is hierarchical clustering in which a number of clusters are nested into the form of a tree and at each level a cluster is obtained by the union of its sub clusters.
+ In this paper, we propose an efficient technique in which cluster head is dynamically selected from the cluster of cluster heads within the cluster.
+ To this end, we propose a category-based deep CCA (C-DCCA) method, where data in different modalities are nonlinearly projected to the same space via deep networks so that data of different modalities from the same venue or from different venues with the same category are highly correlated in that space.

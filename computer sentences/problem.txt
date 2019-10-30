@@ -1,0 +1,144 @@
+  However, it is difficult to achieve complete testing as some requirements can be tested by a single test case, while others need to be verified by a set of test cases.
+A critical challenge in scientific computing is balancing developing high-quality software with the need for immediate scientific progress.
+ The special challenge in developing such models for circuit simulation results from the need to simultaneously fulfill contradicting requirements like high quantitative accuracy, low demand of computation power, and physical and easy accessible model parameters.
+ In this paper, we will not discuss in detail the different models, which each of the vendors is offering, but restrict ourselves to the basic problems of modeling power semiconductor devices for circuit simulation and the status of the research efforts for overcoming these problems.
+ Addressing both grand challenges requires the accelerated development and adoption of renewable energy technologies.
+ One of the greatest company's problems appointed by the CMMI report is to develop the necessary knowledge inherent to the creation and institutionalization of software processes.
+ However, many software development organizations in Korea defense domain have had problems in performing reliability engineered processes for developing mission-critical and/or safety-critical weapon systems.
+ Especially for weapon systems, it is very difficult to correct the faults once it is already in mass-production phase or operation phase.
+ Nevertheless, there is only limited information available about software reliability approaches in current defense because most of the information is highly proprietary.
+As software complexity continues to increase in today's systems of systems, conveyance of stakeholder requirements, development to these requirements, and validation of these requirements has become exceedingly more difficult.
+ Many faults of the software systems are occurred in only a few of software components, so software verification and validation activities should focus on them to identify and eliminate the high risky problems which can be met during software project[1].
+ High reliability is one of the most important problem facing the software industry.
+ With these predictive models, developers and managers can focus resources on the most fault-prone modules early and prevent problems of poor quality later in the software life cycle.
+ So it is difficult to model with the traditional methods, and an appropriate nonlinear model needs to be developed to solve the problem.
+Teaching software engineering is a difficult task, because becoming good at it requires a lot of practice, not only in small exercises but also in large projects.
+ For software engineering, the “challenge is to develop that group of activities that can foster insight — a level of abstract understanding that can apply from situation to situation — rather than emphasizing detailed procedural understanding” [6].
+Data exchange among these sub-systems is a critical and challenging task.
+ However, companies may face problem when implementing the SPI practices from the context of software development and IT Service Management (ITSM).
+ The statement of problem is related to the understanding and determining the current problems and complexity in software process improvement from the context of software development and ITSM.
+Secondly, the research significance focuses on solving the maintenance problem.
+ Therefore, this paper investigates on the multi-level approach towards defining the solution for the MMPI problem.
+ Software testing profile is the difficult point in the software reliability testing.
+ This paper discusses the major problems in software process measurement, presents an organizational-level software process improvement model (O-SPIM) to support software process improvement.
+ However, the early programming stages have created a number of problems turning software an obstacle to software development particularly those relying on computers.
+The problem for research was that software process Waterfall model is not efficient at the moment, as the software development professionals don't know that which part(s) of the model need more attention than others.
+ Some of the software projects are huge, problematical, inadequately specified, and involve unusual aspects, are still narticularly weak to large and unanticipated problems.
+ Based on this assumption we present potential challenges faced in designing and managing such a project.
+######################################
+ In particular, lattice-based cryptography is a promising candidate, both in terms of foundational properties, as well as its application to traditional security problems such as key exchange, digital signature, and encryption/decryption.
+ Its applications are proliferating for both traditional security problems (i.e., key exchange and digital signature), as well as emerging security problems (i.e., homomorphic schemes).
+ Lattice-based cryptographic algorithms and protocols promise to tackle the challenges posed by deployment across diverse computing platforms, e.
+ In this type of network, routing is an essential problem, since unlike a traditional network, MANET has no access point for the nodes to connect to and communicate.
+To deal with the security problems of secret images, various image cryptographic schemes have been developed to share and communicate the secret image.
+ VCS is not highly-effective and highly-worth, because of the security issues.
+ To address this challenge, the technique known as IP fast reroute (IPFRR) was proposed [2].
+To the best of our knowledge, the above false fast retransmit problem has not been studied under the context of IPFRR.
+ To address this problem, we propose a duplicate acknowledgement suppression (DAS) algorithm in this paper.
+DDoS attack is considered to be a major threat among security problems in today's Internet.
+ mobility of the network as a hole and existence of multiple wireless links, give rise to several unique challenges for achieving a high end-to-end TCP throughput.
+ The high BER, multiple wireless links and mobility of the network as a whole give rise to several unique challenges for achieving high end-to-end performance.
+ In the paper [2], the problem of packet data transmission becomes the main focal point and demonstrate the implementation of communication with an automobile on-board network.
+ When considering the security of data centers, distributed denial of service (DDoS) attacks are one of the most serious problems.
+ Here we consider DDoS attacks leveraging TCP traffic, which are increasingly rampant but are difficult to detect.
+ TCP-based DDoS attacks can utilize multiple attack types and different attack modes, which makes it extremely difficult to detect these attacks.
+ In these schemes, to inherent TCP/IP as the transmission protocol is undoubtedly a good solution to be compatible with the TCP/IP network of the Internet, but problems arise that control network is quite different from communication networks in that the former has a more strictly requirement for real time and reliability.
+The embedded test terminals used in the electricity information acquisition test system are limited to the RAM space and the CPU processing ability, so the integral TCP/IP protocol is difficult to be used in the test terminals.
+With the limitation of hardware resource and the low-efficiency of general purpose TCP/IP protocol stacks and protocol models, it is quite difficult to implement full TCP/IP protocol into embedded system when accessing to Internet.
+ The existing water meters of mechanical type have so many problems to measure data.
+  Also there are monitoring problems of increasing level of flowing water and leakage of water.
+ But the content is abstract and boring, the teaching effect is not perfect sometimes.
+ While network coding approaches can provide such advantages, the delivery of information based on network in a timely manner has a significant drawback of all-or-nothing problem because receivers cannot decode any information from received data unless they received at least the same number of innovative packets as the number of source packets by deadlines.
+ Therefore, the problem becomes critical especially for real-time applications such as multimedia delivery, online game, video conference, etc.
+Determination of model complexity is a challenging issue to solve computer vision problems using restricted boltzmann machines (RBMs).
+However, determination of optimal model complexity, i.e.,the number of hidden neurons or the number of features for RBMs, is a still challenging problem.
+To address this issue, we propose an incremental hidden layer learning algorithm to train features from the given dataset by adaptively incrementing the number of hidden neurons depending on the dataset and learned features.
+ Two key issues in TC are feature coding and classifier design.
+ However, training examples are difficult to obtain.
+ Human learning faces the same challenge but we use prior knowledge and experiences to alleviate the problem.
+ This paper applies the SVMs to resolve the practical CRM problem in a company.
+ How to improve the testing accuracies of the given problem is an open difficult task in the world.
+ Most dynamic single machine scheduling problems in practice have been addressed using dispatching rules.
+One of the important research issues in online learning is to adjust the architecture of classifiers dynamically to adapt the problem [8], [13].
+ Modeling a collaborative, networked system that involves multimodal data presents many challenges.
+ In order to overcome this problem, we propose a new /spl nu/-SVM.
+ Problems in the areas of cancer biomarker modelling, yeast genomics [4] and chemical regulation are all real-world examples where there exists anti-learnable datasets.
+ This new attack paradigm with deep learning introduces additional security challenges for online machine learning algorithms and raises the need for novel mitigation strategies to counteract the high fidelity inference capability of deep learning.
+ In this paper, we address the problem of exploratory attacks where the state-of-the-art focuses on model inversion attacks [7]–[8][9].
+ However, due to limits of knowledge and data acquisition method, or the complexity of the problem, samples can not be expressed by real vectors in many real world problems.
+#####################
+ Users are puzzled by the problem of “information overload”.
+ They find it difficult to obtain useful information from huge amounts of resources.
+ Therefore, it is an urgent problem to offer personalized recommendation service for learners in distance education.
+ It is difficult for users to find and use information they need, the result being that the utilization efficiency of resource is not high.
+One of the most important research problems is how to integrate external knowledge for improving performance of content-based recommendations.
+ This knowledge is difficult to master.
+ Evaluating acceptance from developer activities is yet another challenge.
+ Few works which utilize CF do not address the scalability challenges of real-world systems and the problem of cold-start.
+ The short lived nature of the items (jobs) in the system and the rapid rate in which new users and jobs enter the system make the cold-start a serious problem hindering CF methods.
+ We address this problem by harnessing the power of deep learning in addition to user behavior to serve hybrid recommendations.
+However, there are inherent challenges in building such systems in the domain of job search and recommendations.
+ These systems often suffer from the data sparsity problem, which results in a lower recommendation quality.
+ In particular, the main challenges in drugs recommender for epilepsy are as follows:
+ As epilepsy [4] is a chronic brain disorder, most patients with epilepsy are often accompanied by numerous physical problems (such as episodes of fractures and scratches) and a higher proportion of mental problems, including anxiety, depression and migraines.
+ Epilepsy drugs[5] can cause many side effects, such as lacking of hypersensitivity, weight problems and central nervous system toxicity by drug interactions.
+The invention and wide use of the network satisfy the information needs of a large number of users, but introduce the problem of information overload.
+ To tackle this problem, IPPN uses Collaborative Filtering (CF) and Contents-based (CB) recommendation techniques where CF models user activity without considering content while CB only considers content property.
+ Also this paper addresses the cold start problem and ways to profile users when limited authentication information is available.
+The main problem with these art prints is that they are discolored easily.
+ For novice user it may be difficult to search.
+ All the three approaches of recommendation system have some drawbacks including the cold-start problem which is a common drawback for all the three approaches.
+ In order to meet the demand of the users' personality and ease the problem of data sparse, the research work proposed the hybrid collaborative filtering algorithm based on news recommendation.
+Recommendation Systems (RS) are a type of information filter to overcome the information overload problem.
+ One of the problems with news recommendation is that of handling temporal changes in user interests.
+ However, designing and implementing a scenic spot recommendation system is time-consuming, and it's also not simple to recommend a route that satisfies the user's personalized preference.
+ Then, it is very difficult for users to find products they want in E-Commerce website [2], [3].
+ Therefore, to deal with this problem, personalized recommendation systems are developed to provide suitable products to target consumers in terms of user requirements [4].
+The key problem in personalized recommendation is to design an effective recommendation algorithm, which can fully mining users' real requirements to suggest suitable products for customers [7].
+ With increasing presence and adoption of Web Services on the World Wide Web, to recommend suitable services to users has become an important issue.
+ Especially when the service searching space are becoming large, performance issues will be exposed more seriously and even hinder semantic-related service recommendation from being utilized in real-world scenarios.
+ Therefore, how to measure the micro-level mechanisms of social influence with fundamental social factors is key problem since influence strength varies with social factors.
+ At the same time, the expansion ability and the real-time requirement of the recommendation system are becoming more and more difficult to guarantee in a large-scale e-commerce recommendation system.
+ So, the integration of multiple recommendation algorithms using various data and the real-time requirement are pressing problems in the development of e-commerce personalized service.
+ Novels as the long texts have higher preprocessing dimensions, more semantic textual relationships and complex relationship of characters compared with short texts, it makes long text recommendation difficult.
+With the rapid growth of the amount of information, people are faced with an urgent and serious problem which is called information overload.
+ At the same time, a new paradigm of making recommendations hat "surprise" the user poses new challenges in relation to the definition, formulation and performance metrics for surprising recommendation systems.
+ The recommendation system is modeled as a problem of finding the Nash equilibrium in the non-cooperative game theory.
+ In the large-scale data, it is difficult for users to find friends and information that they are interested in and then to expand the social network.
+ There is a fundamental supply and demand problem here: once a user has left a website, they then become your supply of potential future customers to reengage, but every time you attempt to email them, you risk having them unsubscribe if they are for any reason unhappy with the email.
+ Though there are many sophisticated classification algorithms, such as KNN, SVM, and Bayes, how to improve the classification precision is the main hot problem.
+ As health issues have been a major area of concern, challenges exist in detecting and finding possible cures to the deadly diseases.
+Traditional classification algorithms used in remote sensing images have many problems, such as the low operation speed, low accuracy and difficult convergence.
+ It is accompanied by the problems of retrieval and management of massive online music resources, which have aroused more and more attention from academics and industry.
+ However, the artificial labeling based on musical emotion requires high cost and long time and different people have different emotion perception to the same music, which also causes the problem of low accuracy.
+ How to manage network access control, traffic detection, network planning and construction and to enhance network safety margin is urgent problems in the power system network construction currently.
+ But for multi-class image classification, it is by no means so easy, as there are problems to be solved in defining various ranges, outputting results at the root nodes into different classes in accordance with the samples and defining suitable type range.
+ This makes tweet classification a challenging problem for the Machine Learning researchers.
+ Challenges in classifying tweets includes colloquialism in tweets, spelling variation, use of special characters, violating regular grammar rules etc.
+ Theoritically, one-sided treatment of the imbalanced class can cause two major problem, overfitting, and information loss from the dataset.
+ However, obtaining such data can be a difficult and time-consuming endeavor.
+ Support Vector Machine (SVM) following Structure Risk Minimization (SRM) can overcome the problems NN encountered.
+ Theoretically, it will obtain global optimal solution so that it can overcome the local minimums problem of NN.
+ However, SVM suffers from a major problem which is that it is a pixel-based spectral classifier and does not take into account spatial information.
+ To address this issue many spectral-spatial based methods have been developed and reported in the literature.
+ Unfortunately, there exists a problem that most spatial information extraction methods have.
+ It is a great challenge for information science and technology that how people organize and process large amount of document data, and find the interesting information for users quickly, exactly and fully.
+ But the BP network has some problems such as converge to local minimum, the slow speed of network learning, the overfitting and the structure of ANN is always decided by experience because it doesn't have a good guiding theory, especially, when the number of the training sample is not enough, the judgment accuracy will beaffected.
+ Since a typical multimedia database often contains millions of audio clips, it is very difficult to manage such a large music database.
+Vagueness in the boundaries of land cover classes is one of the important problems in the image classification.
+ Furthermore, it has some shortcomings such as the problem of falling into a local minimum.
+ However, this algorithm suffers the problem of local minimum and also it takes more time to accomplish the classification task.
+ But KNN classifier may have a problem when training samples are uneven.
+ The problem is that KNN classifier may decrease the precision of classification because of the uneven density of training data.
+In this paper, we present an improved algorithm to solve the problem of traditional KNN.
+ The proposed method attempts to overcome the problem of the loss of text information by using well trained training sets.
+ Since the three forwarding nodes are located in different regions of the world, tracking is difficult.
+With the high popularity of the network application and the rapid development of information technology, the diversified data in battlefield pose a great challenge to battlefield information processing.
+ The crucial drawback of sparse representation classifiers, however, is the exorbitant complexity of computing the sparse representation of a testing sample, which limits the application of such techniques in battlefield scenarios where process time and computational power is restricted [6].
+Job scheduling is a very important problem in computer science.
+This causes some problems when an enterprise tries to consolidate the clusters.
+ There is lot of challenges, in which one is to use efficiently limited energy provided.
+ To come up with a generic tool integrating with or extending existing solutions is difficult.
+ Also the task to choose and interpret a reasonable set of performance counter events for a variety of processor and accelerator architectures is a hard problem.
+The LIKWID Monitoring Stack tries to address these concerns and issues.
+ As the energy required by the cluster head is more than its member nodes and hence the cluster head selection is one of the challenging issues to get a well balanced wireless sensor networks.

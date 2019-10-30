@@ -1,0 +1,237 @@
+﻿Semiconductor nanoparticles have generated much interest due to their unique electronic, optical, catalytic and electrochemical properties compared to their bulk forms.
+CdS nanoparticles have potential applications as optoelectronic devices, lasers,photocatalysts, electrochemical cells, fluorescent labeling of cell organelles,etc. These exciting applications have focused attention on the synthesis, size control and organization of nanoclusters.
+One such aspect is the formation of thin films of semiconductor nanoparticles.
+Despite the significant interest in photonic structures there have been very few reports of the optical properties of nanostructured metal films of this type.
+The use of nanoparticles for in situ detection of specific reactions has significant potential to probe living cells and tissues.
+For example, the detection in a cell of DNA or protein/receptor interactions will provide information of specific functionality.
+However, one form of Raman spectroscopy, surface enhanced resonance Raman scattering (SERRS), has superior properties for labelling of nanoparticles.
+Raman scattering has many advantages in biological systems in that it provides a vibrational spectrum from aqueous solutions using visible wavelength lasers and detectors.
+For a dye to be an effective label for reproducible SERRS it must bind strongly to the surface even in the biological environment.
+Chiral recognition is a crucial phenomenon in biochemical systems as well as in technological applications.
+It enables the rational design of pharmaceuticals, chiral sensors and molecular devices.
+In asymmetric organic photochemistry, chiral recognition in the excited state is important to achieve enantioselectivity during photosensitization and quenching processes.
+Stereoselectivity in the triplet decay of chiral benzophenone–naphthalene bichromophoric systems.
+This appeared to be an adequate model system in order to investigate the possible stereoselectivity in the process by introducing chirality in the bichromophores.
+These differences are not yet understood in terms of molecular structure, i.e. whether they arise from the replacement of Mo with Fe or from other differences in the enzyme structure.
+Among various methods of solar energy conversion, the photocatalytic decomposition of water into H2 and O2 over semiconductor materials is one of the most challenging methods.
+Much attention has been paid to this reaction, as it can potentially provide clean and renewable source for hydrogen fuel in the future.
+In recent years the hypothetical existence of various poly-nitrogen species has attracted scientific attention, mainly from theoretical chemists.
+Of special interest has been the existence of new all-nitrogen anions like the N5− pentagon.
+This anion remained elusive until very recently, yet long time predicted by computational chemists to be relatively stable due to a large aromatic character.
+Application interest for anions with very high dissociation capabilities exists e.g. as counter-ions for metal catalysts in organic synthesis and in modern non-aqueous (liquid and solid) electrolytes for lithium batteries.
+However NACTs, as we show next, are related to spatial derivatives (namely derivatives with respect to nuclear coordinates) and therefore are associated with nearby Hilbert spaces.
+This forces us to relate to interactions between Hilbert spaces and this is the main reason for making the study of electronic non-adiabatic effects more complicated than, for instance, single-surface studies that avoid them.
+In case the Hilbert space is very large or even infinite this situation may cause insurmountable complications unless the Hilbert space breaks up into several subspaces, each comprising a small group of states.
+While quantum chemical predictions have strongly suggested a decade ago the existence of mercury in its oxidation state +iv, no experimental evidence has been found yet.
+The possible existence of species with mercury in an oxidation state higher than +ii has been puzzling experimentalists and theoreticians for almost three decades.
+An experimental verification of such high-valent mercury complexes is a fascinating target, as it would turn a group 12 element into a true transition metal.
+Ellipticine and its derivatives are highly toxic to malignant cells in culture2 and 2N-methyl-9-hydroxy-ellipticinium (2) and other ellipticine derivatives have reached the phase II of clinical trials.
+Little is known, however, about the specific factors involved in stabilising ellipticine–DNA complexes.
+One of the possible approaches to evaluate various factors involved in the intercalator–DNA binding is computational chemistry.
+A comparison with the ab initio calculated data can help to evaluate the empirical potential results.
+Charge transfer in DNA has been a subject of considerable interest in recent years.In addition to potential sensor and nanoelectronics applications, it has been suggested that charge migration may provide new insight into the direction of mutations upon oxidative stress.
+This question is intimately related to the stability of the genome, its repair mechanism and the origin of molecular diseases emerging from DNA defects, including cancer.
+Thus, kinetic data for this class of molecules are often necessary in the atmospheric model calculations.
+For example, some unsaturated carbonyls with complex structures have recently been paid attention because these are possible intermediates of the formations of the secondary organic aerosols.
+However, for complex molecules, there are only preliminarily kinetic data because of the high reactivity and difficulties in the preparation of these molecules.
+On the other hand, a correlation of the plot for the reactions of O3 with unsaturated hydrocarbons is much poorer than that for the reactions of OH radical.
+The great difficulty is that in quantum chemistry these two forms of correlation cannot be cleanly separated.
+It is therefore relevant to ask the question whether HF atoms are too large or too small.
+Structure–activity correlations of solid catalysts and time-resolved studies generally require that the structure within a solid catalyst is probed simultaneously and at the same location where the catalysis and the structural changes occur.
+These requirements lead to a compromise between the spectroscopic arrangement and the optimum design for an in situ reactor cell.
+Both goals require in situ investigations and the design of appropriate in situ cells for simultaneous structural and catalytic studies.
+In particular, techniques based on X-rays (X-ray diffraction, scattering techniques, X-ray absorption) have been used,4,8,9,13–16 since in situ cells can be constructed that mimic conditions close to the reaction conditions, even in liquid phase or at high pressure.
+However, none of the studies compared the advantages and limitations of the different cell designs to provide truly in situ EXAFS studies, both under dynamic and static conditions.
+In situ studies of such catalysts are important, since several mechanisms for the oxidation of methane have been proposed33–38 and the structure of Pd under reaction conditions is still a matter of discussion.
+Therefore, investigations on characterization and the adsorption behavior of porous materials are of great importance from both scientific and practical points of view.
+Therefore, because of its ideal pore structure, there exists a strong incentive for researchers to study and use it.
+Not only can it be used in adsorption, separation and catalysis, it is also regarded as the most suitable model adsorbent currently available for verification of theoretical predictions for cylindrical pores.
+The TCNE22− π-dimer has many of the characteristics of a chemical bond despite its remarkably long (2.9 Å) C–C bondlength, as it exists in crystalline solids.
+Structure 2, with its intriguing C–C separation that is too short for a van der Waals complex but astonishingly long for a C–C bond, may represent an emerging class of organic molecules that possess unusually long C–C bonding interactions.
+Perhaps due to the unusual nature of the interaction, electronic structure calculations to date have not yielded binding energies and C–C distances in good agreement with experiment.
+This is firstly to do with differences between the models studied and experiment, because typically no explicit counter-ions are present in the calculated potential energy curves (although estimates of their stabilizing effect have been made).
+Additionally the deviations can also be associated with limitations in the computational methods.
+Hydroxyarenes are fundamental molecules in chemistry, biology, and life sciences, and display a variety of interesting properties arising from both the hydroxy group and the aromatic π-electron system.
+Consequently, (micro)solvated hydroxyarenes have become popular model systems to investigate energetics and dynamics of photo-induced proton transfer in both isolated complexes and in solution under controlled solvation conditions.
+The ionization-induced switch in the preferred ligand binding site in A(+)–L imposes important consequences for spectroscopic studies of A+–L prepared by photoionization of A–L.
+Spectroscopic and theoretical information about neutral and ionic 1-Np(+)–Ln complexes with L = Ar/N2 is rather limited.
+(1) These clusters serve as a suitable model for solvation of the highly acidic 1-Np+ cations in a nonpolar solvent.
+Particularly interesting is the competition between H-bonding and π-bonding and its consequences on the cluster growth.
+As Ar and N2 are weak proton acceptors, proton transfer from 1-Np+ to the solvent may not be expected in D0 even for complete solvation.
+(2) As the ability of the OH group to form H-bonds to a ligand is correlated with its acidity, the EI-IR spectra of H-bound 1-Np+–L dimers directly probe the acidity of both 1-Np+ rotamers and eventually enable a first estimate of the unknown proton affinity of the 1-naphthoxy radical.
+The detection of c-1-Np+–(N2)n in the present work corresponds to the first observation of c-1-Np+ complexes and enables thus direct comparison of both 1-Np+ rotamers.
+(3) Comparison of 1-Np+–Ln with Ph+–Ln and H2O+–Ln reveals the influence of substitution of a mono- and bicyclic aromatic ring on the acidity of ROH+ cations.
+The electrochemical reduction of oxygen to form hydrogen peroxide is of wide interest.
+Electrode modification for electro-catalysis of oxygen reduction is popular since through immobilisation onto electrode surfaces via physically or covalent attachment electrocatalytic activities can be significantly improved.
+A large number of synthetic chemists seeking greener syntheses are turning toward hydrogen peroxide based oxidations, since water is the sole by-product of these oxidations.
+Moreover expensive catalysts and solvents may be avoided while the need for costly organic peroxides or chlorine based oxidations can be eliminated.
+Such sono-electrodes offer scope for a green source of hydrogen peroxide in which oxygen (air) can be reduced with a high efficiency at an insonated electrode to provide a cheap and clean supply of hydrogen peroxide at the point of usage.
+Microfluidic systems appear to offer a powerful means to automate and miniaturize sample preparation for genetic assays and for clinical diagnostics in samples such as blood.
+The design of the first, large volume stage has not been extensively explored, but is a critical component of an overall μ-TAS concept for clinical diagnostics.
+With the development of microchip methods for RNA or DNA sample preparation PCR and on-chip hybridization it has become clear that integrating the cell capture and concentration steps within a μ-TAS system remains a bottleneck.
+These structures have shed light on the atomic details of the covalent reaction intermediate, but it is less clear in which conformation the sugar of the −1 subsite is bound in the Michaelis complex.
+The ambiguity is mainly due to difficulties in finding suitable substrates, which are not hydrolysed, occupy at the same time subsites also at the reducing end (+1) of the binding site, and are structurally similar to the natural substrates.
+Knowledge of the energetics involved in the substrate binding in different conformations can be obtained with computer simulations and further our understanding on factors responsible for enzyme-catalysed reactions.
+Amyloid-like fibrils formed from de novo designed short peptides, made up a nanoscale scaffold on which streptavidin was arranged in a regular spacing, potentially allowing the development into an array technology utilizing bio-nanoconstructs.
+Thus, this type of fibril has the potential to be engineered into novel proteinous nanoscale materials, and many fibrous proteins and peptides including of both natural and artificial origin have been investigated.
+The engineered fibrous peptides can be applied to develop arrays of chemical and biological molecules on the nanoscale construct.
+Other functional molecules can be arrayed onto the fibrils used in this study by adding functionalized streptavidin to biotinylated fibrils and/or adding functionalized biotin to streptavidin-immobilized fibrils.
+Over the past few decades, a considerable number of studies have been made on high-throughput identification and the quantitative analysis of biological molecules for the diagnosis, monitoring, and evaluation of complex diseases, such as cancer, as well as for basic study.
+In recent years, there has been growing interest in bio- and immuno-sensors that use micro-electro-mechanical systems (MEMS) and nano-electro-mechanical systems (NEMS).
+However, there has been no report yet on the dynamic mode of a biosensor for protein–protein interaction detection that uses a cantilever included in the PZT actuating layer, without any external driving actuator in the liquid environment.
+The PSA is a clinical marker of prostate cancer, which is currently the most prevalent form of cancer in men and the second leading cause of male cancer death in the United States.
+When coupled with cavity enhanced Raman scattering (CERS), the evolution of the size of a single droplet can be examined with nanometre accuracy.
+To complement measurements made on ensembles of particles, measurements made on a single particle may provide detailed information on the mechanisms of heterogeneous chemistry, the factors governing mixing state, and the processes that lead to the physical transformation of the particle through phase transformation and growth.
+In this Communication, we demonstrate for the first time that single-beam gradient force optical trapping or optical tweezing, can be used to trap a single water or decane droplet, 4–14 μm in diameter, for timescales of hours, affording the prospect of characterising the mechanisms of chemical and physical transformations of a single droplet.
+When coupled with cavity enhanced Raman scattering (CERS), the size of the droplet can be determined with nanometre precision.
+By creating two optical traps, two droplets can be manipulated simultaneously, providing the unique opportunity to study the coagulation of two droplets directly.
+Tweezers have found widespread application in the biological and colloidal sciences, but have not been developed to address key issues in aerosol science.
+Tweezing has been applied to trapping solid glass spheres in air and scattering forces have been used to levitate particles but there has been little success in tweezing liquid aerosols and no reported entrapment of water droplets.
+However, in order to appear on the market and later in the households, these products as well as their components must be cheap enough.
+Applying a water soluble catalyst support could make the purification step easier controllable, more economical, and environmentally friendly.
+However, there are no reports on in situ observation of living endothelial glycocalyx with CLSM.
+Hence, size-selected In+–Ln clusters serve as model systems to investigate the interaction between tryptophan-containing biomolecules and surrounding solvent molecules under controlled solvation conditions.
+So far, no H-bound isomer has been detected for any aromatic A–Ar complex in the S0 state.
+No evidence for an H-bound In–Ar isomer has been reported.
+No evidence for the formation of an intermolecular H-bond in In+–Arn clusters has been reported.
+In contrast to In–Arn, neither spectroscopic nor theoretical information is available for the neutral and ionic states of In(+)–(N2)n complexes.
+The latter are assumed to play a crucial role in diatom cell wall formation.
+New opportunities for the so-called biomimetic silica synthesis are likely to arise from these discoveries.
+One particularly interesting example is polyallylamine (PAA), a commercially available compound.
+In contrast, Raman spectra of cryosolutions have been studied far less, and the Raman literature on the formation of weak complexes in cryosolution is virtually non-existent.
+This decrease, by an order of magnitude, makes the transition hard to detect in the IR spectra.
+Ab initio predictions of spectral intensities for complexes held together by blue shifting hydrogen bonds hitherto have exclusively concentrated on the IR spectra.
+The development of novel organic thin film devices based on the assembly of molecular components has been an exceptionally active field in recent times.
+Self-assembled monolayers (SAMs) of donor (D)–acceptor (A) pairs on electrodes have attracted particular attention for application as photoelectric conversion devices.
+Promising applications of two-photon absorption (TPA) in high-density optical data storage two-photon fluorescence microscopy microfabrication photodynamic therapy and other areas of photonics have recently stimulated the search for novel materials with high efficiency of simultaneous (intrinsic) two-photon absorption (TPA).
+Porphyrins, notably porphyrin oligomers and polymers, deserve a particular attention since tetrapyrrolic chromophores are inherently suitable for medical and biological applications and also because their photophysical behaviour can easily be optimized by changing the central metal, as well as by peripheral substitution.
+Therefore precise knowledge of the interaction between the potentials is needed for a detailed understanding of the underlying process.
+The initial microbial adhesion of bacteria to different surfaces seems to be mediated by physico-chemical forces and this is the reason why the physico-chemical surface characterisation of bacteria has recently gained interest.
+Bacterial adhesion to different surfaces is a process that is of importance in many fields.
+In particular, in the field of medicine, the adhesion of microorganisms to inert surfaces has gained importance in recent decades due to the increasing number of clinical practices which require the use of implants.
+One of the microorganisms of current interest because of its adhesion to such biomaterials is Enterococcus faecalis.
+Theoretical chemistry, therefore, is an important tool, having a critical position as a companion to experimental results, playing a significant role in the advancement and development of today's chemistry in general, and the research in polycyclic aromatic hydrocarbon (PAH) anions, in particular.
+PAH anions have also been the focus of extensive research, as they exhibit extraordinary properties, pertaining to key questions of much interest in organic chemistry.
+Theoretical characterization of PAHs and their anions is therefore critical to understanding their reactivity.
+At the same time, the actual necessity of diffuse functions for these types of molecules can be questioned.
+At the present time, the few DFT calculations performed on PAH anions have not extensively examined all parameters in this work.
+Due to their Cn symmetry these ring-like structures seem to be very attractive molecular aggregates for studies of the collective excited states (excitons) by analysing the steady-state and transient spectra.
+Hopping models were successfully applied for molecular polymers as being responsible for charge diffusion in the bulk.
+The concepts of correlated and uncorrelated distribution of on-site energies were successfully developed and applied.
+The value of this branching ratio is critical in determining the mechanism behind “prompt” CO2 formation in acetylene oxidation.
+The so called diffuse interstellar bands (DIBs) still do not have accurate assignments more than 75 years after the first observation of the most intense of these bands.
+The formation of H2 in RM form is, of course, of great interest for the interpretation of the DIBs.
+These facts suggest that RM exists in large amounts in interstellar and intergalactic space, and thus that the interpretation of the DIB bands in terms of processes in RM is based on the actual existence of RM in space.
+However, strong steady-state diffusion currents become a quite important and even dominant feature in many applications.
+It is necessary to investigate the impedance response of these systems considering the full theoretical model of diffusion-reaction including the current generators identified by Sah.
+It is particularly important to evaluate the extent to which, and in which conditions, the effects of non-homogeneity and current generators modify the results of the simpler equivalent circuits that are widely used.
+However, it is evident in Fig. 1d that in the case when the difusion length is shorter than the film thickness, the distribution of electrons is strongly inhomogeneous.
+This should have a considerable influence in the measured impedance, both through the inhomogeneous impedance elements and the current generators.
+This suggests that important information on the photodynamics can be obtained from vibrational spectroscopy.
+Thus the important low frequency region of the GFP vibrational spectrum has not been investigated in any detail.
+Soot emissions of combustion engines are suspected to cause cancer and research on soot formation is in the focus of both science and industry.
+Benzene is commonly accepted to be a key species in PAH formation while the pathways to benzene are still discussed.
+Thus it is desirable to provide a detailed reaction mechanism which is capable to predict flame structures, e.g. species concentration profiles, and global kinetic properties like flame speeds and ignition delay times simultaneously for a broad range of fuels.
+Analysis of reaction pathways becomes more reliable with a larger set of test cases.
+The reactions of ionic metal clusters, in particular those involving transition metals, with small gas phase molecules represent convenient, relatively simple models for heterogeneous catalysis, and for these reasons they were in the last two decades extensively investigated by mass spectrometry.
+While gas phase reactivity studies on metals like niobium or rhodium can easily be done for clusters of sizes ranging up to thirty atoms, large clusters of platinum and palladium have been studied in less detail.
+All works in which the reactivity was probed in the gas phase by mass spectrometry with at least unit mass resolution, have therefore been restricted to smaller clusters, with ten atoms or less.
+Another intriguing question is whether other nucleic acid bases are also susceptible to BFPT.
+While the Z → E isomerization in all likelihood proceeds photochemically prior to the formation of lumi-R, the nature and starting of the syn → anti isomerization remain elusive issues.
+Over the past several decades there has been considerable interest in using ab initio techniques in order to calculate the infrared spectra of molecular ions, which are of interest in ion-molecule reaction schemes pertinent to the production of interstellar molecules.
+The simplest molecular ion, H3+, has played a critical role in the synergy between theory and experiment in unravelling the existence of this ion in interstellar space.
+It is hope that these calculations will assist the interstellar as well as the laboratory detection of these ions.
+These workers have also calculated the low-lying ro-vibrational states of this ion, although so far no dipole moment surface or line strengths for the rotational and ro-vibrational transitions have been determined (such information would further assist the identification of this ion in a laboratory or interstellar setting).
+Understanding the influence of hydration on molecular conformation and also on the electronic charge distribution in biological molecules, particularly in the amino acids where multiple hydration must eventually lead to zwitterion formation, is a key issue.
+Lateral transport plays a key role in biological processes such as, e.g. cellular signal transduction within the cell membrane and membrane formation.
+There are numerous indications that lipid rafts might play also a central role in diseases as, e.g. virus infections, Alzheimer and prion diseases.
+Nevertheless, thus far these ordered domains could not be directly observed.
+Little is known about the difference between these two isoforms, and less in known about their role in cell signaling.
+It is, therefore, important to study protein–protein interactions within these domains and to determine whether these interactions can change.
+On-site detection methods for DNA have been demanded in the pathophysiology field.
+Pathophysiological analysis requires a simple and accurate method, rather than high-throughput.
+Little is known about the operation of comparable synthetic mechanisms in other tissues and cell type, especially from human subjects.
+This ability is important, as these two cell types have very different functions in vivo.
+However, a detailed kinetic study of these changes has not been reported.
+The in depth knowledge of various thermodynamical properties of proteins in solution has been drawing attention of many researchers, as these form the basis for understanding their physiological functions, but also their use in drug design and formulations.
+Here the calculated liquid–liquid and solid–solid phase diagrams can be analyzed in finer details to exhibit the combined influences of the strength and range of interactions.
+Polyphenylene oligomers can exhibit intense electroluminescence and it would be of interest to study their properties when encapsulated within zeolites.
+There are a few reports on its photocatalytic and electrochemical properties, but none on photoinduced hydrophilicity of brookite films.
+Lysozyme and cytochrome C are excellent model systems since their shape is globular and very close to a sphere.
+The advantage of gas phase measurements is the applicability of spectroscopy methods such as resonant two-photon ionization (R2PI) spectroscopy combined with mass-selective detection, spectral UV/UV or IR/UV hole burning (UV/UV SHB or IR/UV SHB) spectroscopy and resonant two-colour two-photon ionization photoelectron spectroscopy (R(1 + 1′)PI PES).
+Further advantages of gas phase investigations are usually sharp spectra which reveal detailed structural information.
+Most importantly, however, gas phase data can be directly compared to theory.
+For this reason, new kinetics studies of important atmospheric processes (like reactions (1) and (2)) that focus on high accuracy are needed.
+The accuracy of the calculated PES is the target of most theoretical methods.
+Nonetheless, the nature of the structural change is not well characterized yet and under controversial discussion.
+Coexistence curves of solutions of RTILs are of technical interest in view of applications in chemical engineering as reaction media and in separation processes.
+Clearly, the knowledge of coexistence curves is essential for designing such processes.
+From a scientific point of view, RTILs are of interest for studies of the nature of the critical point in liquid–liquid phase transitions driven by Coulomb interactions.
+Therefore, it is worthwhile to investigate the critical properties of solutions of RTILs, which now are commercially available in good quality, chemically stable, and therefore well suited for accurate measurements.
+Semi-empirical crossover theory allows describing the experiments, but a physical explanation is not available.
+Therefore, precise measurements of coexistence curves are required to judge the validity of those theoretical reasoning.
+The investigation of electrochemically driven ion-transfer processes across liquid|liquid interfaces has been shown to be of fundamental interest as well as of interest for specific ion sensing in aqueous media and for the replication of redox chemistry occurring in both chemical (i.e., aqueous emulsion system, etc.) and natural systems.
+The literature has many examples of anion insertion, however, much fewer examples of cation insertion have, so far, been reported.
+It is clear that more detailed knowledge of the complexation of MnII and MnIII with bicarbonate is required for understanding the thermodynamics consequences.
+One of them, the 33 kDa protein (PsbO), is of special interest because it is ubiquitous in all photosynthetic organisms performing water-splitting and its extraction results in a strong decrease of the oxygen evolving activity.
+However, the role of H-bonds in energy deactivation and dissipation is not well understood.
+Hence, the procedures for detection were very troublesome and time-consuming and good instrumental skills were necessary.
+Such endeavours have obvious importance for more detailed descriptions of molecular interactions, and for describing ion solvation in bulk contexts.
+To date, there have been no reported electronic structure calculations or infrared spectra of the larger halide–ammonia clusters which are essential for defining cluster structures.
+Terpy, like bpy, can stabilise the +2 oxidation state of chromium and hence its complexes have some potential as optical recording materials.
+However, the signals of glutamate and glutamine overlap to a large extent both with each other and with macromolecules such as proteins, making their reliable estimation very difficult.
+These resonances can comprise 30% of the total signal, and spectral modelling is generally unable to find a unique solution to discriminating between these broad signals and the superimposed sharper peaks from small metabolites.
+Since ion solvation processes are of great importance in a wide variety of systems, hydrated ions have become an increasingly important subject of both experimental and theoretical studies.
+In ion channels of the nervous system, the binding of potassium to ligands is an essential part of the mechanism for message transport.
+In order to understand such biological processes, detailed knowledge of ion structures in solution is required.
+To the best of our knowledge, the coplanar double-cage dodecahedrane C35H30 molecule has not been reported before.
+To the best of our knowledge, however, previous work has focused almost exclusively on the MP2 approach.
+We therefore felt that there was scope to explore metallophilicity in these group 11 dimers using methods beyond MP2.
+It is now well established that there are four rows of the d-block, and we are currently embarking on an investigation of the chemistry of the transactinide (6d) elements.
+Correlation between structure and ease of reduction, which has received particular interest, remains an open question.
+Current interest in the pyrochlore structure in CZMOs is strong as its formation has been suggested to enhance oxygen storage behaviour.
+It is necessary to know the parameters that govern this process in order to evaluate the rate of transfer and thereby the compounds' budgets in either phase.
+Possibly, because of this lack of data, these species are not included in current chemical multiphase mechanisms despite of their atmospheric importance, see ref. 11 and references therein.
+While such processes have been extensively studied in gas phase species, the influence of an environment on conical intersections has not yet been systematically investigated.
+The importance of understanding environmental effects on the processes at and near CIs is highlighted by a number of recent studies of biologically relevant systems, notably the chromophores of the rhodopsin family and other photoactive proteins, porphyrin-quinone complexes as well as the building blocks of DNA.
+These studies reveal the crucial role of CIs and suggest that a solvent or protein environment has a pronounced impact on the electronic structure and CI topology.
+The study of gas-phase biomolecules is essential in order to differentiate the relative importance of the intrinsic and environmental influences on the biomolecule's conformation.
+To find the most stable hydrates, one should not only investigate clusters involving the most stable conformer, but one has to consider several of the low-lying conformers, as the interaction with water may change the relative stability of the conformers.
+To assess the impact of these chemical species on the environment, a detailed understanding of the kinetics and mechanisms of their atmospheric degradation is required.
+Trapping excess electrons in molecules and clusters either by fields of dipoles, higher multipoles or in covalent states, is a phenomenon with relevance to fundamental properties of molecular systems.
+An electron trapped in a localized bound state of the system may significantly affect its chemical and physical properties.
+The pyrrole molecule is an almost ideal model system for which the photochemical dynamics can be studied in detail.
+In addition, it is a building block of many biologically important compounds which may show related mechanisms.
+Last but not least, it plays a role in the synthesis of biologically active compounds, pesticides, organic polymers, and organometallic magnets.
+As can be seen, the absorption bands are very broad and unstructured and this has hampered their analysis for a long time.
+The analysis of the weak 240 nm band has, however, been controversial.
+Direct experimental evidence for these theoretically predicted processes had, however, been missing.
+Investigations of a transition to the high pressure range of the reaction have been made only rarely.
+However, because of the large importance of the reaction in combustion, even modest deviations may become relevant when precise rate constants are required.
+Due to restrictions of molecular diffusion near surfaces, the kinetics of heterogeneous hybridisation assays are slower, as characterised in literature.
+Although standard dual-color cross-correlation in principle allows the direct determination of slow irreversible enzymatic cleavage reactions with reaction rates of a few minutes (i.e. reactions that are clearly slower than the time needed for data acquisition), fast reaction mechanisms could so far not be resolved.
+It should be taken into account that the kinetic mechanism for the HER must be unique, independently if the reaction proceeds in the anodic (hor) or cathodic (hydrogen evolution reaction, her) direction and therefore, the set of kinetic parameters must be valid for both cases.
+Besides, the correct interpretation of the experimental results needs the appropriate description of the behaviour of the reaction intermediate H(a) and/or those of other adsorbed species.
+These two aspects should lead to a successful description of the HER in the whole range of overpotentials.
+The application of micro total analysis systems has grown exponentially over the past few years, particularly diversifying in disciplines related to bioassays.
+The influx of interdisciplinary interest offers distinct and critical benefits to the application driven life sciences.
+In order to elucidate the function of glycoconjugates on the cell surface, it is necessary to design a suitable glyco-microarray.
+The details of charge separation process are not precisely understood yet, especially with regard to the role of the “accessory” Chl on the active branch of the RC (ChlD1 according to the nomenclature in ref. 2).
+For PS II core complexes it was initially proposed that excitation energy equilibrates rapidly within several hundreds of femtoseconds between the core antenna and the RC, and that then charge separation occurs within several picoseconds (trap-limited model).
+In contrast, calculations of energy transfer rates performed on the basis of the recently published PS II structures suggested slow energy transfer from the core antenna to RC, even though most of the Chls in the core antenna are oriented in a way favourable for efficient transfer to the RC.
+It is thus desirable to develop approximations for eqn. (1) which combine efficiency and accuracy.
+Earlier investigations led to conflicting conclusions.
+A new assignment of the ring-puckering states in S1, needed to understand the molecular geometry and the anomeric effect, is still missing.
+In order to succeed in the reassignment, we need to be sure of the assignment in S0.
+ To the best of our knowledge, such techniques have not yet been applied to the analysis of information structure of scientific documents by aforementioned approaches.
+Rhetorical sentence classification is an interesting approach for making extractive summaries but this technique still needs to be developed because the performance of automatic rhetorical sentence classification is still poor.
+ Management of Chinese forests is becoming increasingly complex, involving a variety of data sets, software, and computing environments.
+Virtual Reality (VR) is an emerging technology and is disrupting various parts of the businesses.
+ The need for developing a low-cost assistive system for the visually impaired and blind people has increased with steady increase in their population worldwide.
+Trials to introduce artificial intelligence (AI) in clinical settings have been done for several decades, but the movement toward such introduction remains slow.
+ As civilization progressed in the digital age, a need for the human establishments to keep up with this progress arose.
+ In medical practice, there is no appropriate widely-used application of a system based on artificial intelligence (AI) for identifying defects in the movement of human legs, or for controlling the actuators of prosthesis.
+ However, it should be noted that artificial intelligence is still in its infancy, and there are still many areas that need to be improved.
+Latest research experiences show that it is nearly impossible to design a recognizer that covers all words uttered during the practical applications.
+Due to the massive size of the web, it is practically impossible to download the whole web.
+However, in this big data era, getting the right information is not an easy task.

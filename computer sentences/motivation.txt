@@ -1,0 +1,146 @@
+ For example, a variety of applications in the aircraft, automotive, and energy exploration industries require power conversion systems to operate at an ambient temperature significantly > 200 °C, far beyond Si material limits.
+ These devices enable power electronics systems to reach ultrahigh efficiency and high-power capacity needed for various smart grid and renewable energy system applications such as photovoltaic (PV), wind, energy storage, electric vehicle (EV), flexible ac transmission system (FACTS), and high voltage dc (HVDC) transmission.
+ This paper intends to provide a comprehensive and comparative discussion of these important power device technologies that are critical for industrial, smart grid, and renewable energy applications.
+ To do so, they must create motivating processes to promote satisfaction and knowledge consolidation during their transference.
+ As most of weapon systems complicated functionalities and controls are implemented by software which is embedded in hardware systems, it became more critical to assure high reliability for software itself.
+ In order to support more complex functionalities required from the users, some of mission-critical parts of systems are controlled by only software.
+ Therefore, it has become very important to implement and/or acquire high reliable software systems.
+ For this reason, it is required to consider not only test activities but also the whole life cycle in order to guarantee high reliable software systems.
+ With convenience of Internet, e-Learning provides a more effective and facility platform for learners.
+ To provide a good learning environment, it is important to simulate the employees managed by the player as realistically as possible.
+ Therefore, there exists an increasing demand to provide reliable software products.
+ Software is embedded in everything and plays an important role from expensive scientific computing systems, financial banking systems or university computer centers to general industrial applications or home personal computers.
+ Since these demands for complex and large-scale software systems have increased more rapidly than before, the possibility of programmers' design errors and incompleted debugs will grow relatively.
+ To remedy this deficiency and provide useful data to other researchers we conducted a survey study on the current RE state of practice.
+ The motivation behind this paper is to contribute to this debate and to empirically investigate whether the RE discipline has indeed been impacted negatively with the agile processes.
+ To remedy this deficiency and provide useful data to other researchers we conducted a survey study on the current RE state of practice.
+ Till date, various processes and methodologies have been developed over the last few decades in order to improve software quality, efficiency of the product and most important accuracy.
+ To remedy this deficiency and provide useful data to other researchers we conducted a survey study that drew participants from wide range of professions, industries and geographic locations.
+ To remedy this deficiency and provide useful data to other researchers we conducted a survey study on the current RE state of practice.
+############################################
+ After transmission of these watermarked images to receiving end, the receiving end will extract the shares from watermarked images and stacking of these extracted meaningful shares will generate the original secret image.
+ A typical image watermark algorithm must satisfy the following properties: imperceptibility, robustness, capacity, security.
+ In order to communicate with nodes outside their direct wireless transmission range, nodes forward packets for other nodes, resulting in multi-hop routes.
+ All the nodes are preload with a global symmetric key, which is vulnerable to any point of compromise: If any single node is compromised, the security of the entire network is collapsed.
+ On one hand there is Moore's Law, which seems to continue inexorably1, making traditional computing systems more capable than ever before.
+ Indeed, lattice-based cryptography promises to enhance security for long-lived systems, i.e., critical infrastructures, as well as for safety-critical devices such as smart medical implants [13].
+ In order to provide more flexibility, we consider both a full distribution system and a partial distribution system.
+ To support our idea, we implement our schemes in OPNET to analyze its efficiency and practicality.
+It is said that “One picture is worth more than thousand words” as it can provide clear and more pictorial information than the information collected from the description for human interpretation.
+ Various confidential data such as military maps and commercial identifications are transmitted over the Internet.
+ The secret will be visible if any k (or more) transparencies are stacked together; but none secret information will be revealed if the stacked transparencies are fewer than k.
+  In this paper, we are interested in enhancing the TCP performance during a transient failure.
+ This is very useful to find the Spoofed IP Packets/TCP SYN flood and preventing them.
+ There is no security built into the Internet infrastructure to protect hosts from other hosts and regulating their own behavior.
+ Attackers can forge the source address of IP packets to maintain their secrecy and also to redirect the blame for attacks.
+This attack prevents legitimate users from accessing the regular Internet services.
+ Fingerprinting is not reliable enough to depend on.
+ However, because of performance concerns and some incompatibilities with TCP extensions, such as large windows, operating systems generally do not activate the SYN cookie mechanism until the host's SYN queue fills up.
+ Administrators may be able to forcibly enable SYN cookies for all connections, but should be aware of the side effects.
+ New extensions are required to support network mobility.
+A lot of researches have been done in recent years to enhance the performance of TCP in wireless mobile networks.
+ To our knowledge this is the first treatment of this issue.
+ In building a weather station, it is needed a network to transmit the data of weather condition to the base station.
+But most of these stations are only in one direction to send the information to the base station.
+User just only see the weather information report at the base station without being able to do something to change the configuration or another important setting in weather station.
+  Of the six papers [1]–[2][3][4][5][6], the remote control is designed to devices in order to set or control the devices through the TCP/IP network.
+This paper studies the TCP/IP communication issue of data stream in networked control systems (NCS).
+To realize such an Internet based control, the key issue is how to realize an unseemly and safely link between the field control network and the outside network.
+ In addition, it slows down the data processing speed [5].
+ Therefore, in order to ensure the rapid and reliable communication as well as reducing the code redundancy, the TCP/IP protocol stack applied in the test terminal must to be simplified for accomplishing the network communication with the embedded equipment [6].
+In order to meet the actual requirements of the test terminal of the electricity information acquisition test system, this protocol stack based on basic function of the TCP/IP protocol stack adopts the client/server flexible switch mechanism to make the test terminal acted as a dual communication role of the client and the server.
+ There need reliable error check code when water meter data transmitting.
+ The practice shows that good teaching result will be received with the aid of Wireshark and it is worth popularization and application.
+The rapid deployment of ad hoc networks has been motivated the research of efficient solutions to better information delivery.
+In order to overcome the limitations, approximate decoding is proposed in [4], which exploits source correlation and uses it for data recovery approximately.
+ Ultimately, this will result in the students' increased ability to do work in their respective areas.
+ The formers of this operation neglect the interrelationship between the hazards (the hazards may not be independent).
+ They take the hazards into account, but they neglect the favorable information.
+ This operation can find high-risk applicants, but may not be good at finding moderate-risk applicants.
+The surprising development of information technology has created a new vision for network learning that its influence has already spread over the world to facilitate educational innovation.
+ Therefore, many countries have been paying attention to computer technology and expect it can facilitate the education reform in an effective and efficient ways.
+ Accordingly, the learners can voluntarily construct their own knowledge since the theme is strongly connected with our daily life and developed from learners' willingness.
+ When learners engage in the theme-based learning processes on Web, they are experiencing the activities of exterior and interior circulation synchronously.
+The learners engaged into the theme-based learning can propose their own interested topics to ask for feedback from other team members.
+ Notably, the interaction of learners on the learning platform can influence the relatively inactive learners to trigger their interests effectively on some specific topics through the events and activities originated by their team members.
+ It can improve classification accuracy by up to more than 10%, even when the connection between the auxiliary and the target tasks is not apparent.
+ Because of this, potential malicious attacks and compromised hosts may be missed.
+ The first group is data scientists or machine learning researchers who do not have cyber security domain knowledge but want to build machine learning systems for security operations center.
+ The second group of audiences are those cyber security practitioners who have deep knowledge and expertise in cyber security, but do not have machine learning experiences and wish to build one by themselves.
+Recent developments in information systems as well as computerization of business processes by organizations have led to a faster, easier and more accurate data analysis.
+With the rapid development of e-commerce, financial data mining has been one of the most important research topics in the data mining community.
+ It is impossible to consider all training data simultaneously to accurately estimate the class distributions.
+ Its basic idea is to find the hyperplane which can separate data belonging to two classes with maximum margin.
+In order to accurately build the learner's learning style in E-Learning, according to the needs and preferences to provide personalized learning materials and harmonious human-computer interaction environment.
+Clear understanding of potential attacks against machine learning systems is of paramount importance.
+The theory of machine learning in metric space is a new research topic and has drawn much attention in recent years.
+ So far, SVMs have already been successfully applied to many real fields[15], [16].
+ It is necessary to develop a learning machine in general spaces.
+####################
+This paper also emphasizes the need for semantics in current recommendation system to recommend products accurately. 
+With the development in ubiquitous computing and networking, distance education has become one of the most popular ways people study.
+Along with the rapid development of network education, it becomes an urgent demand to provide personalized services for users in distance educational system.
+ The paper mainly introduces how to find user's individual characteristics and how to recommend educational resources for users.
+ Therefore, drawing the personalized feature into distance education to filter educational resources and realizing personalized recommendation service is very necessary.
+ It is of great significance to meet the user's personalized demand and achieve the effective utilization of resources.
+ RSs are useful in many domains, such as web personalization, information filtering and e-commerce.
+ To efficiently support software engineers, recommendations must consider knowledge bases of discrepancies and resolution options.
+ With millions of candidates browsing through job postings everyday, the need for accurate, effective, meaningful, and transparent job recommendations is apparent more than ever.
+ However, asking users to rate or rank jobs based on their relevance is not realistic or applicable in a realworld recruiting systems.
+ The existing studies have not addressed this issue.
+ Combining online news websites with various activities can attract more users and create more benefits.
+With the rapid growth of social tagging users, it becomes very important for social tagging systems how the required resources are recommended to users rapidly and accurately.
+ In group-oriented recommendation field, the design of a commonly acceptable recommendation list is a tough task.
+In recent years, the recommendation system has gradually become an important tool for people to find useful information from massive data[1], [2].
+ It is estimated that there are about 65 million patients in globe suffering from epilepsy and epilepsy, if not impossible, is extremely hard to cure eventually.
+ By exploiting the patients' electronic medical records, the system is designed to implement collecting, searching, statistical analysis, drug diagnosis and other functions as well to carry out a deep analysis on in order to achieve effective treatment of epilepsy drugs.
+ But with the rapid development of the network, the exponential growth of information makes people ineffective to get useful information.
+ An excellent recommendation system will not only provide users with personalized service, but also establish a close relationship between users, making users becoming dependent on the recommendation.
+Although search engine [1] and some portal sites filter information to a certain extent, traditional search engines seem not enough for information that cannot be explicitly described in language.
+ At almost the same time, SIGCHI'99—International Conference on man-machine interface [10], also set up a research and development organization in order to enable personalization technology developed rapidly in a short time.
+ technology and e-commerce, recommendation system has become an important research component, and was gradually applied to various fields.
+ This increased interaction which helps people and individual users to get the best recommendation, which tries to satisfy people's likes and needs.
+ However, the exploration of deep neural networks for content based recommendation has received a relatively less amount of inspection.
+ Each recommendation scenario has its unique attributes which creates the need for different approaches in building recommendation systems.
+Although these types of recommendations are useful and effective to users who visit a landmark or view a scene, it cannot meet the requirement for users who would like to take a nice photo at a view point.
+ The traditional tourism industry is increasingly unable to meet the needs of users.
+ Therefore, there is a need for more accurate means to interlink them in a social-enhanced interest network, and to analyze and quantify the social influence.
+ Therefore, there is a need for more accurate means to capture and model the interests of the user across domains, and to interlink them in a social enhanced interest network, in order to provide rich recommendation using the intrinsic links among services [3].
+ With the development of the research, the new e-commerce recommendation system should take advantage of as much information as possible, collect various types of data, efficiently integrate multiple recommend technologies in order to provide more effective recommendation services.
+ Alone, these algorithms are failed to recommend best and efficient recommendations to user.
+ So how to find useful information becomes more and more important.
+ So it can help them to find the news they are interested in and save much time.
+ This demands a new paradigm of making user-customizable recommendations that give a combination of similar and surprising items.
+ Universities offer learning objects in each semester where student's background, expertise and interest are not fully considered.
+ Effective recommendations for group of users to minimize the dissatisfaction among users in the group have become an important research question [2].
+Most of the existing learning objects recommender systems are not capable of extracting knowledge-based information and considering multiple factors to advice students, while recommending learning object set to students.
+ This is what we want to provide; a recommendation system capable of providing a set of learning objects which is more appropriate to students.
+ However, devices still need to be controlled by users.
+ It not only help users maintain their relationships, but also expand their interest and explore potential friends with the same interests.
+ However, there is relatively few research on the algorithms that recommend potential friends to users.
+Many companies depend on recommender systems to help drive their revenue, like Netflix [3], Amazon [4], Career-Builder [5], etc.
+ Netflix, like many other websites, depends heavily on recommendations in order to keep their customers interested in their service.
+ Many of these diseases remain unnoticed for a longer duration, which leads to their unchecked progression.
+ Hence, there arose a need to develop an intelligent agent that could combine many classification algorithms and produce more certain, precise and accurate results.
+ So in practical work, how to get better classification effect in limited sample condition are important issues that the remote sensing workers need to resolve.
+ With the development of audio recognition and research, more and more attention has been paid to the field of music emotion classification.
+  Twitter sentimental analysis and Twitter topic classification are two current areas in which researchers are currently working.
+ It is useful and helpful for the construction of the statistical and rule-based classification of Tibetan texts as well as construction of high-quality Tibetan corpus.
+ It has drawn more and more attention since accurate classification can reduce searching time and expediate matching speed [1].
+ In order to determine when the Gaussian filtered spatial information is sufficient, an automatic stopping rule is also proposed.
+ Sites have been increasing dramatically, introducing new forms of information and at the same time the need for faster, more reliable and more efficient information retrieval.
+ The task of genre classification was performed manually in early days.
+ The musical genre classification is labeled manually and it is very hard to define precisely music piece to correspond musical genre.
+Although there have been many attacks against Tor, few have focused on the disclosure of privacy through application type information.
+ Other alternatives [1], [4] for aggregations need huge cost to carry out data analysis for the entire dataset, which is not suitable for frequent iterations in clustering.
+ Due to irreplaceable battery powered devices, which are installed such as hazardous places, energy conservation is main concern to make the network last long.
+ Fuzzy clustering from the sample to the category of uncertainty description, it is possible to more objectively reflect the real world.
+ Therefore, how to determine the clustering of the best number of fuzzy clustering analysis has become a major research topic.
+ But their main flaw is the lack of direct correlation between certain characteristics of their monotonous trends and the data itself.
+ Furthermore, small-to medium-sized HPC sites tend to have very limited resources for user support and application performance tuning.
+Give the users instant feedback and live performance data of their jobs.
+Idendify applications with significant optimization potential and provide initial profiling data.
+ Monitoring systems require a node level data acquisition agent, an infrastructure for collecting and storing the data, some means of connecting job information to monitoring data and finally a front-end for analyzing, processing and presenting the data in a meaningful and accessible way.
+Fine-grained venue discovery from a photograph was almost impossible years ago because we lack reliable venue data sources.
+ To the best of our knowledge, this is the first study that focuses on the joint optimization by visual and textual diversity of venues over an integrated venue-related multimodal data.
+ Although each featured article of a venue in Wikipedia contains rich text information about the venue, its accompanying photograph cannot well represent all the visual information.

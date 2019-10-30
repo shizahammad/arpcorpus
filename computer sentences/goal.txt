@@ -1,0 +1,60 @@
+We present a flexible approach that emphasizes writing specialized code that is refactored only when future immediate scientific goals demand it.
+To achieve the maximum productivity using minimum resource is the aim of any software industry.
+ The goal of software engineering is to produce the software within the estimated budget, delivered [6] on time and caters the user's requirement.
+ However, a properly managed project in a matured software engineering environment can consistently achieve this goal.
+The goal of Software Engineering is to provide models and processes that lead to the production of well-documented maintainable software in a manner that is predictable.
+ Moreover, the aim of software engineering is to create a suitable work that constructs programs of high quality.
+ But this cannot be a jive for a company; the main goal of a process is to render the designers and programmers' thought processes in such a way that their objective is unambiguous.
+ A goal of the defined process must then be to identify and prototype possibilities for improvement in the process itself.
+ The goal is to develop a product according to design parameters that were defined initially while trying to improve the cost efficiency of the proj ect [6].
+More recent approaches for increasing efficiency in product development aim at improving this methodology through eliminating waste by better matching customer requirements initially, evenly distributing workload and avoiding iterations [1].
+ These tests aim to test all of the requirements.
+###########################
+In this paper, we present an idea of adopting certificateless public key encryption (CL-PKE) schemes over mobile ad hoc network (MANET), which has not been explored before.
+ In this paper, we propose a novel yet simple algorithm called duplicate acknowledgement suppression (DAS) for enhancing the TCP performance in the presence of IPFRR.
+ Our goal is to improve the end-to-end performance for On-Board IP Networks without changing existing TCP implementation.
+The objective of this research is how to control the properties of the weather station over the TCP/IP network remotely.
+ In this paper, we propose the control program to set up the weather station configuration over TCP/IP network and we adopt the client-server mode to arrange the transmission line of request and the response message between the devices.
+In this paper, we consider an implementation of approximate decoding algorithm that enables receivers to recover source data from insufficient number of network coded symbols.
+In this paper we proposed a novel algorithm that firstly mines the insured data by association rule [4], [5], trying to find the relationship among all personal statement and physical examination items.
+Transfer learning aims to improve a targeted learning task using other related auxiliary learning tasks and data.
+ In this paper, we develop a user-centric machine learning framework for the cyber security operation center in real enterprise environment.
+ In principle, all parameters are able to be established by nonlinear multi-parameter regression method, but it is very complex to realize the model, complex partial derivative need be calculated, in addition, there is large deviation between fitted static parameter and actual value, at the same time, physical conception isn't clear, it is ultimate goal that designers obtain fatigue crack propagation rate curve simply and reliably[1]–[2][3][4].
+The objective of this work is to propose a machine learning-based methodology system architecture and algorithms to find patterns of learning, interaction, and relationship and effective assessment for a complex system involving massive data that could be obtained from a proposed collaborative learning environment (CLE).
+This paper is an extension of our ongoing work [3], [4] and here we present details regarding the ML architecture for data-intensive computing and efficient assessment.
+ In this paper, we use deep learning techniques to find the best initial weights.
+ In this paper, motivated by developing a new support vector machine (SVM) in fuzzy number space, we present a necessary and sufficient condition of separating two finite classes of samples by a hyper-plane in n-dimensional fuzzy number space.
+ A necessary and sufficient condition of separating two finite classes of samples by a hyper-plane in n-dimensional fuzzy number space is presented in this paper.
+######################
+ With this motivation, our goal is to build an effective recommendation system to improve the job search process by harnessing multiple signals of relevance and providing job seekers (i.
+ In this paper, an agent-based intelligent social tagging system is presented, with its architecture being constructed.
+ In this paper, we take real medical electronic cases to conduct large data analysis, and propose a drug recommendation system by Implicit Feedback and Crossing Recommendation (IFCR) to help doctors choose drugs.
+ The proposed system aims to investigate epileptics' medical history in order to find the relationships between the syndromes and the drugs.
+ The aim of anti-epileptic treatment should control seizures as quickly as possible with minimal side effects and without negative impact on the quality of life.
+This paper aims to establish a recommendation system and take patients with epilepsy as the object of service.
+ The main purpose of IPPN is to discover a set of users that maximizes total response with respect to a push item.
+ Our objective is to recommend recipes to maintain health condition for people with disease and without disease which will satisfy the user needs.
+The objective of this paper is to suggest recipe using constraint satisfaction problem (CSP) and forward checking algorithm (FCA).
+ In this paper, we build a personalized spots route recommendation system based on scenic spots around Xiamen University in order to make personalized recommendations for users.
+ The objective of this system is to generate accurate recommendations in domains where users are looking for a more complete experience, in terms of joint item selections, and where the complexity of the related information cannot be evaluated and treated efficiently using the actual systems, like in the music playlist recommendations.
+In this paper, we present a Recommendation Framework for music playlists recommendations with the intention to better address the above issues.
+Surprising recommendation (SR) algorithms aim to identify and recommend novel items that are unexpected to the user, but, at the same time, will have a good chance of being favored by the user.
+ In this paper, we focus on designing a recommender system which will recommend a set of learning objects to multiple students.
+ The work presented in this paper intends to facilitate universities to offer best suitable set of learning objects to students and enable them to select appropriate learning objects.
+ In this paper, we present a novel recommendation email system that not only generates recommendations, but which also leverages a combination of individual user activity data, as well as the behavior of the group to which they belong, in order to determine each user's likelihood to respond to any given set of recommendations within a given time period.
+In this paper we describe a novel system to address the three dimensions of a recommendation email system in order to maximize the aggregate response rate through sending the right content to the right people at the right time.
+ In this paper, we present a novel classifier for classification in the field of Medical Data Mining.
+ The objective is to generate more certain, precise and accurate results, as stated by Kesavaraj and Sukumaran [1], which would help in better detection of diseases.
+This paper aims to classify the growing number of real-time traffic during the secure access process of the power system more effectively and to improve the speed of business processing of the power system.
+ The two algorithm approaches have been suggested in this paper is meant to seek more accurate means for multi-class image classification.
+ Beside that, this study aim to overcome the imbalanced class distribution problem on a multiclass data because most of all data on EDM is a multiclass dataset.
+ The research purpose is to build the classification system based on Tibet web pages and accelerate Tibetan information processing.
+In this paper, an effective music genre classification algorithm using sparse representation based classification (SRC) and wavelet packet transform (WPT) with discrete trigonometric transform (DTT) is developed for improving the classification performance.
+ This paper presents a parallel classification algorithm based on hybrid genetic algorithms (PC-HGA), which aim to overcome these shortcomings and improve the efficiency and accuracy of classification rule mining.
+ The goal of classification is to find a rule which is able to predict the class of test samples on the premise that training samples from different class is given.
+ In this paper we provide and analyze a novel algorithm to achieve high performance and speedup.
+To facilitate consolidation and management of heterogeneous HA Clusters, ConHA, an SOA-based API Gateway is proposed in this paper.
+ In this paper, we will measure the quality of clusters with the help of three parameters: Cohesion measurement, Silhouette index and Elapsed time.
+ In this paper, by adopting the idea of hierarchical clustering, one can automatically and efficiently determine the optimal number of clusters of new adaptive fuzzy c-means clustering algorithm-A-FCM algorithm.
+ Our goal is fine-grained venue discovery from heterogeneous social multimodal data.
+In this work, we investigate venue-related multimodal data from Wikipedia and Foursquare, and study: 1) exact venue search (find the venue where the photograph was taken) and 2) group venue search (find relevant venues that have the same category as the photograph) in a joint framework for fine-grained venue discovery.
